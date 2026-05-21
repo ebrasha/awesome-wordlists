@@ -27,6 +27,16 @@ The datasets in this repository are categorized systematically to optimize speed
 
 ---
 
+## ⚖️ Legal Disclaimer
+
+**Important Notice:** This repository and the datasets provided herein are created strictly for educational purposes, authorized penetration testing, and security auditing. 
+
+*   **User Responsibility:** The ultimate responsibility for the usage of these wordlists lies entirely with the end-user. The author assumes no liability and is not responsible for any misuse, unauthorized attacks, data breaches, or legal consequences caused by the utilization of these files.
+*   **Compliance:** Ensure you have explicit, written permission from the target organization or asset owner before initiating any form of security assessment, dictionary attack, or fuzzing. 
+
+By cloning or using this repository, you agree to these terms and acknowledge that your activities must strictly adhere to local and international laws regarding cyber security.
+
+
 
  ## 🐛 Reporting Issues
 
