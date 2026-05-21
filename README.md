@@ -2,7 +2,7 @@
 
 
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](#)
+
 
 A centralized, highly optimized repository of wordlists, dictionary attack data, and advanced fuzzing payloads tailored for security professionals, penetration testers, and ethical hackers. 
 
