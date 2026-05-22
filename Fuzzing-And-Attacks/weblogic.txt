@@ -34,7 +34,7 @@ HTTPClntClose
 HTTPClntClose/*
 HTTPClntLogin
 HTTPClntLogin/*
-HTTPClntRecv
+#HTTPClntRecv
 HTTPClntRecv/*
 HTTPClntSend
 HTTPClntSend/*
@@ -62,7 +62,6 @@ WebServiceServlet
 _async
 _async/*
 _async/AsyncResponseService
-_async/AsyncResponseService
 _async/AsyncResponseServiceHttps
 _async/AsyncResponseServiceJms
 _async/AsyncResponseServiceSoap12
@@ -77,7 +76,6 @@ actions
 admin/login.do
 applet
 applications
-appmanager
 appmanager/*
 asyncServlet
 asyncServlet/main.jsp
@@ -108,14 +106,15 @@ bea_wls_internal/HTTPClntClose
 bea_wls_internal/HTTPClntClose/*
 bea_wls_internal/HTTPClntLogin
 bea_wls_internal/HTTPClntLogin/*
-bea_wls_internal/HTTPClntRecv
-bea_wls_internal/HTTPClntRecv/*
+#bea_wls_internal/HTTPClntRecv
+#bea_wls_internal/HTTPClntRecv/*
 bea_wls_internal/HTTPClntSend
 bea_wls_internal/HTTPClntSend/*
 bea_wls_internal/WLDummyInitJVMIDs
 bea_wls_internal/WebServiceServlet
 bea_wls_internal/a2e2gp2r2/x.jsp
 bea_wls_internal/classes/
+bea_wls_internal/classes/ 
 bea_wls_internal/classes/*
 bea_wls_internal/classes/META-INF/MANIFEST.MF
 bea_wls_internal/com/*
@@ -125,8 +124,8 @@ bea_wls_internal/iiop/ClientClose
 bea_wls_internal/iiop/ClientClose/*
 bea_wls_internal/iiop/ClientLogin
 bea_wls_internal/iiop/ClientLogin/*
-bea_wls_internal/iiop/ClientRecv
-bea_wls_internal/iiop/ClientRecv/*
+#bea_wls_internal/iiop/ClientRecv
+#bea_wls_internal/iiop/ClientRecv/*
 bea_wls_internal/iiop/ClientSend
 bea_wls_internal/iiop/ClientSend/*
 bea_wls_internal/psquare/x.jsp
@@ -163,10 +162,10 @@ consolehelp/index.jsp
 cookies
 default
 docs
-docs51
 docs/SamplesSearchServlet/*
 docs/core/index.html
 docs/index.html
+docs51
 domain
 drp-exports
 drp-publish
@@ -311,7 +310,6 @@ web
 web.xml
 webappCachingEar
 weblogic
-weblogic90
 weblogic.cluster.GroupMessageHandlerServlet
 weblogic.cluster.MulticastSessionDataRecoveryServlet
 weblogic.cluster.StateDumpServlet
@@ -328,7 +326,7 @@ weblogic.testclient.CallbackHandler
 weblogic.wsee.async.AsyncResponseBean
 weblogic.wsee.async.AsyncResponseBeanSoap12
 weblogic.xml
-weblogic/ready
+weblogic90
 webservice
 webservicesJwsSimpleEar
 webshare
@@ -343,16 +341,7 @@ wl_management_internal2/Bootstrap
 wl_management_internal2/FileDistribution
 wl_management_internal2/wl_management
 wliconsole
-wls-wsat/CoordinatorPortType
-wls-wsat/CoordinatorPortType11
-wls-wsat/ParticipantPortType
-wls-wsat/ParticipantPortType11
-wls-wsat/RegistrationPortTypeRPC
-wls-wsat/RegistrationPortTypeRPC11
-wls-wsat/RegistrationRequesterPortType
-wls-wsat/RegistrationRequesterPortType11
 wls_utc
-wls_utc4
 wls_utc/*.do
 wls_utc/*.jpf
 wls_utc/*.render
@@ -364,6 +353,7 @@ wls_utc/index.html
 wls_utc/index.jsp
 wls_utc/messageLog.jsp
 wls_utc/selectWsdl.jsp
+wls_utc4
 wlserver
 wlstestclient
 wsee
