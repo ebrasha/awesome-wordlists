@@ -1,0 +1,1 @@
+How can I avoid using designs that do not take into account the mobile device's speed and performance?

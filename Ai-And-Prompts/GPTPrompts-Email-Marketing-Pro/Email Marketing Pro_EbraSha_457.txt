@@ -1,0 +1,1 @@
+How can I use mobile-specific email triggers to automate the sending of targeted emails based on subscriber behavior on mobile devices.
