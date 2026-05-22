@@ -1,0 +1,1 @@
+How do I design the schema of a database in no-code?

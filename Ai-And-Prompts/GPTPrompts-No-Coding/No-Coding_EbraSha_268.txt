@@ -1,0 +1,1 @@
+How do I perform database aggregations, such as summing and averaging, in no-code?
