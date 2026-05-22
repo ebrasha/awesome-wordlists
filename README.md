@@ -4,7 +4,7 @@
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
 
-A centralized, highly optimized repository of wordlists, dictionary attack data, and advanced fuzzing payloads tailored for security professionals, penetration testers, and ethical hackers. 
+The most comprehensive repository on GitHub, serving as a centralized, highly optimized master collection of wordlists, dictionary attack data, and advanced fuzzing payloads tailored specifically for security professionals, penetration testers, and ethical hackers.
 
 ---
 
@@ -18,12 +18,31 @@ This repository was created to bridge that gap. It serves as an essential infras
 
 ## 📂 Repository Contents & Structure
 
-The datasets in this repository are categorized systematically to optimize speed and success rates during active engagements:
+The datasets in this repository are strategically categorized and optimized to maximize speed, minimize noise, and ensure high success rates during active penetration testing and ethical hacking engagements. Below is a comprehensive breakdown of the structural blueprint of this repository:
 
-*   **Authentication & Credentials:** Curated lists of default credentials, common passwords, leaked patterns, and optimized usernames for robust dictionary attacks and credential stuffing.
-*   **Web Fuzzing & Discovery:** Directories, file extensions, hidden paths, and API endpoints designed to map attack surfaces effectively.
-*   **Injection & Mutation Payloads:** Advanced patterns categorized by vulnerabilities including SQLi, NoSQLi, XSS, Command Injection, Directory Traversal, and HTTP Header manipulations.
-*   **CMS & Platform Specifics:** Tailored wordlists targeting specific environments (WordPress, Joomla, Apache, Nginx, etc.) to minimize noise and focus discovery.
+### 🤖 1. Artificial Intelligence (AI) & LLM Security (`/Ai`)
+A cutting-edge collection engineered for adversarial testing, safety alignment verification, and red-teaming of modern LLMs and AI models:
+* **Bias & Fairness Testing:** Standardized dictionaries (`gender_bias.txt`, `race_ethnicity_bias.txt`) to audit model alignments.
+* **Data Leakage & Privacy:** Targeted payloads to simulate accidental PII retrieval and metadata exposure (`personal_data.txt`).
+* **Adversarial & Jailbreak Prompts:** Historical and evolved prompt injection sets designed to bypass model boundaries and test strict alignment constraints.
+
+### 🔍 2. Web Fuzzing, Asset Discovery & Reconnaissance (`/Discovery`)
+Comprehensive lists structured to aggressively map out an enterprise attack surface across network, application, and infrastructure layers:
+* **Directory & File Enumeration:** Includes high-fidelity wordlists like the curated `raft` and `DirBuster` series for identifying hidden web paths, system backdoors, and shell locations.
+* **Infrastructure & Network:** Subdomain enumeration lists (including Top 1M combined variants), common web extensions, service names, and customized SNMP community strings (`snmp.txt`).
+* **CMS & Environment Contexts:** Highly specific endpoints for enterprise systems and Content Management Systems including comprehensive paths for WordPress plugins/themes, Drupal, Joomla, Apache, Nginx, Tomcat, and WebSphere.
+
+### 🔑 3. Authentication & Credentials (Passwords & Leak Datasets)
+Master lists focused on high-speed credential stuffing, default-access auditing, and sophisticated brute-force dictionary attacks:
+* **Leaked Credentials & Dumps:** Optimized variations of legendary breach datasets (such as sorted `rockyou` shards, `myspace`, and historical leaked community patterns) with or without occurrences count.
+* **Default Access Logs:** Extensive mappings of default vendor accounts, standard router passwords, CICS transaction IDs, and multi-vendor CCTV/DVR credential profiles.
+* **Targeted Environments:** Tailored credential files structured for specific network protocols (SSH, Telnet, Database roots, and IPMI profiles).
+
+### ⚡ 4. Injection, Fuzzing & Mutation Payloads
+Advanced payloads compiled to validate application-layer flaws and filter out non-exploitable edge cases:
+* **Server-Side Flaws:** Dynamic lists targeting Local File Inclusion (LFI) optimized for Unix/Windows paths, Remote File Inclusion, and system variable overrides.
+* **Web Native Components:** Comprehensive mappings for parameter mining (`burp-parameter-names.txt`), API discovery (`api-endpoints.txt`), and custom PHP fuzz lists designed to break input validation filters.
+
 
 ---
 
