@@ -1,5 +1,7 @@
 # Ultimate Wordlists Collection for Penetration Testing, Brute-Force & Web Fuzzing
 
+> 🌐 **Read in your language:** 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇷🇺 [Русский](README.ru.md) | 🇪🇸 [Español](README.es.md) | 🇯🇵 [日本語](README.ja.md) | 🇮🇷 [فارسی](README.fa.md) | 🇸🇦 [العربية](README.ar.md) | 🇹🇷 [Türkçe](README.tr.md) | 🇩🇪 [Deutsch](README.de.md) | 🇮🇳 [हिन्दी](README.hi.md)
+
 
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
