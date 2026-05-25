@@ -13,7 +13,7 @@
 
 <div align="right">
 
-**فارسی 🇮🇷** | [English 🇬🇧](README.md)
+> 🌐 **مطالعه به زبان شما:** 🇬🇧 [English](README.md) | 🇮🇷 [فارسی](README.fa.md) 
 
 </div>
 
