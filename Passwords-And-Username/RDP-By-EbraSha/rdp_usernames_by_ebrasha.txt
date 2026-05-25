@@ -2,7 +2,7 @@
 # -------------------------------------------------------------------
 # Project Name : RDP Penetration Testing Wordlists
 # File Name    : rdp_usernames.txt
-# Programmer   : Ebrahim Shafiei (EbraSha)
+# Maintainer   : Ebrahim Shafiei (EbraSha)
 # Email        : Prof.Shafiei@Gmail.com
 # Created On   : 2026-05-25 07:28:15
 # Description  : Curated list of the most probable usernames used on
