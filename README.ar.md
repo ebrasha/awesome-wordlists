@@ -6,6 +6,10 @@
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
 
+<p align="center"><img src="shot.jpg?raw=true"></p>
+
+
+
 المستودع الأكثر شمولاً على GitHub، ويعمل بمثابة مجموعة مرجعية مركزية ومُحسَّنة بدرجة عالية تضم قوائم كلمات (Wordlists) وبيانات هجمات القاموس وحمولات فازينج (Fuzzing) متقدمة، مُصمَّمة خصيصاً لمحترفي الأمن السيبراني ومختبري الاختراق والهاكرز الأخلاقيين.
 
 ---

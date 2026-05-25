@@ -6,6 +6,10 @@
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
 
+<p align="center"><img src="shot.jpg?raw=true"></p>
+
+
+
 The most comprehensive repository on GitHub, serving as a centralized, highly optimized master collection of wordlists, dictionary attack data, and advanced fuzzing payloads tailored specifically for security professionals, penetration testers, and ethical hackers.
 
 ---

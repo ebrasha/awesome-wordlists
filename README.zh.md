@@ -6,6 +6,10 @@
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
 
+<p align="center"><img src="shot.jpg?raw=true"></p>
+
+
+
 本仓库是 GitHub 上最全面的字典资源库,作为一个集中化且高度优化的主集合,专门为安全专业人员、渗透测试人员和道德黑客整理了字典、字典攻击数据以及高级模糊测试载荷。
 
 ---

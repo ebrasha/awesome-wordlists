@@ -6,6 +6,10 @@
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
 
+<p align="center"><img src="shot.jpg?raw=true"></p>
+
+
+
 GitHub 上で最も網羅的なリポジトリであり、セキュリティ専門家、ペネトレーションテスター、そしてエシカルハッカーのために特別に整備された、ワードリスト・辞書攻撃データ・高度なファジングペイロードを集約・最適化したマスターコレクションとして機能します。
 
 ---

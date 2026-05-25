@@ -6,6 +6,10 @@
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
 
+<p align="center"><img src="shot.jpg?raw=true"></p>
+
+
+
 El repositorio más completo de GitHub, que sirve como una colección maestra centralizada y altamente optimizada de diccionarios, datos para ataques de diccionario y cargas útiles avanzadas de fuzzing, diseñada específicamente para profesionales de seguridad, pentesters y hackers éticos.
 
 ---

@@ -6,6 +6,9 @@
 [![Security](https://img.shields.io/badge/Security-Pentesting-red.svg)](#)
 
 
+<p align="center"><img src="shot.jpg?raw=true"></p>
+
+
 GitHub üzerindeki en kapsamlı depo; güvenlik uzmanları, sızma testi uzmanları ve etik hackerlar için özel olarak hazırlanmış wordlistlerin, sözlük saldırısı verilerinin ve gelişmiş fuzzing payload'larının merkezîleştirilmiş ve son derece optimize edilmiş bir ana koleksiyonu olarak hizmet vermektedir.
 
 ---
