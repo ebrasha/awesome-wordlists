@@ -1,1 +1,3 @@
-How can I use multivariate testing to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0468a6f00e6998f3b28757bd43a3c954dbf520b446c727db5113f6aa17f51459
+size 66

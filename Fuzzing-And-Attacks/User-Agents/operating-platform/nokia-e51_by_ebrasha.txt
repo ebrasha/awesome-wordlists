@@ -1,4 +1,3 @@
-UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaE51) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE51) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
-Mozilla/5.0 (S60V3; U; en-us; NokiaE51)/UC Browser8.4.0.159/28/352/UCWEB Mobile
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE51) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ac2d9e5400b96c5140fb6a7e4d01e3c9cb830012844510da3ce06ff118f688
+size 356

@@ -1,1 +1,3 @@
-What is a good engagement rate for email marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d3c0b67727d2640a3981d58330512c1c57aa223a43c00c7aeeb04070dbf6290
+size 53

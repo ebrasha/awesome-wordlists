@@ -1,1 +1,3 @@
-What are the most effective strategies for using email list segmentation to improve customer retention?
+version https://git-lfs.github.com/spec/v1
+oid sha256:15578570ce8a08946859380066071a97bafe4c0cf7cb3ef19db5bea05cff3a71
+size 105

@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G965XU Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:74fa899905acd6a3bb94d5a377a489961da238c4c475df0433cd529bb5bf7375
+size 166

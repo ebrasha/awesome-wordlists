@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; SonyEricssonR800a Build/4.0.2.A.0.42) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-au; SonyEricssonR800a Build/4.0.2.A.0.42) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; pt-br; SonyEricssonR800a Build/4.0.2.A.0.42) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; es-cr; SonyEricssonR800a Build/4.0.1.A.0.283) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:92e4dccebe5ebaac0501ac2620e3ad5b449af648bb6625d27771d4230502b6f9
+size 613

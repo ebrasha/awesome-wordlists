@@ -1,1 +1,3 @@
-What are the best practices for using email marketing data to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf1cf987b157390cbe112eec34892e3334d697896bd5886d9c95cae1dba94f2c
+size 84

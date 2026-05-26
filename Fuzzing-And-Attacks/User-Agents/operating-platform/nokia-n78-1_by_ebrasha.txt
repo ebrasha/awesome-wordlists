@@ -1,4 +1,3 @@
-Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 NokiaN78-1/21.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
-Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 NokiaN78-1/30.014; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
-Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 NokiaN78-1/30.011; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
-Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 NokiaN78-1/10.136; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf9fa5e1398befd8fe0e794fcf8375a4f6f4050837b17007d01af9975b8f1eed
+size 608

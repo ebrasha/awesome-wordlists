@@ -1,1 +1,3 @@
-LGE-AN200/1.0 UP.Browser/6.2.3.8 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef91435c71047da9e9a661d3bae436824af0636fc701af485d4386caa2fd1881
+size 47

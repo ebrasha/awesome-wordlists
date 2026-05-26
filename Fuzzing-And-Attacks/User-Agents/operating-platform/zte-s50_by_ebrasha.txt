@@ -1,1 +1,3 @@
-ZTE-S50/1.0 NetFront/3.5 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:49ccfe1453e7782c6786f11713e4c3e383754d9a8b248cb012e10ecdcf10d823
+size 72

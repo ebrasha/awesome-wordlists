@@ -1,1 +1,3 @@
-How can I use email subject line personalization to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d591b581bc2efc6dd13b5fe54dd0d37bc219161eb3ad663ae78aec71d378574d
+size 74

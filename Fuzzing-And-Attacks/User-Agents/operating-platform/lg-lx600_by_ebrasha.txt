@@ -1,1 +1,3 @@
-LG-LX600 Polaris/6.0 MMP/2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dfaf721ade7b879b704c430b883d8e2fbf9bded56b4c46943a1864ee4174a6e
+size 69

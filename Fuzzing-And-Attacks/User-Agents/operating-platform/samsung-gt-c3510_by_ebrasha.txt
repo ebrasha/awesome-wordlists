@@ -1,6 +1,3 @@
-SAMSUNG-GT-C3510/C3510JAIL1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3510/C3510DDJD2 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3510/C3510JVJD1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Untrusted/1.0
-SAMSUNG-GT-C3510/C3510DDIL2 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3510/C3510JVIL3 Profile/MIDP-2.0 Configuration/CLDC-1.1 Untrusted/1.0
-SAMSUNG-GT-C3510/C3510JVJL1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:56a01fd1d45d379f9661a3005e5da3b73ca766342581985ff15062e5a919e357
+size 488

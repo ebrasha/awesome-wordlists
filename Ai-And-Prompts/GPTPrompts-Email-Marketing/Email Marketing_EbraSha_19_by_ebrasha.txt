@@ -1,1 +1,3 @@
-How can I use email list analytics to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae499546dcf09752a41421d1f9ea72a95e09c5206afcf637a19494ca2b3f9f2
+size 76

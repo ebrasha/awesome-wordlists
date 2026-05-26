@@ -1,1 +1,3 @@
-How can I use A/B testing to optimize my email's use of social proof and user-generated content?
+version https://git-lfs.github.com/spec/v1
+oid sha256:37fc532dc5acfe2fb8dd0a9fb0c703bceb8a9d80a326ba8e113b44999aef452c
+size 98

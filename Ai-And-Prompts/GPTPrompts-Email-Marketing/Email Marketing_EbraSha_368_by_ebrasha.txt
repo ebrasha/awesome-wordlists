@@ -1,1 +1,3 @@
-How can I use email marketing to consistently align my offerings with the pain points and goals of my target audience?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cff8dfeef61447d4f90485d6fb3ce62be0ea20ba61b24d61215bb7ccf0efbc01
+size 120

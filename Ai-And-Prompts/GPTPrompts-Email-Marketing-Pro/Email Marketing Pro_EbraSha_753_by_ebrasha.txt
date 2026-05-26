@@ -1,1 +1,3 @@
-How do I measure the impact of my email mobile optimization efforts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c0b9c3f5e4fb69a7511d3180a8c011b530369bdc67c1c51edec926a19d9784d
+size 70

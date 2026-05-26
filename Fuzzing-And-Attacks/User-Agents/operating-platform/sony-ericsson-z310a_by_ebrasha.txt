@@ -1,1 +1,3 @@
-SonyEricssonZ310a/R1JC Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0cf07409bbfb4b668b6a50d5a604c8fa567230fcc3cd0b43c3ded5dc92d15b5
+size 84

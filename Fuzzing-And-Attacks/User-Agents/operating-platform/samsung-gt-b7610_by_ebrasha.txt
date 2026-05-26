@@ -1,1 +1,3 @@
-SAMSUNG-GT-B7610/1.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:70cf15d383daac3f59c2fc72fbb3336678d9dff1c9441c69c2df2f02d6037bec
+size 87

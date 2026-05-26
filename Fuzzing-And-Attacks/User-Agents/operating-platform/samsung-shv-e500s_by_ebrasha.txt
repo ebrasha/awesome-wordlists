@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.2.2; en-us; SAMSUNG SHV-E500S Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
-Mozilla/5.0 (Linux; Android 4.2.2; SHV-E500S Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fdc1b1805a79d11ef2ba51047bf931e6919b3ed671d21c6dbc23e0f67b64ea4
+size 305

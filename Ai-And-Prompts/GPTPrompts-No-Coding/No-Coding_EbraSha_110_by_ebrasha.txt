@@ -1,1 +1,3 @@
-How do I determine when it is the right time to scale my no-code business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a716026e96e5d1dd099eaeb0020aa176ac693787db2f1d033ce60994f61d5759
+size 76

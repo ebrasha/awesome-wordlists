@@ -1,1 +1,3 @@
-SAMSUNG-SM-B780A/B780AUSOJ2 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca8023b110136955964dbba47859c0bd402ee66ba3da3283457d4ca4da163164
+size 81

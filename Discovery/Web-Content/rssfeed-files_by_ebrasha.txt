@@ -1,26 +1,3 @@
-index.xml
-feed.xml
-feed.atom
-feed.rss
-feed.json
-feed.php
-feed.asp
-posts.rss
-blog.xml
-atom.xml
-podcasts.xml
-main.atom
-main.xml
-feed/index.xml
-feed/feed.xml
-feed/feed.atom
-feed/feed.rss
-feed/feed.json
-feed/feed.php
-feed/feed.asp
-feed/posts.rss
-feed/blog.xml
-feed/atom.xml
-feed/podcasts.xml
-feed/main.atom
-feed/main.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ccb95bbd82575c30ead734f63e3434a2b5441eb73edc9730404dd8896d624b7
+size 316

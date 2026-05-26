@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve deliverability?
+version https://git-lfs.github.com/spec/v1
+oid sha256:24474939c9d02e45f486df57a147579f931e9078acb5f2644c30907d435b1a9e
+size 66

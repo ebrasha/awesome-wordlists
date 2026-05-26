@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T249/1.0 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce7543b756c6109237650b41e643453b1376e0211a7988b14f72d4ed1951084e
+size 74

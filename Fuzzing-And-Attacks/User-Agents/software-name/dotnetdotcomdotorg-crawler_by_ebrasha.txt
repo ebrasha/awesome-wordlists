@@ -1,2 +1,3 @@
-Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
-dotbot
+version https://git-lfs.github.com/spec/v1
+oid sha256:584314e3b664b08ef1b5c623b78ef7ac42facbce08332ec470f6964d25996cda
+size 100

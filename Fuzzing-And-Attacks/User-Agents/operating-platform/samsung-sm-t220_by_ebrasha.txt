@@ -1,1 +1,3 @@
-UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; es-LA; SM-T220) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:a872dec459e32c90a37f556f84b647941dc6db28d1a39ee8d083d10a79706fda
+size 97

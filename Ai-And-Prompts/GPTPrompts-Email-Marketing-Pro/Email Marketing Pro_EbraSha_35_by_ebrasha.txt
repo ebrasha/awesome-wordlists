@@ -1,1 +1,3 @@
-How can I use email triggers to send personalized messages based on subscriber behavior?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2df638242a3bfc0983c3f19a29d4bffdbfa3e3c777795f804f72aa046e93c35
+size 90

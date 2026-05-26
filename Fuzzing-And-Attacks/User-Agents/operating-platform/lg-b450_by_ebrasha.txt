@@ -1,1 +1,3 @@
-LG-B450 Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb5eaf13e202f2d8b5cb36485ffe32cf121deff74ff6ea53972d0a252ae803f7
+size 59

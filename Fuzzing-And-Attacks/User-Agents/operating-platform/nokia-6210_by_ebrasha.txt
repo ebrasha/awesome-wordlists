@@ -1,2 +1,3 @@
-NOKIA6210 Navigator
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NOKIA6210 Navigator) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:2703e6d0f47588302cfb5568dde6d50d6d5889bd7a0e24c96e75a14f40886a59
+size 124

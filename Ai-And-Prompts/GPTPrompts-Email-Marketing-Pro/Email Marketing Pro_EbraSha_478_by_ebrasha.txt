@@ -1,1 +1,3 @@
-How can I avoid using subject lines and preheader text that are not optimized for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b4539218890cdb5abbcbc1c1cc68997b803549aad2a47d28efc3a8ecda8c53f
+size 99

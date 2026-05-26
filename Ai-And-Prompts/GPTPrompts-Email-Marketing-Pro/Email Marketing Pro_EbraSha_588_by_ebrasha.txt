@@ -1,1 +1,3 @@
-How can I use email marketing metrics analysis to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4358331ac3441d5c900dcb44398f4a1d2382374d04af538a3b8ee1b16a2f7a8
+size 71

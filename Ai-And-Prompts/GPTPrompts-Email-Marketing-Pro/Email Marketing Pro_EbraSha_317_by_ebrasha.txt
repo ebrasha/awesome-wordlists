@@ -1,1 +1,3 @@
-Email marketing laws and regulations (e.g. CAN-SPAM Act)
+version https://git-lfs.github.com/spec/v1
+oid sha256:5351aac7d119c20791670a434a88c4f8edd7144fb7cd81625f0432477246625b
+size 58

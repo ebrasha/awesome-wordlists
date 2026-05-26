@@ -1,23 +1,3 @@
-root:mysql
-root:root
-root:chippc
-admin:admin
-root:
-root:nagiosxi
-root:usbw
-cloudera:cloudera
-root:cloudera
-root:moves
-moves:moves
-root:testpw
-root:p@ck3tf3nc3
-mcUser:medocheck123
-root:mktt
-root:123
-dbuser:123
-asteriskuser:amp109
-asteriskuser:eLaStIx.asteriskuser.2oo7
-root:raspberry
-root:openauditrootuserpassword
-root:vagrant
-root:123qweASD#
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e070cc51402498d34d4cd6bdf20beb0663c06793fb9b9fb5eb779bf4139c301
+size 343

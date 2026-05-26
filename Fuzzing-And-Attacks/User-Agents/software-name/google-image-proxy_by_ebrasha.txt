@@ -1,2 +1,3 @@
-Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-Mozilla/5.0 (Windows NT 9000; rv:9000.0) Gecko Firefox/9000.0 (via ggpht.com googleimageproxy)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8012871d14d6815446b0ee8365216dc6394f354dc67c433bb8ed01b38c067109
+size 185

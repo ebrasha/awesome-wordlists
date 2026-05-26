@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of data processing, such as collection, storage, use, and sharing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:af5fdc1bf4ba789aa75630aab3ff74d02c6235795007d6533c71f1d7f8efd0cd
+size 149

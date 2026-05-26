@@ -1,1 +1,3 @@
-How can I use email marketing data to segment my email list and improve engagement?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1c5ddf06a700e55fc501875c11006a1e2989794f7eaceadc9fb3b688f2b6813
+size 85

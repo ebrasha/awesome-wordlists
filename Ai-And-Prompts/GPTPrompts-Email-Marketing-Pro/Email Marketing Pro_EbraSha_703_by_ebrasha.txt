@@ -1,1 +1,3 @@
-How do I determine the share rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7445e9330266c427930972b105a35a801d1870a894e5b6bcf6ead92151690ba5
+size 49

@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; LG-MS910 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; es-us; LG-MS910 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2dc668f35ed7d57d2b04bde2491ce62e496053313cc467a96cfa5468869c90a
+size 286

@@ -1,3 +1,3 @@
-SonyEricssonW150i/R2BA006 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonW150i/R2AD032 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; sonyericssonw150i) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f7eafa0fa423f4a3c6cc64cadf33ac7b75bd862936504690d04e47e8ef4206a
+size 291

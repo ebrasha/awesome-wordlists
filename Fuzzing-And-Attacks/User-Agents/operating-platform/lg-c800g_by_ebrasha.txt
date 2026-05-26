@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-ca; LG-C800G Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2
-Mozilla/5.0 (Linux; U; Android 2.3.6; en-ca; LG-C800G Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2
-Mozilla/5.0 (Linux; U; Android 2.3.6; fr-ca; LG-C800G Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2
-Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; LG-C800G Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e8167c05c3b418a53bfc85a217c7c61ca8057e1f9d689cafb9be2c63d48477b
+size 663

@@ -1,7 +1,3 @@
-BlackBerry9520/5.0.0.669 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/179
-BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/133
-BlackBerry9520/5.0.0.436 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
-BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
-BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/1
-BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
-BlackBerry9520/5.0.0.306 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+version https://git-lfs.github.com/spec/v1
+oid sha256:07111e0514c4ee9c4a10e593423a88d358ec5b767d422bc716c263024a474ded
+size 544

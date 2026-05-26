@@ -1,1 +1,3 @@
-How can I use storytelling to create a sense of generosity and altruism through my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:82031cb461f16f5f607285578f33226e9b56991ebdb26deee0c87647ccc2510f
+size 92

@@ -1,22 +1,3 @@
-Scunthorpe General Hospital
-Penistone Community Church
-Lightwater Country Park
-Jimmy Clitheroe
-Horniman Museum
-shitake mushrooms
-RomansInSussex.co.uk
-http://www.cum.qc.ca/
-Craig Cockburn, Software Specialist
-Linda Callahan
-Dr. Herman I. Libshitz
-magna cum laude
-Super Bowl XXX
-medieval erection of parapets
-evaluate
-mocha
-expression
-Arsenal canal
-classic
-Tyson Gay
-Dick Van Dyke
-basement
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f3f9f5e999b3bb884c31b6c1cfd67e46320743db54862555a712a282e82085
+size 388

@@ -1,1 +1,3 @@
-The role of A/B testing in determining the optimal subject line for your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10ef162b770533da7eb5ee289f5f950375481b42cf9fb6a5c59256813912bad1
+size 82

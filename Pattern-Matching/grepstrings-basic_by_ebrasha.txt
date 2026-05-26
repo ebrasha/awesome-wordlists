@@ -1,14 +1,3 @@
-password
-user
-username
-select
-update
-delete
-ssn
-dob
-ccn
-passwd
-pass
-administrator
-secret
-key
+version https://git-lfs.github.com/spec/v1
+oid sha256:2782058cbe9072e23b8ea2edfd92375e17983be485eac5247a0be0eba27ffc72
+size 93

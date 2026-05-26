@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:990a2de50902e66a4a29b8d61b498d37987da216bea065411f1761594cce1084
+size 79

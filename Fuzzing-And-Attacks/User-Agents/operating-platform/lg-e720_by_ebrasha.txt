@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2.1; en-sg; LG-E720 Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1c285fea2cc67e4acc9645b6a2c416f5abfedfa7bffb2012ce653fc676619d7
+size 164

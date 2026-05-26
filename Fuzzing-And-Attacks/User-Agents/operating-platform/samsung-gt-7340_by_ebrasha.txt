@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.2.2; pt-br; GT-7340 Build/SK-mtek-GT7340-V1.0-2013.09.05) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c9951d09f29a81a2851cf2e91ef55b9e7dbead13e7b5ab143c5dbd428d48973
+size 156

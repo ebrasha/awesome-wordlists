@@ -1,1 +1,3 @@
-How can I use email deliverability best practices for trigger-based emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:63bb443449052e088a9e5665d42461710f2c9a6aaddbd92814f9c8fe64b2b35b
+size 77

@@ -1,1 +1,3 @@
-How can I segment my email list to target specific groups of subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0c2a8e7f1d4d0a728b8a96395162b3957f8fdd429bdb83008c935fe7812bcac
+size 75

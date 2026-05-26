@@ -1,2 +1,3 @@
-SAMSUNG-SGH-A687/A687UCJB5; Mozilla/5.0 (Profile/MIDP-2.0 Configuration/CLDC-1.1; Opera Mini/att/4.2.16479; U; en-US) Opera 9.50
-SAMSUNG-SGH-A687/A687UCJH1; Mozilla/5.0 (Profile/MIDP-2.0 Configuration/CLDC-1.1; Opera Mini/att/4.2.16479; U; en-US) Opera 9.50
+version https://git-lfs.github.com/spec/v1
+oid sha256:f20a8981bc3d845702f4012aa2a86038a24dd3610a15042a9439e085faa8762d
+size 258

@@ -1,1 +1,3 @@
-SAMSUNG-GT-B3313/1.0 NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8146c215bc39c84045e3fd124faf8cc5c33f2f191e6ed0aea950982df173b872
+size 74

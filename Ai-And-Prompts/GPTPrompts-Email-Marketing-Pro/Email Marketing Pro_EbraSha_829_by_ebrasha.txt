@@ -1,1 +1,3 @@
-How can I make sure my emails are optimized for both iOS and Android devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8093cd1ed7e9fc4eda02f43762e1014ccacf9dac216d9371241cb97e72bfb5
+size 79

@@ -1,1 +1,3 @@
-How can I stay updated on changes and updates to email marketing regulations across different countries and jurisdictions?
+version https://git-lfs.github.com/spec/v1
+oid sha256:09b8b76fc499e6729264084948603947ebcc9362f0d25bdaa41ca3973aeb4842
+size 124

@@ -1,14 +1,3 @@
-puta ka
-putang ina
-tang ina
-tangina
-burat
-bayag
-bobo
-nognog
-tanga
-ulol
-kantot
-anak ka ng puta
-ulol
-jakol
+version https://git-lfs.github.com/spec/v1
+oid sha256:135a857ff50d37f71cd48e5b002011023a7593e09a58e27da89059de899d9ce5
+size 104

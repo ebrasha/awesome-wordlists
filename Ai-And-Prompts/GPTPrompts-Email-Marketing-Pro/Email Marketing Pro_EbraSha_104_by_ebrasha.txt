@@ -1,1 +1,3 @@
-How can I use email marketing automation tools to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e24d65583321e601bfd35ed390d55ccadc62c49a1c42f013cc4087a38666d972
+size 74

@@ -1,1 +1,3 @@
-SonyEricssonT707/R1GA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.4
+version https://git-lfs.github.com/spec/v1
+oid sha256:adf0380ebf1a910c4fc0ceeffc91b133cbec51a574d7b7e90477b5fc130d2650
+size 105

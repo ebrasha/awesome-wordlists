@@ -1,1 +1,3 @@
-How can I measure the popularity of my emails among subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:71069509c981cc394c5d2268b3f2913170bcad84b642caf2ea1ff7c8c9b4e055
+size 66

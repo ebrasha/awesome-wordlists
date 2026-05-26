@@ -1,1 +1,3 @@
-Nokia 7960/chrome
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb7731a04412b61947926e1ba505ae32d98b18ac1aa56f23b43bf3671a872443
+size 18

@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.4.2; ko-kr; LG-F430L Build/KOT49I.F430L10h) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; LG-F430L Build/KOT49I.F430L10h) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea0822d79c2509faa0e0d60c960fe791d5dca5b550c863c91a066fedac99510d
+size 325

@@ -1,1 +1,3 @@
-How can I use email deliverability best practices for email automation?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6491834b24d583dc98e364dbb856ebf13d7e3aa993609dbe1621a3e60f88566b
+size 73

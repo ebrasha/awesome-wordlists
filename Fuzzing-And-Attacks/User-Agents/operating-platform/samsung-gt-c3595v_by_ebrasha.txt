@@ -1,1 +1,3 @@
-SAMSUNG-GT-C3595V/C3595VDONF1 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d2efff827e57f1e72ea02e815aa48867a2a03cf356667ffed821bba4e1a610e
+size 83

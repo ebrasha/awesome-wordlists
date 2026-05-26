@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-ca; SonyEricssonLT28i Build/6.1.E.2.68) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-ca; SonyEricssonLT28i Build/6.1.E.1.19) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 2.3.7; en-ca; SonyEricssonLT28i Build/6.0.F.0.111) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f00c6809990c89f899dbd95f56744158ba9f7b03fcd614d2f0718578a7ccb287
+size 458

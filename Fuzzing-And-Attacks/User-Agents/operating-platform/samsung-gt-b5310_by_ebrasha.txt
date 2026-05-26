@@ -1,2 +1,3 @@
-SAMSUNG-GT-B5310/1.0 SHP/VPP/R5 Dolfin/1.5 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-GT-B5310/B5310ACIK1 SHP/VPP/R5 Dolfin/1.5 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc6302984b856eaa86109fb22d3c44265f4b0ecad927318daa47b6b3c9fba632
+size 225

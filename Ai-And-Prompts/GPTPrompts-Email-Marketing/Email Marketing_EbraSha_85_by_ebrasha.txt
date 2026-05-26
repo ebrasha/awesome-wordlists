@@ -1,1 +1,3 @@
-How can I use customer lifetime value data to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a40612ffc455f0c764e0a45168a82bb059a5e69d5ee24de23a44482e15d48a9
+size 74

@@ -1,5 +1,3 @@
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL50W656A; CC/POL) Presto/2.12.362 Version/12.11
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL50W656A; CC/GBR) Presto/2.12.362 Version/12.11
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL50W656A; CC/HRV) Presto/2.12.362 Version/12.11
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL50W656A; CC/LVA) Presto/2.12.362 Version/12.11
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL50W656A; CC/XAE) Presto/2.12.362 Version/12.11
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef63a886d39d7fd2e13f78543d822dba1521994bb8966e53a0219664d4718c61
+size 620

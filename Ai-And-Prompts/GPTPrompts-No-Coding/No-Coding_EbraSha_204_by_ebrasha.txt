@@ -1,1 +1,3 @@
-How do I implement structured data and schema markup for SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad0b172be224c736ce6baa7a7772008d2e8656d05cfb2c106f44b46214202f02
+size 74

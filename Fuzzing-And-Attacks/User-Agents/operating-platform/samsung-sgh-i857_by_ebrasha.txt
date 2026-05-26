@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2.2; es-es; SAMSUNG-SGH-I857 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; Android 6.0.1; SGH-I857 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile Safari/537.36 GSA/8.33.6.21.arm64
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bae891000d23f75f49839f537729c6a802d0070bf6dfddf5667d4eee05c9088
+size 320

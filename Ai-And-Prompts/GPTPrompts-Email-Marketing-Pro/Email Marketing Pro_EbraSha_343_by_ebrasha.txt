@@ -1,1 +1,3 @@
-What is the General Data Protection Regulation (GDPR) and how does it impact email marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a416f320e2be577800de385cf24b62fe1e50d6eb3d01438af4172d31977b040
+size 95

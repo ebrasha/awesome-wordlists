@@ -1,1 +1,3 @@
-How do I handle performance optimization in my application using a no-code platform?
+version https://git-lfs.github.com/spec/v1
+oid sha256:578ff2b76d9b9f4c20b1fa88549d5f4cbae1b276164a7a48e33f9de56045b776
+size 86

@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.6; es-sa; LG-E400g Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.2
-Mozilla/5.0 (Linux; U; Android 2.3.6; es-ar; LG-E400g Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.6; es-mx; LG-E400g Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:136666f88143e9209f565029dfe2aaa70fbb4b4ba134f986ffe5b33206cc7ffa
+size 462

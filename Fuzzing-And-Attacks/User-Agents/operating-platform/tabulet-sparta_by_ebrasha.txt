@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.5; in-id; Tabulet Sparta Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dcfabd39f5868f19694b1c88bcddca8a73a6ce8b78f446714722720bef53f8d
+size 143

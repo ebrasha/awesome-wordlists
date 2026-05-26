@@ -1,1 +1,3 @@
-How can I improve the user experience for mobile users in terms of navigation and scrolling?
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c5ef63e18dd6058793f585931975e1d16687922ee36eab3e3398ca6157b2b5
+size 94

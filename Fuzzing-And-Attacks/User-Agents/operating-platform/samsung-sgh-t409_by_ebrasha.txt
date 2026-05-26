@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T409/T409UVGE3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e86ee1a5ce10af78d14de51f0306d25716d322854a175888bd46a4301469a7
+size 108

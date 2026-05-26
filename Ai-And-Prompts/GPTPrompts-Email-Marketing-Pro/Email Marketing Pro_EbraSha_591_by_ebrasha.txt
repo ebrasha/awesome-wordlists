@@ -1,1 +1,3 @@
-How can I personalize my emails to improve their effectiveness?
+version https://git-lfs.github.com/spec/v1
+oid sha256:732352936105b87000eafef61328396d22eed438ab3c1945fa1ebb7f1ebc7336
+size 65

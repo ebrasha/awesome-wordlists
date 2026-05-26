@@ -1,2 +1,3 @@
-LGE-LG265/1.0 UP.Browser/6.2.3.8 (GUI) MMP/2.0
-LGE-LG265 POLARIS/6.01 MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:2975e76a5ca3f2eca00de9b2f38756b78c422cb7402aec08580731c7b6c359df
+size 78

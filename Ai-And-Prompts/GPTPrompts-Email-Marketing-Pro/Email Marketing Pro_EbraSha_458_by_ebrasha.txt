@@ -1,1 +1,3 @@
-How can I use mobile-specific email drip campaigns to nurture leads and move them through the sales funnel with targeted emails on mobile devices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:216b74813b0bf59c881e8456906b6fd90a7361fd91a24140352f1fc5f13d53bb
+size 148

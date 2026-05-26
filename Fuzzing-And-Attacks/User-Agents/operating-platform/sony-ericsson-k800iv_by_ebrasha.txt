@@ -1,2 +1,3 @@
-SonyEricssonK800iv/R8BF Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonK800iv/R1ED Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe66a6acf7558c43a230483db265c4d8a33d8343afd6e1ba2125e99eb86f437
+size 170

@@ -1,1 +1,3 @@
-What are the most effective ways to use email opt-in forms to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d2e43a7aa5a18b5651f1ad3fb04b4a4fde46496477a962821c93570f6522bcd
+size 86

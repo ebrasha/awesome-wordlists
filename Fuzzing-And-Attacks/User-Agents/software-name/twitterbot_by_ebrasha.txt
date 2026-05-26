@@ -1,4 +1,3 @@
-Twitterbot/1.0
-Mozilla/5.0 (compatible; Twitterbot/1.0)
-Twitterbot
-Mozilla/5.0 (Twitterbot/0.1)
+version https://git-lfs.github.com/spec/v1
+oid sha256:45f96b16c15b4fb42f80ae9e960d5350d0b4fdda68be7b0197e28cd28856456c
+size 96

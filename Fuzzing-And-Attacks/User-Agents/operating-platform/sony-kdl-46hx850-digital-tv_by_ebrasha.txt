@@ -1,1 +1,3 @@
-Opera/9.80 (Linux mips; U; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL46HX850; CC/NLD; en) Presto/2.10.250 Version/11.60
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c211a5ee226202fd5be4a6baaa1a114ba611a044f8e0515118852bc4379cc9
+size 129

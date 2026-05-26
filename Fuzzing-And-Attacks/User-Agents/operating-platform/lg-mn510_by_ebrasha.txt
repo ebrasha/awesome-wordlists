@@ -1,1 +1,3 @@
-Mozilla/4.1 (compatible; Teleca Q7; BMP 1.0.1; U; en) 240X400 LG-MN510
+version https://git-lfs.github.com/spec/v1
+oid sha256:be30349369b2cfc2e42c9dd74f785ed62165792a360f5ba525e7f380db289223
+size 71

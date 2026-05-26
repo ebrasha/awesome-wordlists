@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.1.2; LG-F240 Build/VDT-ROM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff210959c57526611dec359632a3d17610bde4f242859a8dee49e0bca7e173be
+size 138

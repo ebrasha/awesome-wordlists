@@ -1,1 +1,3 @@
-What metrics should I focus on to optimize the conversion rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8901af1c26cab910f66519b3a8977ad4486306fa92f235517a312613518462ee
+size 78

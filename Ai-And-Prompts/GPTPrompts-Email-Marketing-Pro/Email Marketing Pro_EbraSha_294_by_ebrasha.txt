@@ -1,1 +1,3 @@
-What are the most effective ways to use design elements like buttons and icons in email marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e91f8db863b0a375cbe27ea261e1de6fd37f562db262ce3e12023ea70c0178a
+size 100

@@ -1,1 +1,3 @@
-How can I use surveys to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:963500b7ff1eaee80c9d73c34e4d47500cbc0656c6da6bdcf01bef96bf7f8d5c
+size 49

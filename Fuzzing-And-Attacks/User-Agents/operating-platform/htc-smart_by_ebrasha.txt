@@ -1,1 +1,3 @@
-HTC_Smart_F3188 Mozilla/5.0 (like Gecko) Obigo/Q7
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f1ec124ff1a9c99d6a806fe7db1fd2f5ae73c9d6f9a2c2bcd960ad5d235f5b
+size 50

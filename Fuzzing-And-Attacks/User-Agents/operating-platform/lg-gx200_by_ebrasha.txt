@@ -1,1 +1,3 @@
-LG-GX200 Obigo/WAP2.0 MIDP-2.0/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:090209cfc961305c4dedd4d4aad53e515ea7c0db4e624847c21d2ebbc234c65a
+size 40

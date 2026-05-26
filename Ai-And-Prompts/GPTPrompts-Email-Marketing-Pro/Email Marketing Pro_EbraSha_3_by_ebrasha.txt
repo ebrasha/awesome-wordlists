@@ -1,1 +1,3 @@
-How can I grow my email list quickly and effectively?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d936d804d724bbe6b825bc8509c4e17ca34aeaf43745da4e8e63e7c7992f2fe
+size 55

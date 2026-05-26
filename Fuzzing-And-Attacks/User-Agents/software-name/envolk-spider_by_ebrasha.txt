@@ -1,3 +1,3 @@
-envolk[ITS]spider/1.6 ( http://www.envolk.com/envolkspider.html)
-envolk[ITS]spider/1.6 (+http://www.envolk.com/envolkspider.html)
-envolk/1.7 (+http://www.envolk.com/envolkspiderinfo.html)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf4086e2de9c415c3b7a7df3d9814edb530aae2745613bb36deafdbf1d3af86e
+size 188

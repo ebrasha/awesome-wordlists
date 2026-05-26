@@ -1,1 +1,3 @@
-SCH-U460P/1.0 NetFront/3.0.22.2.21 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:94b1ff054dbb29fef6561d4344d7a859f8810750f0871a15af1c8f51e18ec490
+size 49

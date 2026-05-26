@@ -1,1 +1,3 @@
-How can I use mobile-specific email triggers to automate the sending of targeted emails based on subscriber behavior on mobile devices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f17c43438b38394089ee7497500029d8035f67bb2d690a0bb58b22e7b20f1753
+size 137

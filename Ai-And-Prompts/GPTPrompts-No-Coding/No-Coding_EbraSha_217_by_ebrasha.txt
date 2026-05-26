@@ -1,1 +1,3 @@
-How do I automate data entry and data management in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d4acb3bc013f4de31be5a7577ab134ab9e14e7e92de1764756783185753701
+size 62

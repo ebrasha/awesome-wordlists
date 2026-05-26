@@ -1,6 +1,3 @@
-SAMSUNG-GT-C3303K/C3303KJVKH2 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3303K/1.0 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3303K/C3303KJVJF4 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; SAMSUNG GT-C3303K) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
-SAMSUNG-GT-C3303K/C3303KJPJK1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3303K/C3303KJVKA1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f06ac3d3431d7e91c2a88912f0573516ea098c3ead784fa643776d40a6918569
+size 508

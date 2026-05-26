@@ -1,10 +1,3 @@
-noune
-osti
-asti
-criss
-crisse
-calice
-colice
-sacrament
-tabarnak
-viarge
+version https://git-lfs.github.com/spec/v1
+oid sha256:52b90dfb4494732e45961436f0f2e00125ff58dcfc581b3c641dbbc5ef11ac3e
+size 69

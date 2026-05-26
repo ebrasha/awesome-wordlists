@@ -1,1 +1,3 @@
-UCWEB/2.0 (Symbian; U; S60 V3; id; NOKIAN85) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62c3748d08572026a2bede00e74175ff4df13ed9ace423d4c733585582954d6
+size 90

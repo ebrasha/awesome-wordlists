@@ -1,1 +1,3 @@
-SAMSUNG-GT-S3778V/1.0 RTK-E/1.0 DF3G/1.0 Release/04.04.2011 Browser/NetFront4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:044d9d02eb48c00e626fb67440422873409c6b0b12980030d548904604def01e
+size 120

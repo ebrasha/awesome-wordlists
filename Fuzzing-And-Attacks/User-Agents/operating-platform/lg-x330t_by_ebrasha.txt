@@ -1,2 +1,3 @@
-LG-X330T Obigo/WAP2.0 MIDP-2.0/CLDC-1.1
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; lg-x330t) U2/1.0.0 UCBrowser/9.2.0.311 U2/1.0.0 Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:33f5efb38cf27b48c7250f80d4d8ef41e190545cc02105bbc081d257fced780d
+size 146

@@ -1,29 +1,3 @@
-test.conf
-svnserve.conf
-globals_double_quotes.conf
-globals_single_quotes.conf
-httpd.conf
-local.conf
-httpd-vhosts.conf
-tidy.conf
-lighttpd.conf
-.httpd.conf
-doxygen.conf
-en.conf
-nginx.conf
-example.conf
-apache.conf
-phpMyAdmin-http.conf
-application.conf
-fsfs.conf
-blacklist.conf
-site.conf
-modules.conf
-smarty.conf
-php-fpm.conf
-proftpd.conf
-smb.conf
-interwiki.conf
-Module.conf
-lang_english.conf
-lang_german.conf
+version https://git-lfs.github.com/spec/v1
+oid sha256:11744ecfeeb7991cf3b6b200b1434a5a80525eaa3e38abf012bb9ea68c4f403a
+size 406

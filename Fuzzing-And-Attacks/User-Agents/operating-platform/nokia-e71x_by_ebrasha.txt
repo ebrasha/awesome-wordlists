@@ -1,1 +1,3 @@
-Mozilla/5.0 (SymbianOS/9.3 U; Series60/3.2 NokiaE71x Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+version https://git-lfs.github.com/spec/v1
+oid sha256:e052488da3dbb020296dfe69a271cc76554823c0b6dad54d798ac1ecf9eda407
+size 142

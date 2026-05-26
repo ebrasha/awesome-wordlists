@@ -1,1 +1,3 @@
-SonyEricssonW910i/R1EA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:982f07775f9e0921a24176c80cd6ad365c5a439fc29d7faf6044dcdc44003a92
+size 84

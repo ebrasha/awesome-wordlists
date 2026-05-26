@@ -1,1 +1,3 @@
-LG-KD876/v1.0 Arena/L2.3.3 Release/5.2.2008 Browser/Teleca/QLine Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d845a13e6187699f1004a1f0690fc0a5791b2df31cd35b48b8a8b2bf8e79db2
+size 105

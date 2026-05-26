@@ -1,1 +1,3 @@
-How can I track the success of my email post-purchase loyalty program efforts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f0366f639ce801709c5a34f5c41aa912f1e17c354d1880326d947b6e125a9ed
+size 80

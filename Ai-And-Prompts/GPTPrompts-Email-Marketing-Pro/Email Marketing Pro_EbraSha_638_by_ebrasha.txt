@@ -1,1 +1,3 @@
-What metrics should I track to optimize the click-through rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bde02fcf0569111ea57cf67c2ee88fe178e22a28e0c0dab487120141439af7e
+size 78

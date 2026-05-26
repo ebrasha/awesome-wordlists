@@ -1,3 +1,3 @@
-Nokia3230/2.0 (5.0614.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
-Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 3230/4.0526.2; 9399) Opera 8.65 [en]
-Nokia3230/2.0 (5.0614.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0Configuration/CLDC-1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7d4743395be70eb26e5c0d3b7a61d49a79bfed03b274748892709682d2b721a
+size 275

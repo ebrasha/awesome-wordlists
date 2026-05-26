@@ -1,1 +1,3 @@
-SAMSUNG-GT-S3353/1.0 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2f5f9cf5fb4992408ab53cf87dea83ca5c0a0f8fe43aab348fd8c7d42f67f6
+size 74

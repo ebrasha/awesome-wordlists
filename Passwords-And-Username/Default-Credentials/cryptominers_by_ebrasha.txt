@@ -1,12 +1,3 @@
-# Most common default passwords on ASIC mining devices on several services (HTTP, SSH, telnet...)
-user:1
-root:admin
-root:root
-admin:admin
-admin:root
-admin:bw.com
-:12345678
-root:blacksheepwall
-root:innot1t2
-root:t1t2t3a5
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1569bb07cd737805fd013c2efa8b78ff751cc2895e948e7c3a45726d2f305ccd
+size 221

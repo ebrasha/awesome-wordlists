@@ -1,1 +1,3 @@
-How can I use personalization to create a more effective email retention strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ffa94dd7bdcd450fa1f6e608e198bad4f5d4cfaef586377b3b4fd4605b9f586
+size 84

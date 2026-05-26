@@ -1,1 +1,3 @@
-How to design effective A/B tests for your email marketing campaigns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdf98a40c164776b3aa66febefb3d0a7471c0df98805d786b901876de7f5110b
+size 71

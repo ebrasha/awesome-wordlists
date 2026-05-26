@@ -1,1 +1,3 @@
-How do I optimize workflows for collaboration and teamwork in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:383a12cbed957b99ca5e557dab95abdc71866fbfcfab524f393f92899079ea7f
+size 72

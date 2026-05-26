@@ -1,10 +1,3 @@
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2414; U; en) Presto/2.8.119 240X400 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2402; U; en) Presto/2.8.119 400X240 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2414; U; en) Presto/2.8.119 400X240 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2370; U; en) Presto/2.8.119 400X240 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2413; U; en) Presto/2.8.119 400X240 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2402; U; en) Presto/2.8.119 240X400 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2413; U; en) Presto/2.8.119 240X400 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2405; U; en) Presto/2.8.119 400X240 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2405; U; en) Presto/2.8.119 240X400 LG VN280
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2370; U; en) Presto/2.8.119 240X400 LG VN280
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3c162faca4c4e6a621cd93c42f7b1e74dc6412454ce35fef8514977d4565636
+size 830

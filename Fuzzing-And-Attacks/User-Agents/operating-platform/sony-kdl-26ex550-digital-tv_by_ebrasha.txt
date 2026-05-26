@@ -1,2 +1,3 @@
-Opera/9.80 (Linux mips; U; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL26EX550; CC/LTU; lt) Presto/2.10.250 Version/11.60
-Opera/9.80 (Linux mips; U; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL26EX550; CC/IND; en) Presto/2.9.167 Version/11.50
+version https://git-lfs.github.com/spec/v1
+oid sha256:e376595c761a6039fc2669b2687606cd2384731e30caad467d24892945407356
+size 257

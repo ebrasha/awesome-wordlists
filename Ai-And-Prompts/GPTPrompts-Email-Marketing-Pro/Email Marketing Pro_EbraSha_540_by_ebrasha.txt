@@ -1,1 +1,3 @@
-What are the most effective subject line strategies for increasing email open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19197ce0b2339967f313a7d61b45a0768cc98972d8899a662935c3a208016a8
+size 86

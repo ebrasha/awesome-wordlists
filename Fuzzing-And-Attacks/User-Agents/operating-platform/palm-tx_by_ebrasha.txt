@@ -1,2 +1,3 @@
-Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PalmSource/Palm-D050; Blazer/4.3) 16;320x320
-Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PalmSource/Palm-D050; Blazer/4.3) 16;320x320)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f704582b6554908a1c9367216816d40b45d187d1e080e675992d5aee21a39e2
+size 185

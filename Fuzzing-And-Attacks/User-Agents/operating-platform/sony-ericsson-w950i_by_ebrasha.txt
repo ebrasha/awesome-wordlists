@@ -1,3 +1,3 @@
-SonyEricssonW950i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 323) Opera 8.60 [en-US]
-SonyEricssonW950i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 598) Opera 8.65 [en]
-SonyEricssonW950i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 598) Opera 8.65 [en-US] Read more at http://www.mobilerated.com/sonyericsson-w950i-specifications.html#8oF4MOiR7U4KuwV0.99
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9d3dd636eab7d955802ed5bcd7668d12083418e390024b09c7944d362cddb72
+size 378

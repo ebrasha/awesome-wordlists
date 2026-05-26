@@ -1,1 +1,3 @@
-How can I create an email template that is accessible for people with disabilities?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8892a1fb36e6189850e0adad630c142c099c0bf39aada26a6b679e1ae2cdff12
+size 85

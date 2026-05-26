@@ -1,1 +1,3 @@
-SonyEricsson e800
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7743b9e8553ad35e2e9a49bce17e2df9024a523a2c33101c699c0951baf2732
+size 18

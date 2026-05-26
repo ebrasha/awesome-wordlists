@@ -1,1 +1,3 @@
-How can I avoid using fonts and layouts that are not optimized for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ccbfb378c450a472302ff4dab34f760be6cbf7ebe1471fc489916d43993a10f
+size 84

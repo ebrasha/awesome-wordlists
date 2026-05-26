@@ -1,1 +1,3 @@
-HTC_S743 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d3018b618373aa91b07438a7a0c40943a217c699f99445d9f5614097f0719ce
+size 71

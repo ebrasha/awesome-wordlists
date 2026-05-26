@@ -1,1 +1,3 @@
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL42W800A; CC/AUS) Presto/2.12.362 Version/12.11
+version https://git-lfs.github.com/spec/v1
+oid sha256:d746d173c02ed104148f6a49906c5c928e19e71370ea58c80fbb30aab65908ed
+size 124

@@ -1,1 +1,3 @@
-Nokia216/11.00.11 (Series30Plus) UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6370e1db64371b56bb42497c35a7a19f7351ae4bfebc289de9cda3c25e9370
+size 47

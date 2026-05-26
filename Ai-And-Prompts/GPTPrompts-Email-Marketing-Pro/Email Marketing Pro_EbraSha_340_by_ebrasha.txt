@@ -1,1 +1,3 @@
-What are the best practices for managing email opt-ins and opt-outs?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d76d6445cb87cf8938916593ee9ce9e20a782ec24454bda9c04fe459c8904d9f
+size 70

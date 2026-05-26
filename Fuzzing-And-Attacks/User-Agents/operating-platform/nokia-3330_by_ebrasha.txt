@@ -1,1 +1,3 @@
-Nokia3330/1.0 (03.05)
+version https://git-lfs.github.com/spec/v1
+oid sha256:19bbdd605693a4331d158b1cb880ea64e3ced56c05c03d1ea8f1b3a597b08b12
+size 22

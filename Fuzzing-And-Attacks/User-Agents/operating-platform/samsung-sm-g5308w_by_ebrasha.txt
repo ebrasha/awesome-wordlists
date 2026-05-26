@@ -1,5 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.2; SM-G5308W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.4; SM-G5308W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 MicroMessenger/6.0.2.58_r984381.501 NetType/SmarTone
-Mozilla/5.0 (Linux; Android 4.4.4; SM-G5308W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.4.4; th-th; SM-G5308W Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.4.4; en-gb; SM-G5308W Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f2a012e9515f223714795d72bf104abb43bcb22153f81c44287d0512e0822f3
+size 768

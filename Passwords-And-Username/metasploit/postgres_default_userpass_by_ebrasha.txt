@@ -1,5 +1,3 @@
-postgres postgres
-postgres password
-postgres admin
-admin admin
-admin password
+version https://git-lfs.github.com/spec/v1
+oid sha256:3879c76db60a0ed7c65584f78af1cda8a84cff16c9d98b06ad5fdcceb154022c
+size 78

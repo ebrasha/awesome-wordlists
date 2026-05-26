@@ -1,1 +1,3 @@
-What is the best way to format text and images in emails for mobile users?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a024714b7ceab07093643396ca288f52a942311fdcc12b081db42ede514496a0
+size 76

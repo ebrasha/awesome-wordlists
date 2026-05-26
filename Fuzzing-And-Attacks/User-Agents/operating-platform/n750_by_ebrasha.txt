@@ -1,2 +1,3 @@
-DoCoMo/2.0 N750(c100;TB;W24H12)
-DoCoMo/2.0/N750/c10
+version https://git-lfs.github.com/spec/v1
+oid sha256:401ed4284cb6b72ebf46774f3a866ce951ae1c26a28190712ab8b1075439462d
+size 52

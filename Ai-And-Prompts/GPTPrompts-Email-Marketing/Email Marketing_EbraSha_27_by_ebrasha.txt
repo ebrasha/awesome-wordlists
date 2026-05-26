@@ -1,1 +1,3 @@
-How can I use email list progressive profiling to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc3f4302f94829923a97237043dd8b1cc6819dcc70bf1f775a8e67954312090
+size 88

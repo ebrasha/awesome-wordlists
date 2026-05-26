@@ -1,2 +1,3 @@
-SAMSUNG-SGH-T669Y/T669USKJ1 SHP/VPP/R5 Dolfin/1.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-T669Y/T669USKC5 SHP/VPP/R5 Dolfin/1.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:91a4b6db1b77984406d700958cbb5309edebfde786b4ed81b073af065c912bed
+size 208

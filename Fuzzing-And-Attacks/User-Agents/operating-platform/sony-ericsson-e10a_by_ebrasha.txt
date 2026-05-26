@@ -1,6 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.1-update1; es-mx; SonyEricssonE10a Build/2.0.A.0.504) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
-Mozilla/5.0 (Linux; U; Android 1.6; es-mx; SonyEricssonE10a Build/1.1.A.0.8) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
-Mozilla/5.0 (Linux; U; Android 2.1-update1; es-es; SonyEricssonE10a Build/2.0.A.0.504) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
-Mozilla/5.0 (Linux; U; Android 2.1-update1; es-pe; SonyEricssonE10a Build/2.1.1.A.0.6) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
-Mozilla/5.0 (Linux; U; Android 1.6; es-es; SonyEricssonE10a Build/1.2.A.1.174) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
-Mozilla/5.0 (Linux U Android 1.6 fr-be SonyEricssonE10a Build/1.0.A.0.13)
+version https://git-lfs.github.com/spec/v1
+oid sha256:c40e7f7bdf6c21a2e6de98992711d0ec294ae5376e35dff19da4f1b3dda53acc
+size 859

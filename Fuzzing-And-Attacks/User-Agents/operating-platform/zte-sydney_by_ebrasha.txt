@@ -1,1 +1,3 @@
-ZTE-Sydney-Orange/EFS-EE-ORG-P107A20V1.0.5 Obigo/Q03C Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:af71a584e4116acb282d75b51e7a54234fccbcb71684cc74a1d22ab6506dfb21
+size 94

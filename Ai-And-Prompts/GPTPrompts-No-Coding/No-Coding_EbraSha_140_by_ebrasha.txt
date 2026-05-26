@@ -1,1 +1,3 @@
-How do I handle organizational growth and development when scaling my no-code business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:791dd2076442a9d33bd7ef84d3fcb99e4d13e77362462c80defb751def643f62
+size 89

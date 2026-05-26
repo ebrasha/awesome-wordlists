@@ -1,1 +1,3 @@
-How can I use email marketing to ensure consistency in the use of personalization and segmentation across all my communications?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d7c7e963ec3f13eccedcf5b743f0dcf65b5dbefc171f74a36ec0c65cb51263
+size 130

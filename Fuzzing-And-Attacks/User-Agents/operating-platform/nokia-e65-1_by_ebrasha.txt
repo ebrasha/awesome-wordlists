@@ -1,3 +1,3 @@
-NokiaE65-1/3.0 (2.0633.65.01) SymbianOS/9.1 Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
-NokiaE65-1/3.0 (4.0633.74.00) SymbianOS/9.1 Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
-NokiaE65-1/3.0 (1.0633.18.01) SymbianOS/9.1 Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:66ec1128a4c37162c3c6f503cf8b872a4fa44544ca6e0c69cae0f98312d3f097
+size 291

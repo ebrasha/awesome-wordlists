@@ -1,1 +1,3 @@
-Personalize email messages
+version https://git-lfs.github.com/spec/v1
+oid sha256:b99371aebf78e8392675db3f95a2835e96cfb79f658bd775d53e3523213a7aa9
+size 28

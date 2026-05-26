@@ -1,1 +1,3 @@
-What are the best ways to use email marketing analytics to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:af37267375e897c53d3b4dae9ad89b24a59f7a446637d52e6e317079b487b847
+size 81

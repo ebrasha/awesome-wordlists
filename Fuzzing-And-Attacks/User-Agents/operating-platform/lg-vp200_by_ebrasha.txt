@@ -1,1 +1,3 @@
-LGE-VP200-PLB NetFront/3.5.1 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a054c2f11fc8845735d3b6c89e350ce696c2a1d92dc39691a89b535a1687ec10
+size 43

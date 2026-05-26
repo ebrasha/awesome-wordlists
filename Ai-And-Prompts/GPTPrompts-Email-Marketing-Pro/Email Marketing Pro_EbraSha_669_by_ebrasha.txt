@@ -1,1 +1,3 @@
-How can I use metrics to measure the impact of email personalization on conversion rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b63a03f6fc21c9f4b3a55e71f1eb0a20949075f00386e232ea2fd4efc57d103
+size 91

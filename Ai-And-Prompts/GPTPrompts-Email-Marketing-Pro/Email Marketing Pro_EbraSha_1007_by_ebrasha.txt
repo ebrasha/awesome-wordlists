@@ -1,1 +1,3 @@
-How can I use email content personalization to build my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ff643148076585b80e05cabbfa52f9f5628e2a99012bb75a1b732e8bae8b244
+size 69

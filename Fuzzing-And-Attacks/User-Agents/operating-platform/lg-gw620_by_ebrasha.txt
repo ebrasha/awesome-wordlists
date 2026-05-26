@@ -1,1 +1,3 @@
-LG-GW620 Mozilla/5.0 (Linux; U; Android 1.5) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1 Java/Jbed/7.0 Profile/MIDP-2.1 Configuration/CLDC-1.1 MMS/LG-Android-MMS-V1.0/1.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:09746343adf62b11b9fa04d71ad3521e4e3dcbacd6fd211641ab9faae82de24b
+size 203

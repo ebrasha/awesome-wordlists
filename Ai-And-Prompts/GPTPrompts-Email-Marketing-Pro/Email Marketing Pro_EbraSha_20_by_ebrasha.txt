@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve my conversion rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b39c6ea7eca78b549a2191aac5d42d2e33415ea1e5b400df3e51f3a85875fd
+size 71

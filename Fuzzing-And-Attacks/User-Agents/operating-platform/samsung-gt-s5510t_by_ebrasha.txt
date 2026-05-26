@@ -1,1 +1,3 @@
-SAMSUNG-GT-S5510T/1.0 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 S5510AJJG1
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8e6bde1797396387ec50e299eba97f3435e7af8b885772c8bf89891bcae05f
+size 111

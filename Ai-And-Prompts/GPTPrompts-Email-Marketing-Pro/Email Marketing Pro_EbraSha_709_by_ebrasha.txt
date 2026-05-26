@@ -1,1 +1,3 @@
-What is a good spam complaint rate for email marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb423e4c03c20c59eaf22251df7d40cf316e924f5745ba0360ac1ac00aa8c80b
+size 57

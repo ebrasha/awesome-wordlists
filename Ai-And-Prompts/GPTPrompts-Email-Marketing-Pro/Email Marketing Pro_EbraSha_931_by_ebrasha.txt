@@ -1,1 +1,3 @@
-How to use A/B testing to improve the overall design of your email campaigns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f85a5cf4d0cecec636e7fbd08b0137e73b6377efaa6b655a77f76efdfd1940b9
+size 79

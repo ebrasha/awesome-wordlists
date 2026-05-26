@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of data, such as personal, sensitive, and special categories of data?
+version https://git-lfs.github.com/spec/v1
+oid sha256:90bc10e711b7493b4ec0ba034bc328f83f97845898ba2930b80424a97fae10e3
+size 152

@@ -1,3 +1,3 @@
-SAMSUNG-SGH-T749/T749UVIK1 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-T749/T749UVIF3 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-T749-MKB/T749UEJJ7 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:1abc52ca00352bf0e8f799046a651c7a6c4fe551b9a30bb9b0dbc8c009695d4d
+size 319

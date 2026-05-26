@@ -1,1 +1,3 @@
-What are the best practices for using personalization to create a more memorable experience for my subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69dcccfea456cefa36c1b9764eb825814f11f48867b31880c9dfaa32f5025be
+size 113

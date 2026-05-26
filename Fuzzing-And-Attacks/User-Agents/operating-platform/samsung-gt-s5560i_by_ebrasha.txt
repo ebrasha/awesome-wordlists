@@ -1,1 +1,3 @@
-MQQBrowser/Mini2.2 (SAMSUNG-GT-S5560i/S5560IJPKB1)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6967333e6f85c36eece7b3f067b0ef464b02478fe6f7184a76533b12c45f4626
+size 51

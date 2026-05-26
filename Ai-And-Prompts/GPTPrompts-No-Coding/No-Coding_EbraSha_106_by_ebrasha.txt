@@ -1,1 +1,3 @@
-What are the key factors to consider when scaling a no-code business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9e2ce702020f7686a780153ea9ef4b01ddb05fb2cfa1670d49003b877ca2a2b
+size 71

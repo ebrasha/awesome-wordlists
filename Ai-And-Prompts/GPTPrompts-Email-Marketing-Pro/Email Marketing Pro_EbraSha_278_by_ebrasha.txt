@@ -1,1 +1,3 @@
-How can I make my email templates look clean and simple?
+version https://git-lfs.github.com/spec/v1
+oid sha256:30fc6da1ba4763c151cad3aa1fc1d2912f8e12ad29bbf5cfe2272d3dbf2e5206
+size 58

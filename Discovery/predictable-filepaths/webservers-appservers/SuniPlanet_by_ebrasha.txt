@@ -1,35 +1,3 @@
-?Publisher
-?wp-cs-dump
-?wp-html-rend
-?wp-start-ver
-?wp-stop-ver
-?wp-uncheckout
-?wp-usr-prop
-?wp-ver-diff
-?wp-ver-info
-?wp-verify-link
-admin-serv
-admin-serv/config/admpw
-admpw
-agents
-bin
-ca
-cgi-bin
-config
-dirb_random.cgi
-dirb_random.jsp
-dirb_random.shtml
-docs
-dsgw
-help
-index.html
-jsp
-manual
-mc-icons
-netshare
-ns-icons
-publisher
-search
-search-ui
-servlet
-servlets
+version https://git-lfs.github.com/spec/v1
+oid sha256:aebac004eb24886c4c9efbcc73b0a1df412ed3f9919aa3d4754889e0fb595009
+size 362

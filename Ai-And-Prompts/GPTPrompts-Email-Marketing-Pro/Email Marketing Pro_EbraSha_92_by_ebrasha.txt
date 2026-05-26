@@ -1,1 +1,3 @@
-How can I use email marketing data analysis to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:151150e813eb04cddb52afa12e875d84e8ef94d548d2b3fb2084584abf49ed84
+size 71

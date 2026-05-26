@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.0; LG-F700S Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 6.0.1; LG-F700S Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:802910d618e8d0b0162d89f1ebfd3a548ea1749dd1f59d3057a4145c87564d8c
+size 275

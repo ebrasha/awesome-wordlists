@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.4; es-cl; SonyEricssonST18av Build/4.0.2.A.0.42) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-au; SonyEricssonST18av Build/4.0.2.A.0.42) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe30da53bfbc27435d6d860166a63d727e1af2711bc51a03b2c37d18962cc2d
+size 308

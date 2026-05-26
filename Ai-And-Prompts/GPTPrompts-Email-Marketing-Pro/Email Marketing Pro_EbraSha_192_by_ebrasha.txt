@@ -1,1 +1,3 @@
-How to use A/B testing to optimize the design of your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f22cba825fcb25211ee74b3ad36dd3e264802b00ed862dc2a9715d1a640e4fc
+size 63

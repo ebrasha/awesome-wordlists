@@ -1,3 +1,3 @@
-BecomeBot
-Mozilla/5.0 (compatible; BecomeBot/3.0; MSIE 6.0 compatible; +http://www.become.com/site_owners.html)
-Mozilla/5.0 (compatible; BecomeBot/2.3; MSIE 6.0 compatible; +http://www.become.com/site_owners.html)
+version https://git-lfs.github.com/spec/v1
+oid sha256:305173ee085010d0804c0dd02880701c547bf806193c84892f73c64836fd4d9c
+size 214

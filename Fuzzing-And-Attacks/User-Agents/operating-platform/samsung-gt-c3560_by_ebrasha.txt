@@ -1,2 +1,3 @@
-SAMSUNG-GT-C3560/1.0 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3560/1.0 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec172e09fc846309831fcd39a48bc10a27e1ae0d9822ac4e7ffa9351e34b95d2
+size 162

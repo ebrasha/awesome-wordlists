@@ -1,1 +1,3 @@
-How can I use email marketing to provide detailed information about the warranty and guarantee offered for my products to remove any doubts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b3613de37882c2b62e83a681c90142bef7a0110abec6b689c8fff1d1687228
+size 142

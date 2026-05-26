@@ -1,1 +1,3 @@
-Northern Marianas College
+version https://git-lfs.github.com/spec/v1
+oid sha256:a49ce827ab69e619809cf04bc24f96c3110ba7e50cc8e725b988b880fa99779f
+size 26

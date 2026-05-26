@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.0; HTC One Custom Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 gonative
+version https://git-lfs.github.com/spec/v1
+oid sha256:eae37ed1e29e8388bd3a7d011431d93064199b31683d6f5eb95466dac23c7a0a
+size 159

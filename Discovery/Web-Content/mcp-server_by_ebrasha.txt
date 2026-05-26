@@ -1,4 +1,3 @@
-sse
-mcp
-mcp/transport
-mcp/message
+version https://git-lfs.github.com/spec/v1
+oid sha256:a344b037544cd6a8c9d18b76007c9c7c9a26d9e107e4a834f0a3076fd86371e0
+size 33

@@ -1,1 +1,3 @@
-ZTE-T116a NetFront/3.5 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1 firmware/T116a T04
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a12e25b37840b7787efe231ed098bd986c233e3aa10a304efd079f17e16deb6
+size 89

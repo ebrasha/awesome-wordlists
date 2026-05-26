@@ -1,1 +1,3 @@
-How do I store and manage metadata in a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b297a46219edf982caa109216aaad93fd0e33f8b977cdac86dd7957ceeb73aa8
+size 62

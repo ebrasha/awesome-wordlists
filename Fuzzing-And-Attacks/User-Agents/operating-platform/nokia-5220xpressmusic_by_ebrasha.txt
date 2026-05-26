@@ -1,1 +1,3 @@
-Nokia5220XpressMusic/2.0 (07.23) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0(Java; U; MIDP-2.0; zh-CN; nokia5220xpressmusic) U2/1.0.0 UCBrowser/8.8.0.227 U2/1.0.0 Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:27a9b8140a89c6f3672b453e4f4d9380e5802cc5a6daaa84cc46ff3610948166
+size 190

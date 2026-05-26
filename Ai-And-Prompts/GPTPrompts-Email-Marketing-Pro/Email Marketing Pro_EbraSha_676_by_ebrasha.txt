@@ -1,1 +1,3 @@
-What metrics should I focus on to optimize the effectiveness of my email sign-up forms?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2fcc71982a1770103ff08fa8071617e0f01ea580e9bf4cbd23fcc710ae942e5
+size 89

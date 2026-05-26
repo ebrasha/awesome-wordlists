@@ -1,1 +1,3 @@
-LGE-VM510 NetFront/3.5.1 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e48df13b0baac3b297f3247d540596ee9d9e5616eefaaab3b71cc122b039d31
+size 39

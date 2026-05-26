@@ -1,1 +1,3 @@
-How do I keep up with the latest technology trends and innovations to maintain a competitive edge?
+version https://git-lfs.github.com/spec/v1
+oid sha256:69cfe778cc900d3e8acfb9d6ea67bb0bbeb9d04debcf2088d26a39dc443e4524
+size 100

@@ -1,6 +1,3 @@
-NokiaE66/UC Browser7.7.1.88/28/352
-UCWEB/2.0(Symbian; U; S60 V3; en-US; NokiaE66) U2/1.0.0 UCBrowser/8.8.0.245 U2/1.0.0 Mobile
-UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaE66) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE66) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-NokiaE66/GoBrowser/2.0.297
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE66) U2/1.0.0 UCBrowser/9.0.0.290 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:da85831696cd0d103226a4057504c5202cb523e123b81c73cc88fa1da3e2c437
+size 430

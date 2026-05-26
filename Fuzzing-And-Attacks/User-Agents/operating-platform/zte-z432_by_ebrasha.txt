@@ -1,4 +1,3 @@
-ZTE-Z432/2.0.9 NetFront/4.2 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
-ZTE-Z432/2.0.11 NetFront/4.2 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
-ZTE-Z432/1.0.1 NetFront/4.2 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
-ZTE-Z432/1.0.3 NetFront/4.2 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8b57424c7f2000a44edae129d13de556e516bf84c7f9ed80ffd3da8ae129649
+size 301

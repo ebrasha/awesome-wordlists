@@ -1,1 +1,3 @@
-Mozilla/4.0 (compatible; KUN/3.1.1; SM-B510K; CellPhone; Profile/1.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d81862207f25d19f0c10a487adea11540b519354c6163ca815e1d9125cccb7
+size 70

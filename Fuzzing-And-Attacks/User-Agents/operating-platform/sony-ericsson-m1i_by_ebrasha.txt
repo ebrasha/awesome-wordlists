@@ -1,2 +1,3 @@
-SonyEricssonM1i/R1BA Browser/Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.5) Profile/MIDP-2.1 Configuration/CLDC-1.1
-SonyEricssonM1i/R1BA Browser/Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC)/UC Browser7.8.0.95
+version https://git-lfs.github.com/spec/v1
+oid sha256:941afca4f3d951e3eb439f39fa1fe9de37811ae72882f39ab19e6142f41139df
+size 248

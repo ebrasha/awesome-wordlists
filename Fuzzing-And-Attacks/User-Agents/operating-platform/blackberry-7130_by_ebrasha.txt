@@ -1,2 +1,3 @@
-BlackBerry7130/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 UNTRUSTED/1.0 3gpp-gba
-BlackBerry7130/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+version https://git-lfs.github.com/spec/v1
+oid sha256:242a67fbcefc43e6d74e48fead522f37095775e0d34d246579cd4d68879101c4
+size 171

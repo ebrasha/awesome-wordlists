@@ -1,1 +1,3 @@
-How can I track the success of my email A/B testing efforts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd2116aab4974c9fb44c357158269c8c69b81a0f84726cf6aed3f8eacbf4cb09
+size 62

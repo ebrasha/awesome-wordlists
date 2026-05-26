@@ -1,2 +1,3 @@
-SAMSUNG-GT-C3011/1.0 Openwave/6.2.3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-GT-C3011/1.0 Openwave/6.2.3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5fcc9a9ebce09518ca269ae3ca8de93c799baac0299936f49ce59f7eb2b6bad
+size 207

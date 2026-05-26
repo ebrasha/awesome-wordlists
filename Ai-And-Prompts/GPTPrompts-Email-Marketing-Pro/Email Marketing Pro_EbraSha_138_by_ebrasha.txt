@@ -1,1 +1,3 @@
-How can I use A/B testing to determine the best email preheader for my campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd576e28266d7eadec9ba5e39047c548324c3ac4d6a06e32ad7749ec0596bf9
+size 83

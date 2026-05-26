@@ -1,1 +1,3 @@
-How can I use email marketing automation workflows to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b79365095966ca04ec0cfef08d4c81a1683beb48760a3f49ca7cc7bf5672d3e
+size 78

@@ -1,6 +1,3 @@
-SVN Digger v1.0 - 11/04/2011
-====================
-You can use these lists for finding hidden resources on the web applications.
-More information : http://www.mavitunasecurity.com/blog/SVN-Digger-Better-Lists-for-Forced-Browsing/
-
-They are licensed under GPL, feel free to share and use your own GPL-Compatible application.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8017cc86b61c63e1b6d854e493b297eb12859f4caf2daa50382182fc548b2d83
+size 323

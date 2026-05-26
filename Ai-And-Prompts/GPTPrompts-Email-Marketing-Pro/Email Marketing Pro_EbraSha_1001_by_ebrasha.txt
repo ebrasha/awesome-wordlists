@@ -1,1 +1,3 @@
-How can I use email lead magnets to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdcac8e52e0b8bd01011d1235ea77bb5193acd01fc783b3051a6f53bf50f8fdb
+size 60

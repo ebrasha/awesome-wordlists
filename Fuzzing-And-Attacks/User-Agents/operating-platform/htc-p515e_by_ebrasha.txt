@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.3; ko-; HTC_P515E Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.3; ko-kr; HTC_P515E Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e978d1d9db9d0478624e8a794c869d481b7bec133bbb6eeccf6658c26f2b35
+size 274

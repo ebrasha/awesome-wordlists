@@ -1,1 +1,3 @@
-ZTE-T126 NetFront/3.5 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1 firmware/T126 T02
+version https://git-lfs.github.com/spec/v1
+oid sha256:1798ea5e1306a427b3bc4a30b99eb04f4adfd7e6a51007d4a0c969904306b292
+size 87

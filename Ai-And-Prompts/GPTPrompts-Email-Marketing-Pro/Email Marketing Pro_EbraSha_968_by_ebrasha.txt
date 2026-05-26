@@ -1,1 +1,3 @@
-What are the most effective ways to use lead magnets to grow my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8710f29ee8e302004396d99af1bbd9ec16295f6c86d42cfdff8ffafa8e52ee89
+size 77

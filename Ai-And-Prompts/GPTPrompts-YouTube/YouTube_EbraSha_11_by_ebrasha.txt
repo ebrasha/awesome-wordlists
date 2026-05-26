@@ -1,1 +1,3 @@
-What are the best practices for optimizing video descriptions on YouTube?
+version https://git-lfs.github.com/spec/v1
+oid sha256:db61b33625f10b40e5e50336f8792c718a5854fd58565a3ac7f0522a98fc22d8
+size 75

@@ -1,1 +1,3 @@
-How can I use A/B testing to test the effectiveness of different email marketing automation triggers and actions?
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfb8aa135e6b26cb627df046cea7450561516b02b70da5a8957203fff108d359
+size 115

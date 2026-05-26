@@ -1,1 +1,3 @@
-How can I increase the open rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac3ffce6691146c7b601d908c1ef7f868c51552379fa2682fee7dd1f8936ccac
+size 48

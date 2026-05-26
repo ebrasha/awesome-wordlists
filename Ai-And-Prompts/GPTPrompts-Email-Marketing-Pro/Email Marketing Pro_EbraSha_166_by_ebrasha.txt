@@ -1,1 +1,3 @@
-How can I use A/B testing to optimize my email's use of analytics and tracking pixels for better data collection?
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d923e491727564b1c8abee5478cb0deb380261a51cb695738d0b810f7c32f4
+size 115

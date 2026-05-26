@@ -1,1 +1,3 @@
-How can I use personalization to make my emails more relevant to the recipient?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d589d55f337e837498864056d304d281850607ac6e7ac92167aca163e159c56
+size 81

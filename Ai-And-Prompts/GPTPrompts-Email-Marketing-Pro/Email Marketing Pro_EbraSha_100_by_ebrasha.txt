@@ -1,1 +1,3 @@
-How can I use email list segmentation to optimize my email marketing budget?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc3b812a1d86165619fdd92e1f62b07d090f4e5aa54323e9d3bb30ca83dbeaaf
+size 78

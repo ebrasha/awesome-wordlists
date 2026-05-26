@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.2; pt-br; SAMSUNG SM-C115M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d7d144c9df13dde137e505a696733a1a9f3aeb3b01e8c132f0bd990c778982d
+size 165

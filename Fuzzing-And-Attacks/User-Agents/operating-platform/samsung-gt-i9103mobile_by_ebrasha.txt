@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 2.3.3; GT-i9103Mobile; rv:54.0) WebKit/538.45 Gecko/20100101 Firefox/54.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ff7249952ffeb1913885bb5fadc114683de475554fbc547e5cd4d1254b8bc52
+size 102

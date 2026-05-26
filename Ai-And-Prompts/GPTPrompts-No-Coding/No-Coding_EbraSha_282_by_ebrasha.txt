@@ -1,1 +1,3 @@
-How do I implement database indexing and caching for performance in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5917c6f5c5561af19990ecee27e122e41ad07e433755fb2df84da1f738fe971d
+size 78

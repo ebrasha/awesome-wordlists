@@ -1,1 +1,3 @@
-How do I handle internationalization and localization in my application using a no-code platform?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b295376b99c53be43e38eca6abe1afca5ba98782d082781f221780b2db091954
+size 99

@@ -1,2 +1,3 @@
-LG-A165/V100 Obigo/Q05A MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
-LG-A165
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ff35c95e0397e44477fb5e356dca1384e56ffa590eb6a9f00e65efa710ffcf
+size 106

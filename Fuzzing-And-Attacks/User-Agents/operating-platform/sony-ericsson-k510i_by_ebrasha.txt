@@ -1,1 +1,3 @@
-SonyEricssonK510i/R4EA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f57da039f2ac1d9402f967a9f00829fb27775fcca7544585749840fd04799db
+size 84

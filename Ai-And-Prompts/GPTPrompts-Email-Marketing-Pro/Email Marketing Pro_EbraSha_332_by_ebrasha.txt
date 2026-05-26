@@ -1,1 +1,3 @@
-What should I do if I am unsure about the legality of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:963119f9a6bd9076816e9fa1f3db302a4f7e625583b05f36a0018a5b893d0932
+size 66

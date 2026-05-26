@@ -1,3 +1,3 @@
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV140;0001;0001) KDL42W800B; CC/XGA) Presto/2.12.407 Version/12.50
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV140;0001;0001) KDL42W800B; CC/IRN) Presto/2.12.407 Version/12.50
-Opera/9.80 (Linux armv7l; InettvBrowser/2.2 (00014A;SonyDTV140;0001;0001) KDL42W800B; CC/MEX) Presto/2.12.407 Version/12.50
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aed423587e705456075f24d17c90a65add5a18cf61e1db9143e34dcedb5d8cc
+size 372

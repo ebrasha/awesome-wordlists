@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account the mobile-specific email client rendering and display?
+version https://git-lfs.github.com/spec/v1
+oid sha256:003698d4757100a4ee9d260d35f0bec703cb4b5fb1f413b4e65d820eaad09e40
+size 117

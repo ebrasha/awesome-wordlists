@@ -1,1 +1,3 @@
-What metrics should I track to optimize the engagement of my email subscribers over time?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b0f04de1a98b2ce080ffb0fb7e943cf855b069ba2613a1f9a5fc0863957e407
+size 91

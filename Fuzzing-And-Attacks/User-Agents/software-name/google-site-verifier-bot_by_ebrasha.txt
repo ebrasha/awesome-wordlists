@@ -1,2 +1,3 @@
-Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
-Google-Site-Verification/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fef2c0bbb70bbdb62a736ac5eb9bde3b937cea93679fa84f96aa3ab8c2d7713
+size 84

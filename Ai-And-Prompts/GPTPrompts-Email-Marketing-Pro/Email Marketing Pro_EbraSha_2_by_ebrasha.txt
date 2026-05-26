@@ -1,1 +1,3 @@
-What is email list building and why is it important for a business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:28659505ffb2bf661cd0899c014a1b6b05b8ebf089cc18cf0b01c8cb50ef181f
+size 69

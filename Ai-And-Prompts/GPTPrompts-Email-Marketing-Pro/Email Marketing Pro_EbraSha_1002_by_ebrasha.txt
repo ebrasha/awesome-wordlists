@@ -1,1 +1,3 @@
-What are the best practices for using email opt-in incentives to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eed21d0766c3a1748eef3dc3084b7fe1b187ed99f56a588d3d16dcf6b178c18
+size 89

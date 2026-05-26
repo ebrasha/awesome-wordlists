@@ -1,1 +1,3 @@
-How can I use trigger campaigns to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1dfa8a5ed6b7e7ff3b2ad82356145005b6316a4ec6bec26122cc270e9e7078e
+size 63

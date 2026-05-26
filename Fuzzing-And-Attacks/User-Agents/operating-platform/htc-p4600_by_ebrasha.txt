@@ -1,2 +1,3 @@
-HTC-P4600/1.2 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
-HTC-P4600/5.11.502.2 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+version https://git-lfs.github.com/spec/v1
+oid sha256:246e13ce92d674541ed2022eb545e97a8beefed04c2f1b6911e7f6f8f3dba8d8
+size 159

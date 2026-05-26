@@ -1,1 +1,3 @@
-How can I use A/B testing to determine the best email format (e.g. HTML, plain text) for my campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d71cf81c2892eb1ba33a312cc803d82989c45c9fd2ed0fd447757d1889575c7b
+size 104

@@ -1,1 +1,3 @@
-SonyEricssonT100/R101
+version https://git-lfs.github.com/spec/v1
+oid sha256:59887dd542d3bbf80d11a62fa74bd5d867b8c0f671000efa945e76adefce80ce
+size 22

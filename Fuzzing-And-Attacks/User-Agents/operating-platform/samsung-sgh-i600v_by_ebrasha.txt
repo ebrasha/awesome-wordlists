@@ -1,1 +1,3 @@
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.8) SAMSUNG-SGH-i600V/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5030e74f837be6e837f2781b9eeeec2400a7ca0bfa5a7fd60f048aa64fd9ca0
+size 83

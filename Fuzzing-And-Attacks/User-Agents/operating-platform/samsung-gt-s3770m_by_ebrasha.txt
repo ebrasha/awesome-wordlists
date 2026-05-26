@@ -1,1 +1,3 @@
-SAMSUNG-GT-S3770M/1.0 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:7551a19c8f7046d70ba7d1a9beda4abdc1e1826397290ec329479dc4be708ba6
+size 75

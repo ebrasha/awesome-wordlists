@@ -1,1 +1,3 @@
-How can I use metrics to measure the impact of email sender name on open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bc2fedaf2b45058bb59d653cbb93e1e30760ee392c31dc57a7495da6be07352
+size 81

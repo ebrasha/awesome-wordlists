@@ -1,3 +1,3 @@
-Mozilla/5.0 (Mobile; LG-D300; rv:18.1) Gecko/18.1 Firefox/18.1
-Mozilla/5.0 (Mobile; LG-D300; rv:62.0.2) Gecko/62.0.2Firefox/62.0.2
-Mozilla/5.0 (Mobile; LG-D300; rv:62.0) Gecko/62.0 Firefox/62.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0cfe604abb45fb4cf3125d01062f621b4a2e959927eb70ce2a1548c5fa3a592
+size 194

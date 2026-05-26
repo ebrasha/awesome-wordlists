@@ -1,1 +1,3 @@
-ZTE-F102 H3G/2.0 ACS-NF/3.4 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:885c5feb29dc434ca89dda69be8fed3e538b7e9592aeb3f0aed73f3fb7d178cb
+size 75

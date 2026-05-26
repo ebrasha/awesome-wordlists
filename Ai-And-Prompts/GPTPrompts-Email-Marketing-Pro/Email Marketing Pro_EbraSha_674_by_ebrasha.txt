@@ -1,1 +1,3 @@
-What metrics should I track to optimize the engagement of my email subscribers with different segments?
+version https://git-lfs.github.com/spec/v1
+oid sha256:636554defc73c1d77435706ddd858ee7430d496d4c5c9bf9a0303d6f076b59f8
+size 105

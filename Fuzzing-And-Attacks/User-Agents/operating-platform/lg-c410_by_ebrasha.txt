@@ -1,2 +1,3 @@
-LG-C410/C41010f Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
-LG-C410/C41010k Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3da0931664c5d24c47961f2d35ccd816184c79be654d8d6134162d332b76cc8d
+size 134

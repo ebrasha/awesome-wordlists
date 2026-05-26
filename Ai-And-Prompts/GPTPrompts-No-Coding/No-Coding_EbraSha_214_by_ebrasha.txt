@@ -1,1 +1,3 @@
-How do I identify opportunities for workflow automation in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f77a1f7b19a3749d4426863db784c0070e05c80d13bf091d61beb5dacf4ce600
+size 69

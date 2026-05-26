@@ -1,5 +1,3 @@
-admin
-manager
-role1
-root
-tomcat
+version https://git-lfs.github.com/spec/v1
+oid sha256:73eca3032924df5748dff5c5db6606f27c8a0d7ef05778b4568ab635371eb0e3
+size 32

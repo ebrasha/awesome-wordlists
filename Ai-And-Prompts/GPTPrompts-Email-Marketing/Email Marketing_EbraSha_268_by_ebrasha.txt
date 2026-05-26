@@ -1,1 +1,3 @@
-What are the best practices for using animation in emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:db8979c53c3f7099a62816531cc467b09dd20c1c37e1d0eb5d3e6476e4ca2a24
+size 60

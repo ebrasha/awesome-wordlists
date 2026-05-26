@@ -1,1 +1,3 @@
-How can I use a mobile-responsive design for my email templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:778ba88a617f30a068849fbde8526e4132956b2e975c83967b18bbc4f21c4418
+size 66

@@ -1,1 +1,3 @@
-SAMSUNG-GT-S5550/JBJB1 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd5ce05e8ea29734af3f1ce409c1a1f46154105e83d9736738af723bc96a81f9
+size 101

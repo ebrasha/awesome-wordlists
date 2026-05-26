@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; HTC_C525u-orange-LS/2.16.73.3 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; HTC_C525u Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.2.2; en-gb; HTC_C525u Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; HTC_C525u-orange-LS/1.17.73.10 Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2107137ae714b0157787220711f8b25f6d7bda554b0e82c2400e3322a2e2337
+size 604

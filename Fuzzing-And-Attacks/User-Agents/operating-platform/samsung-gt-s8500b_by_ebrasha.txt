@@ -1,1 +1,3 @@
-Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500B/1.0; U; Bada/1.0; pt-br) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+version https://git-lfs.github.com/spec/v1
+oid sha256:6600dba82d128e08943d59e9a0eb7db101d4017f39ff4195c0b0533848f19111
+size 146

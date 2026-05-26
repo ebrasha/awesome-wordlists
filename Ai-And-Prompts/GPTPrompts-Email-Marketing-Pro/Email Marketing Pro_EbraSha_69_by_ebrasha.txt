@@ -1,1 +1,3 @@
-What are the most effective strategies for using email list segmentation to improve conversion rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7825d87ff6a6b96e893753970884246a3392a9dbc4c0e40ea8472e2561de8c86
+size 103

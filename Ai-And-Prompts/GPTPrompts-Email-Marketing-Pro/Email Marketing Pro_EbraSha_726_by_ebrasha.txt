@@ -1,1 +1,3 @@
-How can I measure the success of my email newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:333a4a968a82ff215ed02e90bdbce66af0805bb44ab26e248286e9eff99c2499
+size 56

@@ -1,1 +1,3 @@
-Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; GT-S7530L)
+version https://git-lfs.github.com/spec/v1
+oid sha256:76089361e601fff3cb6ea29a8a5aea32e9723642c06546bbea42a1b3c678d974
+size 104

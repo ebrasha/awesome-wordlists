@@ -1,2 +1,3 @@
-schibstedsokbot (compatible; Mozilla/5.0; MSIE 5.0; FAST FreshCrawler 6; Contact: webcrawl@schibstedsok.no;)
-FAST FreshCrawler 6
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b7044814da3cdf5a7de854ef88770a36a8dd3156a817661f32b3d8e84c1af71
+size 129

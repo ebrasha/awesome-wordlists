@@ -1,1 +1,3 @@
-How can I use animation and other interactive elements in my email campaigns for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c5d6ca8b6a8841d550d4a87b5ce5854a447e178cb8a6cdaf65c7d478fda055
+size 98

@@ -1,1 +1,3 @@
-How do I measure the open rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:07c81c55d60afb47d7e7fd62ad203b860f87e16477c8b565487e6f3eecbe5278
+size 46

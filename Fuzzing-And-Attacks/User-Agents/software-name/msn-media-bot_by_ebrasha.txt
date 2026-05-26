@@ -1,2 +1,3 @@
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/534+ (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 MsnBot-Media /1.0b
-msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a06bf6a25d6b47408ba21cba77f71b30b83bfd5bfda1ffe11828a7147b2c623
+size 211

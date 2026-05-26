@@ -1,1 +1,3 @@
-How can I use conversion rate data to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b552bfe00db11ffb07ba2fd3097fb570df483b5df1d78a02aa458d486d6d4ea
+size 66

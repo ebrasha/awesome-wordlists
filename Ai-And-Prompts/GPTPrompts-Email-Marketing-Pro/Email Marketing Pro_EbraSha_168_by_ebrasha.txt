@@ -1,1 +1,3 @@
-How can I use A/B testing to optimize my email's use of interactive elements such as quizzes, surveys, and polls?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da74d8116d402b78e7385225e7b1367188f7e4ed02a6958ef0e2eccb075f626
+size 115

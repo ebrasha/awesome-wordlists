@@ -1,1 +1,3 @@
-How do I store and manage complex data structures, such as graphs and trees, in a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:89b7bb189702d2dc48920b3e26e3d66658aec216735eb169c91cdee3407ecc57
+size 104

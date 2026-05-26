@@ -1,30 +1,3 @@
-/apache/logs/error.log 
-/apache/logs/access.log 
-/apache/logs/error.log 
-/apache/logs/access.log 
-/apache/logs/error.log 
-/apache/logs/access.log 
-/etc/httpd/logs/acces_log 
-/etc/httpd/logs/acces.log 
-/etc/httpd/logs/error_log 
-/etc/httpd/logs/error.log 
-/var/www/logs/access_log 
-/var/www/logs/access.log 
-/usr/local/apache/logs/access_log 
-/usr/local/apache/logs/access.log 
-/var/log/apache/access_log 
-/var/log/apache2/access_log 
-/var/log/apache/access.log 
-/var/log/apache2/access.log 
-/var/log/access_log 
-/var/log/access.log 
-/var/www/logs/error_log 
-/var/www/logs/error.log 
-/usr/local/apache/logs/error_log 
-/usr/local/apache/logs/error.log 
-/var/log/apache/error_log 
-/var/log/apache2/error_log 
-/var/log/apache/error.log 
-/var/log/apache2/error.log 
-/var/log/error_log 
-/var/log/error.log 
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd9d5a462650382281729c190bac262836d80bd375a6732e23731730b61d375e
+size 801

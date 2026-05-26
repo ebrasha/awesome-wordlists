@@ -1,1 +1,3 @@
-How do I implement full-text search in a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f67499f6ef9fdb47608e71ec62a84b98584eb3f916490e8873d6830716f57ce3
+size 63

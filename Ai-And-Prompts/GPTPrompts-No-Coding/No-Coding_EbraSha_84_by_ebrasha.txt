@@ -1,1 +1,3 @@
-How do I handle version control and collaboration when building an application using a no-code platform?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9007762e887964a325af816a85650bf01af652a5ac81f7ccb4960e411b43fbbc
+size 106

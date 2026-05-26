@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.0.2; htc_a53ml_dtul Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df09a5979a81b5789d76610d5f8aa0b005b6ecf66f942b900a18bd565c36a50
+size 152

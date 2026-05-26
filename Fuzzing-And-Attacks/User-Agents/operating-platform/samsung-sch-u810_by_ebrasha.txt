@@ -1,1 +1,3 @@
-SCH-U810/1.0 NetFront/3.0.22.1.14 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e6e5392090d59f45f7a0a4d267f33684c1b0e616eab48b7630344af6f8cafd
+size 48

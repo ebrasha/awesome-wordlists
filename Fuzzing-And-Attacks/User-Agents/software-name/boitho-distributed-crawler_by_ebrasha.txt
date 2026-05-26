@@ -1,7 +1,3 @@
-boitho.com-dc/0.85 ( http://www.boitho.com/dcbot.html )
-boitho.com-dc/0.4 ( http://www.boitho.com/dcbot.html )
-boitho.com-dc/0.79 ( http://www.boitho.com/dcbot.html )
-boitho.com-dc/0.81 ( http://www.boitho.com/dcbot.html )
-boitho.com-dc/0.82 ( http://www.boitho.com/dcbot.html )
-boitho.com-dc/0.83 ( http://www.boitho.com/dcbot.html )
-boitho.com-robot/1.x
+version https://git-lfs.github.com/spec/v1
+oid sha256:f743d7b91f581cf022b596b46d0409a9e315f447db86bf777b83d8600f5b4fd6
+size 356

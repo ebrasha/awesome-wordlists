@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-J3308 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a10a5efc8eb5c42c9df6c0eeb07d498f374bd6e110bb4de80da276313a2795e
+size 166

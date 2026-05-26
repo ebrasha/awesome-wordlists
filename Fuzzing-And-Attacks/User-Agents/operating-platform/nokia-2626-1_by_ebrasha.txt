@@ -1,4 +1,3 @@
-Mozilla/5.0 (nokia 2626-1/196.25.36.180; u;Series 60/3.1 nokia 2626-1/196.25.36.180;profile/nokia 2626-1
-Mozila/5.0(symbianos/9.2;u;Series60/3.1 Nokia2626-1/196.34.14.209;profile/Mozila Firefox/9.0.1
-Mozilla/5.0 (Windows NT 5.1; u;Series 60/3.1 nokia 2626-1/196.25.36.180;profile/mozila firefox/9.0.1
-Mozilla/5.0 (nokia 2626-1/196.25.36.180; u;Series 60/3.1 nokia 2626-1/196.25.36.180;profile/mozila firefox/9.0.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8587a91ad99d3226125e3a28cf0a4b8cef25509e35650256c52313760dedf87
+size 414

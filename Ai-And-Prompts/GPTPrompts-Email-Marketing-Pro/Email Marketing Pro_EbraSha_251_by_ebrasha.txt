@@ -1,1 +1,3 @@
-How can I use email design to create a sense of value in my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a0fb07a5944cb5f88b3f15147ea09102bc40689ab7764f7331eb7dd81696ab
+size 72

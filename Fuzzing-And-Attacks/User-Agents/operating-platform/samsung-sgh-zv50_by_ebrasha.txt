@@ -1,1 +1,3 @@
-SAMSUNG-SGH-ZV50-Vodafone/1.0 SHP/VPP/R5 NetFront/3.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1 UP.Link/6.3.1.13.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b04a48643d3b1df949291af5d670aa22cf82e337d2f9f1b2647dccd0202ec7d
+size 127

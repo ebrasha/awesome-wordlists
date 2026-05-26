@@ -1,1 +1,3 @@
-How can A/B testing be used to get the optimal subject line for my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1e31c11cd16ad05afd6e133b4c6c591ad2b11458dd199401ed6d569add7d2f5
+size 76

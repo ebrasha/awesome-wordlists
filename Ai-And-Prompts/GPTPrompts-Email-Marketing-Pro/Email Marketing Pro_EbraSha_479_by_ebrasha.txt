@@ -1,1 +1,3 @@
-How can I avoid using designs that are not mobile-responsive?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4932316d4b39e7445e5075d4bf27867f7b7727bb6318a1c5859f541a115099e8
+size 63

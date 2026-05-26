@@ -1,1 +1,3 @@
-Mobile BrowserNokia Web BrowserNokiaE50-1/3.0 (07.36.0.0) SymbianOS/9.1 Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:b800a4d6d8d0804e4a664969c3ad826942f0f3823d5d2f895e287e38866ba111
+size 125

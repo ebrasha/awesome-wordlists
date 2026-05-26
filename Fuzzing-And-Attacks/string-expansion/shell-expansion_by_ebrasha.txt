@@ -1,6 +1,3 @@
-$HOME
-$ENV{'HOME'}
-%d
-%s
-{0}
-%*.*s
+version https://git-lfs.github.com/spec/v1
+oid sha256:160b5044e81ed7e4eb4d8eb1c44f43eea6f31eba7ad749332c34da3395cb05fa
+size 35

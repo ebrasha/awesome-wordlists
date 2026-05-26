@@ -1,1 +1,3 @@
-What are some strategies for using automation to create and publish video annotations on my YouTube videos?
+version https://git-lfs.github.com/spec/v1
+oid sha256:aca957e308d4b902f84d4a7406e2d84646f4423ae30b3a2ced89d6cc208485d3
+size 109

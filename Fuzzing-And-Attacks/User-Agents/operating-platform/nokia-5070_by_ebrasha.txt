@@ -1,1 +1,3 @@
-Nokia5070/2.0 (04.22) Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:cec9b91f5df33bf7e2344f5ecbe1348695bae5e6101f87d552a15bc55b4a38b5
+size 62

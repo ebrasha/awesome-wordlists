@@ -1,12 +1,3 @@
-BookStore.sln
-bookonline.sln
-WebSite1.sln
-CMS.sln
-CodeCampServer.sln
-Portal.sln
-Test.sln
-MyBlog.sln
-Demo.sln
-TinyMCE.sln
-SNEG.sln
-Voltage.sln
+version https://git-lfs.github.com/spec/v1
+oid sha256:261e3154d6a39652fd8ba6a246c05b081a3ccbda59863344331c79703d0fbb44
+size 142

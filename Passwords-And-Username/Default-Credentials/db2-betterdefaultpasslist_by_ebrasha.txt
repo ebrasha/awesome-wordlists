@@ -1,8 +1,3 @@
-ADONIS:BPMS
-db2inst1:db2inst1
-db2inst1:db2pass
-db2inst1:db2pw
-db2inst1:db2password
-dasusr1:dasusr1
-db2fenc1:db2fenc1
-db2admin:db2admin
+version https://git-lfs.github.com/spec/v1
+oid sha256:34b3a8cbdf13d92b4d8e9c287631fb4afb9e3d07056844e4aca1703b0e798333
+size 135

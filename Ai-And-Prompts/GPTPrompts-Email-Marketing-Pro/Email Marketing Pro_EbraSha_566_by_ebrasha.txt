@@ -1,1 +1,3 @@
-How can I use email personalization to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58a4cc30397ea1ee448cbd3577538c57041689b9f2e3157722c91d56b5a665c
+size 61

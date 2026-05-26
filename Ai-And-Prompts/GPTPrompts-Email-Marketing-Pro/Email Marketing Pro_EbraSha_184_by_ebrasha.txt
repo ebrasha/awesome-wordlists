@@ -1,1 +1,3 @@
-The importance of A/B testing in improving the performance of your email campaigns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6632910bc28433ad221412337275180dfa95a4cddec4829dc65d3882a80a95c
+size 85

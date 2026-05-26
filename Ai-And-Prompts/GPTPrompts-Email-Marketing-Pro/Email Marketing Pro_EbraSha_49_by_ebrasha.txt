@@ -1,1 +1,3 @@
-How can I use email list segmentation to create more effective email automation flows?
+version https://git-lfs.github.com/spec/v1
+oid sha256:02d1914f0ed9b9518db8e6289ead2c0fa9984c1118f83141ed9448a7feeedab1
+size 88

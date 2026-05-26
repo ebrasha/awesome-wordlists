@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610K/KKU1BQJ4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dc970ba59d5aab6ef2452d83648f8e1add5e7d343f5259eddb1f8653215010e
+size 172

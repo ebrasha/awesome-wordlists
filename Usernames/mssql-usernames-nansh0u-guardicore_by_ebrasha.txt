@@ -1,10 +1,3 @@
-admin
-bwsa
-hbv7
-kisadmin
-su
-sa
-test
-users
-vice
-wwo
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70720275f2dec0d25f4ad4fcc800022386a658efeaf062a93fcdf600ec8d147
+size 51

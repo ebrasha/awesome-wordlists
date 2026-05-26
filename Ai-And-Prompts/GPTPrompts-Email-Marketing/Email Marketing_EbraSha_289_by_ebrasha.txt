@@ -1,1 +1,3 @@
-How can I organize my custom email templates to make them easy to find and use?
+version https://git-lfs.github.com/spec/v1
+oid sha256:47caf2c873c71451ffa75e234862ba5cff140b5c14c69af91981ca51079a5118
+size 81

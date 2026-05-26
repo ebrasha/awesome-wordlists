@@ -1,1 +1,3 @@
-LG-LGC440/V100 Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b1b902297c59936ad2d09c5990e2ea524c7d9b09f5e4fe6250aa9fb2b21eb3d
+size 66

@@ -1,1 +1,3 @@
-How can I segment my email list for targeted marketing campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f94c6188550e1873d049b1b1e553411cc99fc452b61390df9a321595b20ae3e3
+size 67

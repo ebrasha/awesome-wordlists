@@ -1,1 +1,3 @@
-Mozilla/5.0 (Windows Phone 800.0; Android 800.0; NOKIA; Lumia 8000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/8000.0.2171.71 Mobile Safari/537.36 Edge/12.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:73abfc63afe7cd1665baa05c6951dc8a8c7ae199d1d66fd1ff3391444c9ba77b
+size 160

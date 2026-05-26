@@ -1,1 +1,3 @@
-Optimizing for mobile devices
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e52b9ce82a420df2d21c39f974e7f3ae10b8af21bf728d3e8e76a3d7ea2086a
+size 31

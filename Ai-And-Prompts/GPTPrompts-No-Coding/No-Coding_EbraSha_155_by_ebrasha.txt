@@ -1,1 +1,3 @@
-What steps can I take to streamline business operations and improve efficiency as my no-code business grows?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b70d5d048b1b8915b888582151024653908e41d6d38618b655baf090fe279d5
+size 110

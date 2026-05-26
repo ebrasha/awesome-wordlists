@@ -1,2 +1,3 @@
-Mozilla/5.0 (compatible; 008/0.85; http://www.80legs.com/webcrawler.html) Gecko/2008032620
-Mozilla/5.0 (compatible; 008/0.83; http://www.80legs.com/webcrawler.html) Gecko/2008032620
+version https://git-lfs.github.com/spec/v1
+oid sha256:dff0820d36f81841e38eb4670b9f793455e907f779a837547580763492e1c90a
+size 182

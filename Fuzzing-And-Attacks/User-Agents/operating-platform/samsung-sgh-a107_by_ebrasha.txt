@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A107/A107UCJJ1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d03e08c973fd9aed633012bbecf17d3c8dc925a86881b26b5fbac85e3cf1f68
+size 108

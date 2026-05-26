@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different industries, such as financial services, healthcare, and e-commerce?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0120e2ab3b3552ec945b964e356e3c31b6c0580eedfb388ddb51be01ae680d84
+size 144

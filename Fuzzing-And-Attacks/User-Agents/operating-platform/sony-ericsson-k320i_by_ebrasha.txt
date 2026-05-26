@@ -1,1 +1,3 @@
-SonyEricssonK320i/R4GC Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb9b9bb47982c259feeb1f21c34da9694b6433fee9ae470501b0b3c3f6d1fd51
+size 84

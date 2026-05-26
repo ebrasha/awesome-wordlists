@@ -1,12 +1,3 @@
-SAMSUNG-SGH-E250i/E250iJAIB1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJAKD1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJPJA1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJBIB2 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJAKA1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJPJD3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJVIH2 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJBKA1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJDIB1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJVII1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250IDDIB3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250i/E250iJPIB4 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e54bc31207187896fd22f4f9fd735a374375d1975fbad06a23190402475f63
+size 1320

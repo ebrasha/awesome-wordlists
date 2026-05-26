@@ -1,1 +1,3 @@
-How can I use my brand's personality in my emails to make them more relatable and engaging?
+version https://git-lfs.github.com/spec/v1
+oid sha256:21987dfae13558d0acea7af372f85153d3f3e3d32173907dfb4392845b73e10a
+size 93

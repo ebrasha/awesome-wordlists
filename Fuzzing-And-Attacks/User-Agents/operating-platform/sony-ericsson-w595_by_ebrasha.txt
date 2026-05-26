@@ -1,4 +1,3 @@
-SonyEricssonW595/R3DA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.3.2
-SonyEricssonW595/R3EA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.3.3
-SonyEricssonW595/R3EG Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.3.3
-SonyEricssonW595/R3EA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; SonyEricssonW595) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:38ae954a4adcf729dd2eebc546dee27dbd4a8d59f1f00e507cf7c44a3eb637e2
+size 491

@@ -1,1 +1,3 @@
-LGE-VM265/1.0 UP.Browser/7.2.7.2.531 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:317a61fe7c529f2a482b1b073cc008d16529de01d0e8364fb1544190580681b5
+size 51

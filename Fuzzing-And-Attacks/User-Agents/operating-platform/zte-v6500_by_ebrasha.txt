@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.6; es-es; ZTE-V6500 Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ac5bc1c71df28abf1a8c1af579a628e82bbc4471fe3277bb0a1fb7305e32cc5
+size 139

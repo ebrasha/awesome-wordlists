@@ -1,1 +1,3 @@
-Nokia6122cCN01.02/SymbianOS/9.1 Series60/3.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a75061d24807b26afd0fcc4243072936b70a3d60a1662042955443fdbe80a3fe
+size 45

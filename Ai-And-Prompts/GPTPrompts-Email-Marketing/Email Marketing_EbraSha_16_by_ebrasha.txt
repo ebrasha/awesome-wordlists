@@ -1,1 +1,3 @@
-How can I use email list tagging to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea4373778a781da04daa09a4e22d7b59c3f9d4b7e95079c5a1ee1fc72e822a3d
+size 74

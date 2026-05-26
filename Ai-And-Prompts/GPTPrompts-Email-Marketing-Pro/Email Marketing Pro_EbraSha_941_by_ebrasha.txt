@@ -1,1 +1,3 @@
-How to use A/B testing to optimize the use of personalized elements in your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ad95da79eff7248d4431c813b4dde5e768e26e6ccbb709a62b07785c989013
+size 85

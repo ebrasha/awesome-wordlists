@@ -1,1 +1,3 @@
-What are the best ways to optimize my email campaigns for mobile devices in terms of deliverability?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cad623b17764e14fba272f6f84145d86d078e5af43e572026937aa6fed262c2
+size 102

@@ -1,1 +1,3 @@
-Nokia c2
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad0a233ccbc82db5f17e8b54d29126a883111dadb2d9107ec50f31e3426edb5
+size 9

@@ -1,1 +1,3 @@
-LG-GM205 Obigo/WAP2.0 MIDP-2.0/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f62341304e797116764a074608cefa43f385e8d2fd691aea711445f4ce53f25c
+size 40

@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account mobile-specific email regulations and laws?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fd9ee356c1ebd5aee5966d43e6c8813ce515dcf18e6475779e80c86c669321f
+size 105

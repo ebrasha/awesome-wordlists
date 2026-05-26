@@ -1,7 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; SHV-E270K/KKAOH1 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; vi-vn; SHV-E270K/KKAOH1 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; SHV-E270K/KKAMF2 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; Android 4.1.2; SHV-E270K Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; SHV-E270K/KKAOH1 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; SHV-E270K Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; SHV-E270K Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 NAVER(inapp; search; 520; 7.7.2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbebc968dd6a492a97e57a49aa0ba8035e8412ccdbfdf702ad11d91138a58388
+size 1046

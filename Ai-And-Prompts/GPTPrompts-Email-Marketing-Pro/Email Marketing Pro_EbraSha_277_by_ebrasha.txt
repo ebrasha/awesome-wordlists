@@ -1,1 +1,3 @@
-How can I make my email templates mobile-responsive?
+version https://git-lfs.github.com/spec/v1
+oid sha256:288916e0f64af19568ad1681f0ba449853f7aa671fc3f2c8d11a5f732fc69c64
+size 54

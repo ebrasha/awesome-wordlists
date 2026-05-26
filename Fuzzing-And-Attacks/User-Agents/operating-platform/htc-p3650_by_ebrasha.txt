@@ -1,1 +1,3 @@
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320; HTC_P3650) Opera 8.65 [ru]
+version https://git-lfs.github.com/spec/v1
+oid sha256:85363a2a879d05f03802d93a99a59285419e77ba9f70dbb7a5ac09999250be57
+size 88

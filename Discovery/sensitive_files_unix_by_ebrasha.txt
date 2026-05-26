@@ -1,16 +1,3 @@
-/etc/fstab
-/etc/group
-/etc/groups
-/etc/hosts
-/etc/hosts.allow
-/etc/hosts.deny
-/etc/inetd.conf
-/etc/issue
-/etc/motd
-/etc/mysql.conf
-/etc/mysql/my.cnf
-/etc/passwd
-/etc/php.ini
-/etc/shadow
-/etc/xinetd.conf
-/proc/version
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ccfd96ff4fe2feb59ffdda511fb234a17cfc66615c97694f03991838dc7c099
+size 216

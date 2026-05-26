@@ -1,2 +1,3 @@
-Mozilla/5.0 (BlackBerry; U; BlackBerry 9620; es) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.807 Mobile Safari/534.11+
-Mozilla/5.0 (BlackBerry; U; BlackBerry 9620; es) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.990 Mobile Safari/534.11+
+version https://git-lfs.github.com/spec/v1
+oid sha256:5087e981f141560147ef3bef678b189a8e0acf497fd89fea139747753a7b2118
+size 258

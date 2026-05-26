@@ -1,1 +1,3 @@
-How can I create an email template that is both functional and aesthetically pleasing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c5da8749b6b3f2be93c938fbc818b07005609145903b55413c2c16d63e8d9e
+size 88

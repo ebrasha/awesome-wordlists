@@ -1,1 +1,3 @@
-SCH-U430/1.0 NetFront/3.0.22.2.12 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:21b9253892ced7d2914ac12a6dc350330cf9e11800dc9eb7928eb5ac87690c9c
+size 48

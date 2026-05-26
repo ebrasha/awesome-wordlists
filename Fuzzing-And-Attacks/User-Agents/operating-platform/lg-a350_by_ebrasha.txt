@@ -1,1 +1,3 @@
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; LG-A350) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef08e1f63b2720984e7c56db8cbd022d8c987d2929f5fd20955ba91028c3bca2
+size 105

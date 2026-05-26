@@ -1,5 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.0.99; HTC HTC Vivid/SGH-T679) Gecko/20100101 Firefox/47.0.1
-Mozilla/5.0 (Linux; Android 6.0.1; HTC HTC Vivid/HTC PH39100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883 Safari/9.1.2
-Mozilla/5.0 (Linux; Android 6.0.99; HTC HTC Vivid/SGH-T679) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
-Mozilla/5.0 (Linux; Android 6.0.99; HTC HTC Vivid/SGH-T679) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883 Safari/9.1.2
-Mozilla/5.0 (Linux; Android 6.0.1; HTC HTC Vivid/HTC PH39100) Gecko/20100101 Firefox/47.0.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:603f21058a00b3720dcc6bdeda356a3e91c774691ed43ffee4591b942ed064a5
+size 575

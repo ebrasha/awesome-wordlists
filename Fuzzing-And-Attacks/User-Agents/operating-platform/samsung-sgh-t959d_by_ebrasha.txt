@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2; en-ca; SGH-T959D Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy S/SGH-T959D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883 Safari/9.1.2
-Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy S/SGH-T959D) Gecko/20100101 Firefox/50.1.0
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-ca; SGH-T959D Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ee16f23de8ca7e7c65fc581c73b8ea11a7c77589a8d13eca5ca1e0856c9096e
+size 508

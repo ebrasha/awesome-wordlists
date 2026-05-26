@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A877/A877UCID3 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82bdb5d6077b7c8c910a0b56853949c9925ff679510cc656b1eb6be694b50e2
+size 105

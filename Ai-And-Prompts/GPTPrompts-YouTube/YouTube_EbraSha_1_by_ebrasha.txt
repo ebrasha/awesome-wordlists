@@ -1,1 +1,3 @@
-What are the best practices for optimizing video titles for YouTube search?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19194ecf8ff46bc9420f19049c20ac657b6df822edd8c6ce055ea2646ae06b6
+size 77

@@ -1,1 +1,3 @@
-How can I use email design to increase the open rate of my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:829dc88be9d1ccc373d614fd7307f50e67ef5a3809ec9708f82cffe4097e8492
+size 71

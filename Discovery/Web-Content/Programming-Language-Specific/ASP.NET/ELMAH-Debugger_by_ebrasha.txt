@@ -1,7 +1,3 @@
-samples/
-samples/web.config
-samples/elmah.config
-tests/package.config
-tools/
-tools/NuGet.exe
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2aae5389bd024247ffc67e1b0e63032f45f911d9e1a205ff7081815659b70a
+size 94

@@ -1,1 +1,3 @@
-How can I use bounce and unsubscribe data to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:50fc13789a8e1c62e1a629f5f8883c15faeee896dd5c2b73ec6b1f5701d5ca2d
+size 73

@@ -1,1 +1,3 @@
-What are the most effective email formats for increasing open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a2dc85a532d4652f63432ce2a0dcba81b00bd2ec37e267d60e838832a531e44
+size 70

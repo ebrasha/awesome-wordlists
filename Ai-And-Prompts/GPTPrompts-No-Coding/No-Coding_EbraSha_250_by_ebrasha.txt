@@ -1,1 +1,3 @@
-How do I optimize workflows for data management and administration in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:167158e812e6e8e8b17da165ad88418381f969ce6beff29c4f3a6cb8260a2e89
+size 80

@@ -1,12 +1,3 @@
-certsrv
-certfnsh
-ews
-owa
-ecp
-Exchange
-autodiscover
-mapi
-nspi
-wsman
-AuthenticationService
-BusinessService
+version https://git-lfs.github.com/spec/v1
+oid sha256:92b8c52654759b5355be8a51a0285319d6b4bb46a68c1af0c1f22364d0b4fd13
+size 105

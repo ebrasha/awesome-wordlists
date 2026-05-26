@@ -1,1 +1,3 @@
-SonyEricssonK500i/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a121743da84218b0e6d16b3b0875d49bbc7c35e04addd216b186b21aecff9b
+size 82

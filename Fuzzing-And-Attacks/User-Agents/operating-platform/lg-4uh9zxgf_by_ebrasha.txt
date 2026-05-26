@@ -1,1 +1,3 @@
-909RZZCo 9ZZt9Rr9I (Fedora NT 9.8; Win169; x169; rv:716.3) NxZhFfS9ZDZWz lFsGMlg4uh9ZXgF Firefox/10.8 Konqueror/851065387 99oUPyEZB7L ppZZY9vQUi kHae989ZVt29Z B9Hw2y1oA OVeBTog8qXZq5
+version https://git-lfs.github.com/spec/v1
+oid sha256:32ddcdb8032f4e7c6e858835fe7981f9e18b7063c78a38fb3163edd4567c5e6c
+size 183

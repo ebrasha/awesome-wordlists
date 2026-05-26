@@ -1,2 +1,3 @@
-UCWEB/2.0 (Symbian; U; S60 V3; id; NOKIAE90) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
-Mozilla/5.0 (SymbianOS/9.1; U; [en]; Series60/3.0 NokiaE90/4.06.0) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+version https://git-lfs.github.com/spec/v1
+oid sha256:4197495287aa743c67eed8c7f1b209e88846be47f2bee01b942723398587fc86
+size 204

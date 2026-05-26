@@ -1,1 +1,3 @@
-LG-AN430 UP.Browser/6.2.3.8 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7249c8c6ff746b05b376271841f406b19bcafeed90a46870144a568b8db585a
+size 42

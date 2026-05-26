@@ -1,1 +1,3 @@
-How can segmentation help improve email campaign performance?
+version https://git-lfs.github.com/spec/v1
+oid sha256:115adc1223b4700b680268b265a106cd91bf464f6852abe3181728f07c3b04b7
+size 63

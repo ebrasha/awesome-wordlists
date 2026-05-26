@@ -1,1 +1,3 @@
-SonyEricssonW750i/R1BD Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40dad776e48c9dc07856f4494ff79243cd0fd8c8ec3457e2c0fc5a988875ea1
+size 88

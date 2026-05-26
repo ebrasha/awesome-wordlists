@@ -1,1 +1,3 @@
-What are the most effective ways to use email list segmentation to improve click-through rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f42774ffa8047df7e55c02461099b8207e8e5815aa8d9ce84499bfe06aeed7d7
+size 97

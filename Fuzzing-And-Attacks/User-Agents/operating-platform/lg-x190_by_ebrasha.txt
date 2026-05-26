@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.1; LG-X190 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1; LG-X190 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b93178c15027bfcbf5af88fd33bff322a179eb151250363f3f6085809dba81
+size 272

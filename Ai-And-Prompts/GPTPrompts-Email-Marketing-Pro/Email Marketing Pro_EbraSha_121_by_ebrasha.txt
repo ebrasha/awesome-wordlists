@@ -1,1 +1,3 @@
-What are the most effective strategies for using email lead magnets to improve email list segmentation?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e483fe441ea6fe9d39e6187151a9aeeaf22310bba2e612ca04268365eb2a790c
+size 105

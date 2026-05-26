@@ -1,1 +1,3 @@
-How can I optimize the use of images and videos in my email campaigns for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b78900e541177af18da148a51f325c02f5212b75bbe97340634ade7dda380432
+size 91

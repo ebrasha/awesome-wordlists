@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-A710L Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-A710L Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.4 Chrome/51.0.2704.106 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; SM-A710L Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:a792fdb32c484bed938cab86f1e5fcd11fd9df73a3c876d4e4862ca08db8d3fe
+size 469

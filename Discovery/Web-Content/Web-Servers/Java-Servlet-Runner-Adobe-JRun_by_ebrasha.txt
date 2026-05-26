@@ -1,13 +1,3 @@
-compass/logon.jsp
-databasenotes.html
-flash/java/javabean/FlashJavaBean.html
-jrunscripts
-jstl-war/index.html
-SmarTicketApp/index.html
-techniques/servlets/index.html
-travelnet/home.jsp
-WEB-INF/webapp.properties
-WEB-INF/web.xml
-worldmusic/action/catalog
-worldmusic/action/cdlist
-ws-client/loanCalculation.jsp
+version https://git-lfs.github.com/spec/v1
+oid sha256:f868a4ba22422844f0424cb099f3b14880ad7c20407cffe4de4828eb63248bc3
+size 306

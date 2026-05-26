@@ -1,2 +1,3 @@
-SAMSUNG-GT-S5511T/1.0 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-GT-S5511T/1.0 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 S5511AJKD4
+version https://git-lfs.github.com/spec/v1
+oid sha256:f56aca9ab248fbe236b014cb473d5be37d78341e4a1a9b2322c7248b8b3019da
+size 211

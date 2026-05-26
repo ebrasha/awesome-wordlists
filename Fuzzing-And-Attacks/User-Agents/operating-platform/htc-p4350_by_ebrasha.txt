@@ -1,1 +1,3 @@
-HTC_P4350 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.6)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b51d961cc9c42d639cd013a478f10a8b66b194908dbb05ed37536a54bddb97
+size 71

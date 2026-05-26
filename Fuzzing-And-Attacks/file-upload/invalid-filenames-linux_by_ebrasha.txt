@@ -1,7 +1,3 @@
-/
-
-\0
-/dev/null
-/dev/null/foo
-.
-..
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9d330e595a24fab7bfe04a019536f778ab3ccd9dbe64c7a07e552a2ce8395db
+size 34

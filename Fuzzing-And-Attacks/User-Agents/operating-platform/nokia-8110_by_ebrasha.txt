@@ -1,1 +1,3 @@
-Mozilla/5.0 (Mobile; Nokia_8110_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1b41a943fc38a7997b64a9d60e9d8df0069b01cffa58cfb95ef03536c0ced5f
+size 79

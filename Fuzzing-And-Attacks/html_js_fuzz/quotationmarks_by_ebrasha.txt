@@ -1,11 +1,3 @@
-'
-"
-''
-""
-'"'
-"''''"'"
-"'"'"''''"
-<foo val=“bar” />
-<foo val=“bar” />
-<foo val=”bar“ />
-<foo val=`bar' />
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a03729ba417c97c94667e5131709babbd89aab0c7b148af0a8f6722e36fd7aa
+size 118

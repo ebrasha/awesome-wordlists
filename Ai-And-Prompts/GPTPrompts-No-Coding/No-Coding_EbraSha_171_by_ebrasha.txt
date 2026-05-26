@@ -1,1 +1,3 @@
-How do I handle mobile optimization for SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:da3013e661a974769f0d0e53a3cbf06a4c1ea5a55b6c73093d55bccdd833fb8c
+size 57

@@ -1,1 +1,3 @@
-SAMSUNG-GT-M2310/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff72fe671af199db8431c5ad3055c770e46a467ee45644224f03dfaa1f22b26e
+size 102

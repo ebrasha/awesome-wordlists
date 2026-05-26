@@ -1,7 +1,3 @@
-C:\Windows\system32\config\SAM
-C:\Windows\system32\drivers\etc\hosts
-C:\autoexec.bat
-C:\boot.ini
-C:\config.sys
-C:\winnt\system32\config\SAM
-C:\winnt\system32\drivers\etc\hosts
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee879d9da8e61ce4463a03ea2ad858685b1bb8bcd3962e5f1533e3cd8675d32
+size 175

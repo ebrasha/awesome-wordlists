@@ -1,1 +1,3 @@
-How can I use list personalization to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f92d237bf10f765007efbdf8b04a7acf367806ec186710dba966bc304292ec27
+size 66

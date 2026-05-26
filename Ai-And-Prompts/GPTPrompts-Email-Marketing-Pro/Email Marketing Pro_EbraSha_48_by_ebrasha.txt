@@ -1,1 +1,3 @@
-How can I use email list segmentation to create more personalized and engaging email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b930d1ccd43e292bc6001428ddcae3a530001a5adcf144c65cb6f1b3d7ecea95
+size 97

@@ -1,1 +1,3 @@
-How can I use list management tools to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:177e7408c03f3f50497c34408f1ad2fa920ac59c12334ed39c109e11ca6eb1df
+size 67

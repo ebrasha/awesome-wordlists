@@ -1,1 +1,3 @@
-How to use A/B testing to improve the effectiveness of your email subject line language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e426620c958c0b433241a149d627604076dad4b7904d55f09dac7b8acc5289ab
+size 90

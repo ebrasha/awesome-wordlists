@@ -1,2 +1,3 @@
-SonyEricssonK550i//R6CA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonK550i/R1JD Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:76cbc2fe3878f6f6fbcd569243f7872ca15645cec7bbac44895da42724021f49
+size 169

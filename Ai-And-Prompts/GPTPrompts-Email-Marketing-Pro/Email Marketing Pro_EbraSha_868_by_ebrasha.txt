@@ -1,1 +1,3 @@
-What are the most effective ways to use automation to optimize my email campaigns for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a07cd48d8f584580cc573a9378b9b100adbdac7903f67bd894e5198ed75afbd1
+size 103

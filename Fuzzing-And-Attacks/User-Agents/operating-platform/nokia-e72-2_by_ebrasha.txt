@@ -1,1 +1,3 @@
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-2/031.023; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.3.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea81a9ab95061e2010b39bdccbd365fcdaa8636818d5aa520a75e411340d63c
+size 169

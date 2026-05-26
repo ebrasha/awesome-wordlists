@@ -1,1 +1,3 @@
-How can I use design elements like hover effects, rollover effects and animations to make my emails more interactive?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a62223bbddb63513a74738b16baa371bab49fa95e376095b1df200507071cd7a
+size 119

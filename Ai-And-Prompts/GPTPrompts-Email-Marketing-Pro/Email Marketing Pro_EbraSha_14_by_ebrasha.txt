@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve my event marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9a45902e4bd83a5a1220d4349f0df59ec6c9a84770bf63dacc64e9c8cf4a36a
+size 70

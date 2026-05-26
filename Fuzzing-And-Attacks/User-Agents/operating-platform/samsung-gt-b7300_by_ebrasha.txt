@@ -1,2 +1,3 @@
-SAMSUNG-GT-B7300/1.0 (Windows CE; Opera Mobi; U; en) Opera 9.5
-SAMSUNG-GT-B7300/1.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:116f9b13c8786e623fb4c5afa727f1e414f41e65597bc6cb2d09c56dfa7c4c04
+size 150

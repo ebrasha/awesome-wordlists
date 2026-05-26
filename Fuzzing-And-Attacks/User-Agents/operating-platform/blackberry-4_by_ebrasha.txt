@@ -1,2 +1,3 @@
-Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One Build/JDQ39) BlackBerry4
-Dalvik/1.6.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) BlackBerry4
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e2200c6fd4a4eb7b0ff7ad9ab6153ee02cd2cef4baa6660670c41be5db416ad
+size 144

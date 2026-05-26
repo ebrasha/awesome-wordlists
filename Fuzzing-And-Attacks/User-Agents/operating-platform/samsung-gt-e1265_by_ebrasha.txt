@@ -1,1 +1,3 @@
-SAMSUNG GT-E1265 Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.31195/69.162; U; ) Presto/2.12.423 Version/12.16
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ccee2c640ec37bd2bb198ed1c6f8a2e2bb41c6d222b74067319131ba716cde3
+size 104

@@ -1,1 +1,3 @@
-How can I measure the impact of my email holiday campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd836a8d868a9ef572efe9add063043a2a03fad0e426bcede649c32598435f01
+size 61

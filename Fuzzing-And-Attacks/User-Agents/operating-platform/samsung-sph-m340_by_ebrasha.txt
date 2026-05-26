@@ -1,1 +1,3 @@
-SPH-M340/1.0 UP.Browser/7.2.7.2.510 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c7462430aba5fe8ba12e4a2f4870d8cd8e7f8be15604f159e333bfd74f8380c
+size 50

@@ -1,1 +1,3 @@
-How to create an e-mail list.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bf2a53d03ace78d45d6a97bd4e8f7ce852f21a996fdba0cfe338fbc8c096f35
+size 31

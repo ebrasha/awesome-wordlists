@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-J810F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; SM-J810F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11beea3c1bfddae0928c68a85af570b3d6f8f8687fb98b92e5c382bdd37465c
+size 290

@@ -1,2 +1,3 @@
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2414; U; en) Presto/2.8.119 240X320 Samsung SCH-U680
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2370; U; en) Presto/2.8.119 240X320 Samsung SCH-U680
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b3bb2d2040cd1b7e444be916f373e038450f4017f55aa153ceca036ce363a5
+size 182

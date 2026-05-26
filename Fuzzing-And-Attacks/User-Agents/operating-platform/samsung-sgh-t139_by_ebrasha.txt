@@ -1,2 +1,3 @@
-SAMSUNG-SGH-T139/T139UVJC1 NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-SGH-T139/T139UEJJ5 NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:eef5c3e15f509ac27783dfab08d109b5e900b2df7ab09a334b09c55de65daed9
+size 160

@@ -1,1 +1,3 @@
-SAMSUNG-SCH-W169/W169DDDL2 NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cb779d5d7fce8d27424de92aab6ad9aaa6ca24e2444af5af960b3acf6fd8a76
+size 80

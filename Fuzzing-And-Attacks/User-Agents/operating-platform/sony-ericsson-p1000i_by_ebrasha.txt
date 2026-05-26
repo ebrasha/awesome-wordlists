@@ -1,1 +1,3 @@
-SonyEricssonP1000i/R1BD001/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e1a08f9fbbf292663c0699ddcdb267fb9d6417b43c3f9359417a944925b9797
+size 84

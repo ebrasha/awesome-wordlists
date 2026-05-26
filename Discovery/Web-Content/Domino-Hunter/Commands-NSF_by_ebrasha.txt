@@ -1,3 +1,3 @@
-?OpenServer
-$DefaultNav?OpenNavigator
-?ReadEntries
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5f7dd8cb5df5dfa6a589817600a0cc275a7cc26cfc6b32442ae14cce6db6571
+size 51

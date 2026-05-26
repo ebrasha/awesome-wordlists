@@ -1,2 +1,3 @@
-SAMSUNG-GT-S5270L/1.0 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-S5270L/1.0 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1,gzip(gfe)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ee8731132fb1202051df97cb868c6bbcb82657f30c6246a39302e21864c8d37
+size 160

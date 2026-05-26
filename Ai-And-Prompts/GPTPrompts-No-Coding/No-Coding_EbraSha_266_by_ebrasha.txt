@@ -1,1 +1,3 @@
-How do I perform basic database operations, such as CRUD, in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:51811f517682fed7e68b488c55fc0b0ddbc316a516b525577413d6f4d1bdb0f9
+size 71

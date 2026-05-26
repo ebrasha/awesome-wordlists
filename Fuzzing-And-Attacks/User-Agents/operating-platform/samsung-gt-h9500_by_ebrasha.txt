@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.2.1; en-gb; GT-H9500 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30evme-launcher
-Mozilla/5.0 (Linux; U; Android 4.2.1; en-gb; GT-H9500 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; GT-H9500 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 ACHEETAHI/1
+version https://git-lfs.github.com/spec/v1
+oid sha256:b757eee7b4896917d93ef5ccb7f517aa1ca73bd6f92870f1d17cc24d032ffeee
+size 445

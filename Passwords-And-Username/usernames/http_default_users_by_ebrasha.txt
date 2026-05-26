@@ -1,27 +1,3 @@
-adm
-admin
-administrator
-ansible
-apc
-azureuser
-cisco
-ec2-user
-ftp
-guest
-info
-manager
-mysql
-newuser
-oracle
-pass
-pi
-puppet
-root
-security
-sys
-system
-test
-user
-vagrant
-wampp
-xampp-dav-unsecure
+version https://git-lfs.github.com/spec/v1
+oid sha256:fef2ee5049b7caac0f8ae4b80aa45dfcd69c7117d051143ea460f22a60fae223
+size 187

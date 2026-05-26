@@ -1,2 +1,3 @@
-Vodafone/1.0/SAMSUNG-SGH-E250V/BUGB2/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-Vodafone/1.0/SAMSUNG-SGH-E250V/DBUGK1/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:daffaa227a38d2117bbb8e624aa5acb8ccb451048e8b53b67e6c9de54df99442
+size 245

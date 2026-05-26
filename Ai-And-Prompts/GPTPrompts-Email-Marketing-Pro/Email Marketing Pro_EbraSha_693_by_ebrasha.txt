@@ -1,1 +1,3 @@
-What is a good deliverability rate for email marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b518564e621b4021da408803707b1558b9ef10e5c8e04a28a78476fab111d2b
+size 57

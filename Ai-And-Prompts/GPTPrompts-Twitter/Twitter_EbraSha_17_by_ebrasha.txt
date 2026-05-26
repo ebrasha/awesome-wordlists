@@ -1,1 +1,3 @@
-How can I use emojis and GIFs in my tweets to add personality and make them more visually appealing for my target audience?
+version https://git-lfs.github.com/spec/v1
+oid sha256:65ff5d3d186d0d3881ff90278c5f84b5e5db639c3d8b960ed2dc54d63b48280a
+size 125

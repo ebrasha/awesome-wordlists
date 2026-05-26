@@ -1,10 +1,3 @@
-amaya/11.3.1 libwww/5.4.1
-amaya/9.51 libwww/5.4.0
-amaya/11.4.7 libwww/5.3.1
-amaya/11.2 amaya/5.4.0
-amaya/11.4.7 libwww/5.4.1
-amaya/9.1 libwww/5.4.0
-amaya/9.52 libwww/5.4.0
-amaya/11.3.1 libwww/5.3.1
-amaya/11.4.7 libwww/11
-amaya/11.4.4 libwww/5.3.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:2912eaf7bf7ad31146dc66265d2f7536b1a001214acea9ca3ec932c773ed00e3
+size 247

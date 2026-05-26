@@ -1,1 +1,3 @@
-Mozilla/5.0(Linux;U;Android2.3.6;fr-fr;GT-S5360Build/GINGERBREAD)AppleWebKit/533.1(KHTML,likeGecko)Version/4.0MobileSafari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c058904433ec2cae1f1780b8b41118acba2d8ed41afc09fa41c69185f0c5eba
+size 129

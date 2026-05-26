@@ -1,1 +1,3 @@
-SAMSUNG-GT-C3752/1.0 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a1ee604ef8e1b8474815cf63526a4344cb731f4a1ff2f3c67f1d4d3ee92aa0
+size 74

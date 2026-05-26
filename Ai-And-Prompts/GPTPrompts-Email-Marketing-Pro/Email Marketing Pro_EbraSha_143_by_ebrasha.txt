@@ -1,1 +1,3 @@
-How can I use multivariate testing to optimize the use of images and graphics in my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:33cfafead93f787efcdee91f7b2917ba448ac5bc7dd372ed41973e526371cd4a
+size 102

@@ -1,1 +1,3 @@
-SAMSUNG-SGH-D780/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5d4329625c6c52453fcd51e72bd59ed1939c825b2c3d1b6155084945a568b6
+size 102

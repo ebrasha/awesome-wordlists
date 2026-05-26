@@ -1,1 +1,3 @@
-The impact of A/B testing on email click-through rates.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffd675ed38e04d8665756f39f9bedbea76bd0c8f8eb5f47ebe3a63bdcbc2483d
+size 57

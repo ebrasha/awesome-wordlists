@@ -1,4 +1,3 @@
-SonyEricssonP1i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 768) Opera 8.65 [en]
-SonyEricssonP1i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 598) Opera 8.65 [el]
-SonyEricssonP1i/R100 Mozilla 4.0 (compatibile; MSIE 6.0; Symbian OS;768) Opera 8.65 [hr]
-SonyEricssonP1i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 768) Opera 8.65 [en] Read more at http://www.mobilerated.com/sonyericsson-p1i-specifications.html#oZUM0OToJfClzm4f.99
+version https://git-lfs.github.com/spec/v1
+oid sha256:2749fd837c3bea1d720a34ebe0e6da4dfd8718f056905cddaa842c632c0618fc
+size 453

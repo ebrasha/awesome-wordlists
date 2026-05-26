@@ -1,1 +1,3 @@
-How do I automate finance and accounting processes in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f0e07f5115d37e4b73051c2109129fd9e8da546857e854c1f75c344abbf5b2
+size 64

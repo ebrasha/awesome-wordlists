@@ -1,1 +1,3 @@
-LG-GW382f/V10d Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f89a2c7f33e8166076427dff814b81af5a4d53426fc25ac501c5337fa7999db
+size 66

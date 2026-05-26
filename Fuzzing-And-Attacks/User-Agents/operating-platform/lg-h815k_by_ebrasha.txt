@@ -1,3 +1,3 @@
-LG-H815K-AB/V10c Mozilla/5.0 (Linux; Android 5.1; LG-H815K Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36
-LG-H815K-AB/V10d Mozilla/5.0 (Linux; Android 5.1; LG-H815K Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36
-LG-H815K-AB/V10a Mozilla/5.0 (Linux; Android 5.1; LG-H815K Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:3676e6cccc17d5b2ffac0408ef46e09f8bdbee21f44f1a2321b60b1d64421ae9
+size 498

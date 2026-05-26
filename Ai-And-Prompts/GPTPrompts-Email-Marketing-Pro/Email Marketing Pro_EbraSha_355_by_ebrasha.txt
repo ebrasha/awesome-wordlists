@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of recipients, such as consumers, businesses, and government entities?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79f43dae627beff7d2abc3e105f64e9f09bded2251e69a963ca15aee9f65f85
+size 153

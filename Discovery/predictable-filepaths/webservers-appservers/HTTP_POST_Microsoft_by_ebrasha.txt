@@ -1,2 +1,3 @@
-# Interesting Microsoft IIS files which require being scanned for with the HTTP POST verb
-/msadc/msadcs.dll/VbBusObj.VbBusObjCls.GetMachineName
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c74e9979523e59bd26230cbadee8b11fa3da721ba01f67493eb8b6ac28e75e
+size 144

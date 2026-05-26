@@ -1,27 +1,3 @@
-justastring
-email@addrese.com;secondemail@address.com
-@address.com
-Jacco Van Tuijl <email@example.com>
-email.address.com
-email@address@example.com
-#@%^%#$@#$@#.com
-.email@address.com
-うえあいお@address.com
-email.@address.com
-email..email@address.com
-email@address..com
-email@address.com (Jacco van Tuijl)
-email@-address.com
-email@111.222.333.44444
-Abc..123@address.com
-“(),:;<>[\]@address.com
-jacco"van"tuijl@address.com
-jacco\ van"someting"tuijl\example@address.com
-“email”@address.com
-sql"or"1"="1"or"test@email.com
-sql'or'1'='1'or'test@email.com
-xss"><script>alert(1)</script><"test@address.com
-a"b(c)d,e:f;g<h>i[j\k]l@example.com
-this is"not\allowed@example.com
-notallowed@example.com 
- notallowed@example.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:d03b4fe734fcb3ae0ce9644c02363bbc1ab9894d3cf8c6f3a77a2447e46094c2
+size 752

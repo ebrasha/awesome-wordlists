@@ -1,17 +1,3 @@
-AdminTools/
-AnalyticalReporting/
-AnalyticalReporting/AnalyticalReporting_merge_web.xml
-AnalyticalReporting/download/win32/websetup.properties
-CmcApp/logon.faces
-CrystalReports/viewrpt.cwr
-dswsbobje/services/listServices
-dswsbobje/services/BICatalog?wsdl
-InfoViewApp/
-InfoViewApp/help/en/user/html/
-InfoViewApp/listing/main.do?appKind=InfoView&service=%2FInfoViewApp%2Fcommon%2FappService.do
-sap/bc/gui/sap/its/webgui
-sap/public/icman/ping
-sap/admin
-sap/public/info
-sap/wdisp/admin
-scripts/wgate
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a5b57869fc001d2649aa44f2f15b7594437fb58932326ec6d8b20090958088
+size 495

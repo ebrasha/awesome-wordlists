@@ -1,9 +1,3 @@
-cgitelnet.pl
-cmd.pl
-dc.pl
-list.pl
-up.pl
-wewo.pl
-irc.pl
-pws.pl
-PerlWebShellbyRST-GHC.pl
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f5f5e18f268a663b1ba10499b215470b795b496e2041ed2b1b8c605241eeca8
+size 87

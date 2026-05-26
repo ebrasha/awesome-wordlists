@@ -1,1 +1,3 @@
-Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.3 (screen 600x800; rotate)
+version https://git-lfs.github.com/spec/v1
+oid sha256:de79a8ba183113022076c662213e0cbd8c830e60f9c246639bb61ace3b467069
+size 88

@@ -1,1 +1,3 @@
-SAMSUNG-GT-E1130B/E1130BPOIJ4 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:b400e4f4fe9f95d0fb6d38a056de9776172b3c273bcfa26f979f44e8493fc82a
+size 71

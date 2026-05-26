@@ -1,1 +1,3 @@
-How can I optimize the images and multimedia in my emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9feb731e9a745b724561421da723a6303a983f09ee247c37aa18a4e03ac36aee
+size 79

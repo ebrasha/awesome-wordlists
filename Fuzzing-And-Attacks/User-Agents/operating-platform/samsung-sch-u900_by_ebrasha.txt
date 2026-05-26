@@ -1,1 +1,3 @@
-SCH-U900/1.0 NetFront/3.0.22.2.9 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19a269ef346758340979caf47d5b8e8a2009b86774f63f7e864ac51fb7c2192
+size 47

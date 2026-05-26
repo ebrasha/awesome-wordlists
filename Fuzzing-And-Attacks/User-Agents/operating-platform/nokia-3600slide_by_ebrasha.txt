@@ -1,2 +1,3 @@
-Nokia3600slide/2.0 (07.23) Profile/MIDP-2.1 Configuration/CLDC-1.1
-Nokia3600slide/2.0 (06.26) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5825b0b4b7b7aa6dcdee6f2c129194c5d6d6eb4e85625750b5c83e79855e7f31
+size 134

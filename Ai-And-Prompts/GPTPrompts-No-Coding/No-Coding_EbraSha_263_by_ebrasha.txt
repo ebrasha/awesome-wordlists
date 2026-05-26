@@ -1,1 +1,3 @@
-How do I design the schema of a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:24728308a2ebeefb43a9eeea1047add50535559aedce4f927a5505526a128e08
+size 54

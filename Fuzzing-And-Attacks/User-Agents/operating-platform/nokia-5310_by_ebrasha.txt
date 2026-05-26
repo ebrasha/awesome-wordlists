@@ -1,1 +1,3 @@
-Nokia5310/2.0 (10.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1127de64696f37e4b2100456b61d1ace359070d6d8e0371aae5c53c81d4e61a
+size 62

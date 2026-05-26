@@ -1,1 +1,3 @@
-How can I use mobile-specific infographics in my emails to increase engagement and conversions on mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:706a4d589cdb05ef5cfd802d90a583829532f9489dda2c0a24eac3617119de0a
+size 115

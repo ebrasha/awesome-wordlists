@@ -1,1 +1,3 @@
-How can I use email marketing to provide detailed information about the manufacturing process of my products to remove any doubts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad992ca49c2ee574f0d42e7f72b607b3ab5c53c9a5f09c8ffb7f3e9b3446ddbd
+size 132

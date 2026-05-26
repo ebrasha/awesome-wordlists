@@ -1,1 +1,3 @@
-How can I use automation to generate and publish transcripts of my YouTube videos?
+version https://git-lfs.github.com/spec/v1
+oid sha256:42030e0947e602c36812158bb555a2b4d536c2a78dec106dbe1a59bd7dc0b237
+size 84

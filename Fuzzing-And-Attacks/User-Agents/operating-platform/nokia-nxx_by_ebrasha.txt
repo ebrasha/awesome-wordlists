@@ -1,1 +1,3 @@
-iBrowser/2.5 (NokiaNXX;SymbianOS/9.3 Series60/3.2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b3cec068dc199bf2174bb72bde10a27ce0c3433e72cd4fb6048693af2a04643
+size 51

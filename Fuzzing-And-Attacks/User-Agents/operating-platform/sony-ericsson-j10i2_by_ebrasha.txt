@@ -1,4 +1,3 @@
-SonyEricssonJ10i2/R7CA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2
-SonyEricssonJ10i2/R7CA Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; SonyEricssonJ10i2) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
-SonyEricssonJ10i2/R7BA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; SonyEricssonJ10i2) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile
-SonyEricssonJ10i2/R7CA Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; id; SonyEricssonJ10i2) U2/1.0.0 UCBrowser/9.4.0.342 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:50d20b768c67a94313fa1678bb9dfadf689f4836b6a5dbc7b5bf465235ee911d
+size 609

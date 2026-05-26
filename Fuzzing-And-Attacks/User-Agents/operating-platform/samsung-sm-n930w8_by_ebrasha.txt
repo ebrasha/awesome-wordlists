@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-N930W8 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.2 Chrome/44.0.2403.133 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7d33ac74ba4ae03403b5af5b8dd0ac24f7ce89e4910eedd5521ce04e189f195
+size 167

@@ -1,1 +1,3 @@
-Vodafone/1.0/HTC_prophet/ 2.15.3.113/Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d7397b113c4447961b1d27a9fcfbc700d85c09329e1f20e67c38adf08ad2d9c
+size 99

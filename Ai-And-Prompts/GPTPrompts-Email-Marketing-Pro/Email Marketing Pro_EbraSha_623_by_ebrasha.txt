@@ -1,1 +1,3 @@
-How can I use personalization to create a more effective email cross-sell strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:48250c7d8b2bdbf9ce36f125ceff0121ea6811377ab976ee89184605fa4435c0
+size 85

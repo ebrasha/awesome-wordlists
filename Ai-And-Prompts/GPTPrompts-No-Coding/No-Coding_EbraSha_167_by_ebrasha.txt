@@ -1,1 +1,3 @@
-How do I optimize my website's internal linking for SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8220ec5b1854a49bbaeb475f2a6074b55bd630eeb8641804465414cba8e2b63
+size 69

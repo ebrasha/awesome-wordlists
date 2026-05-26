@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G850L Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.2; SM-G850L Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:892e85a9bd2ca14c7957c29542f05f0ca6eaccaed49ba67c04536aecbe6dec37
+size 304

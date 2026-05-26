@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.4.4; en-us; SAMSUNG-SM-G3609 Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.4.4; zh-cn; SAMSUNG-SM-G3609 Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47b3e32afd7f983796e101d444d637699a3efc3247088edca0c2fb85b41d130
+size 296

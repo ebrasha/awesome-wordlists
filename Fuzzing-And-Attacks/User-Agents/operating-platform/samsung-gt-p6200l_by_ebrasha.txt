@@ -1,6 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 3.2; pt-br; GT-P6200L Build/HTJ85B) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
-Mozilla/5.0 (Linux; U; Android 4.1.2; es-us; GT-P6200L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; th-th; GT-P6200L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-Mozilla/5.0 (Linux; U; Android 3.2; pt-br; GT-P6200L Build/HTJ85B) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13,gzip(gfe)
-Mozilla/5.0 (Linux; U; Android 3.2; es-us; GT-P6200L Build/HTJ85B) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
-Mozilla/5.0 (Linux; U; Android 4.1.2; pt-br; GT-P6200L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c836624e01951ba62f18de9ea5ccc62e30fdeb2d80caf1a37db2748f0822c0
+size 808

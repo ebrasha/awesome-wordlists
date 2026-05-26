@@ -1,1 +1,3 @@
-MOT-V860/00.72 UP.Browser/7.2.7.5.665 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:235c078d1f58097900937ab3e5dfdcba3ad6b19b741cb2307eddacc48e7c60fe
+size 52

@@ -1,5 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-gb; GT-I5801 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
-Mozilla/5.0 (Linux; U; Android 2.1-update1; zh-tw; GT-I5801 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
-Mozilla/5.0 (Linux; U; Android 2.1-update1; fr-fr; GT-I5801 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-us ; GT-I5801 Build/ECLAIR) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-us; GT-I5801 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
+version https://git-lfs.github.com/spec/v1
+oid sha256:24cda53151670b7e1d8f652b2efd2f51414c881461c94fb86f42a16de9e388e8
+size 729

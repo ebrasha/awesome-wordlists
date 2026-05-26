@@ -1,1 +1,3 @@
-How can I use multivariate testing to optimize the call-to-action and buttons in my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:242202ca0481281d8ed16df892842cff113358af84f841c61694861e84bba1f3
+size 102

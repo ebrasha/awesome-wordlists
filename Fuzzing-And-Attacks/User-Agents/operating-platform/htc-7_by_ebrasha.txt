@@ -1,2 +1,3 @@
-HTC-7 Mozart T8698/UCWEB2.7.0.223/47/355
-HTC-7 Mozart T8698/UCWEB2.6.0.213/47/32079
+version https://git-lfs.github.com/spec/v1
+oid sha256:512b3058e9bfd2c47492b2bb7bc827b3638b76357d5091dcd6ef08ae3120672e
+size 84

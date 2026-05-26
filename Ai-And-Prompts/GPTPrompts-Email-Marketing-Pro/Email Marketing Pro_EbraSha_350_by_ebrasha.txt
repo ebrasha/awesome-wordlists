@@ -1,1 +1,3 @@
-How can I ensure that my email marketing practices comply with the GDPR's requirement for conducting regular data protection impact assessments (DPIAs)?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4661fc3ba64b65ed67d637a495f451e459ca3a7a407b1c6a4c68acd96dbcc68d
+size 154

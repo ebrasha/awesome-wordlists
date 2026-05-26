@@ -1,1 +1,3 @@
-How can I save my custom email templates for future use?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2412526302217fd4023c59f496a4a9b302e500a3d9de689a67df767fbf4d7b4
+size 58

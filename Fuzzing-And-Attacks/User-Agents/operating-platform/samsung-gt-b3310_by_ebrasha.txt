@@ -1,1 +1,3 @@
-SAMSUNG-GT-B3310/1.0 NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:7148a1aeffca1a8c71c641d6209a2dfd15716b3161c73498b5be85d76b9721d5
+size 74

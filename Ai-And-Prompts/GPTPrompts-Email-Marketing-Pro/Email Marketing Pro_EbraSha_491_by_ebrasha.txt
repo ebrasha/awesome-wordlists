@@ -1,1 +1,3 @@
-How can I avoid using designs that are not compliant with email marketing laws and regulations for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d63eab7599d7dec7996daf671b8be461ebd374da9825ce5c1ca6a75b43953ad9
+size 116

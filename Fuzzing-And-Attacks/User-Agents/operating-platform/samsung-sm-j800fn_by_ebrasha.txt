@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; SM-J800FN Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; SM-J800FN Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 ACHEETAHI/1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bc85e4618178d805b83529b9c178f5d07fed6a3dbddcd25d3a95c4c25fb3872
+size 292

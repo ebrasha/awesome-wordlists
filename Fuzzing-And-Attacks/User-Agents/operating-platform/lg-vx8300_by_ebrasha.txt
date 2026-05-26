@@ -1,1 +1,3 @@
-LGE-VX8300/1.0 UP.Browser/6.2.3.2 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:734902cf52f8e069538a5d5237e1e31e3e4ecca59d5dc4dd0cf049985f862f29
+size 48

@@ -1,1 +1,3 @@
-Mozilla/5.0 (Java; U; Pt-br; lg-c105) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.5.0.185/82/352/UCWEB Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cb8bcb096a3252e2aaceb70219cbc1a0c8a3b0bbf858a57cc97102833fb7ef1
+size 131

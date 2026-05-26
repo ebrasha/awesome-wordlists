@@ -1,1 +1,3 @@
-SAMSUNG-GT-S5620L/1.0 SHP/VPP/R5 Dolfin/1.5 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff33f68418d3b993a84819ef995f0466fcb3358bdc8ae0c540581ee02a1fd486
+size 110

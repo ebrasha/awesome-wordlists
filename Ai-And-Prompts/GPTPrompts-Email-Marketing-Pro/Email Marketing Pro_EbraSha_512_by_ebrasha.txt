@@ -1,1 +1,3 @@
-What are the best ways to segment my email list for mobile optimization?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c488e62afb8af97c58c45b5a7f1a72d521f48396f4b3e26245bde0eaa8833d7
+size 74

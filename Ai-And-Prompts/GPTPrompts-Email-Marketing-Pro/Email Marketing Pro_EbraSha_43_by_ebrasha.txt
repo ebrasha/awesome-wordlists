@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve deliverability and avoid spam filters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7661bad7de4b5a7bf464d7fcbfb74812c366a0c3c63754dc53eb6eb28d7f389
+size 89

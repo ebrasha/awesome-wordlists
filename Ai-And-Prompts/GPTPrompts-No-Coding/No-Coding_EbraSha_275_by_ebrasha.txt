@@ -1,1 +1,3 @@
-How do I visualize and present data from a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:27e8616d6467b58d4cd0ce476003f4dfe0c129c5e48794c8487ee1cac8b74fb1
+size 65

@@ -1,1 +1,3 @@
-Nokia6670/2.0 (6.0522.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:67bf27bc043c30741f21e02cd33a414da4f06351daaea2879f5964f79914510c
+size 93

@@ -1,1 +1,3 @@
-What are the most effective ways to use email design to improve the conversion rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:be88777af9223a6447c22a4c5041c8bf429a017f0532d8cfd3214fcd34ba9dc6
+size 99

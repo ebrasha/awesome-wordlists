@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-T595 Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.0 Chrome/63.0.3239.111 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1fcb8e4eb06c2587bed6f97fdb0470330c4ba9723f527ae3b15a962608e81ed
+size 157

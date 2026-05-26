@@ -1,1 +1,3 @@
-NokiaN84-1/3.0545.5.1 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:90a67bea8f8638b10e432be2a5a84f549cbc008a0da970d5a7449288b05cbbcb
+size 75

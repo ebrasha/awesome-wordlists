@@ -1,2 +1,3 @@
-SAMSUNG-GT-C3592/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3592 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33791/65.213; U; fa) Presto/2.12.423 Version/12.16
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3d5dbabe6fad4236cce0f7c5817ea65b6a7a07c5c52759f67a3e7d5ef529ca5
+size 180

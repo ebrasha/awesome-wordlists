@@ -1,1 +1,3 @@
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; lg-lg620g[tf012114006257112000000014697321239] obigo) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:4170d95e1e8f3fd217f893ed1088db747ae64ddfc36c907420a74ffc950674f0
+size 150

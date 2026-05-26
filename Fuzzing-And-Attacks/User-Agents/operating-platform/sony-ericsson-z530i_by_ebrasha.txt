@@ -1,1 +1,3 @@
-SonyEricssonZ530i/R6AC Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc8bc44fe01180a00d145472a359026e17c9fe55b7e153674bde72dbb23a13a
+size 84

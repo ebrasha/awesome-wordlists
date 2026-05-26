@@ -1,2 +1,3 @@
-SonyEricssonT700/R3EA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.3.3
-SonyEricssonT700/R3EG Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.3.3
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2ba93001ee1d5d4817eabfb420586c1a8c89a3a9747227265622f892825e574
+size 210

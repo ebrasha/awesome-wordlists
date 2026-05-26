@@ -1,1 +1,3 @@
-Email A/B testing and optimization
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bf23ecb4688713f540560fbc3a09bd90d441e589ee8300764fc92750c437645
+size 36

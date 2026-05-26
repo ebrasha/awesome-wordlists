@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.1.1; LG-D858 Build/LMY49J) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; LG-D858 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043409 Safari/537.36 MicroMessenger/6.5.7.1041 NetType/WIFI Language/zh_CN
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca3c966b53e86177cbec82c33d4fabf53fa4417bb9ab3e3c4aacc429d6703a50
+size 378

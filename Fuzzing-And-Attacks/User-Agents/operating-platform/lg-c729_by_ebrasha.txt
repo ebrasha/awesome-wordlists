@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; LG-C729 Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; LG-C729 Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:29eff1394c0e0d8dc5fe352b257aa29e678c8e4e78206f93bb7fae35eab35c15
+size 300

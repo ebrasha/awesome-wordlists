@@ -1,1 +1,3 @@
-What kind of applications can be built using no-code platforms?
+version https://git-lfs.github.com/spec/v1
+oid sha256:149c04f783548d62a372e7ef571568935cdbc91ac059cf48a4e6695b01e98c9c
+size 65

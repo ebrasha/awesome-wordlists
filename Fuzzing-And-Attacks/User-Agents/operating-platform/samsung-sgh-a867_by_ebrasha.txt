@@ -1,2 +1,3 @@
-SAMSUNG-SGH-A867/A867UCHJ3 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-A867/A867UCHJ3 SHP/VPP/R5 NetFront/35 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1 UP.Link/6.3.0.0.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d52d63a014bf46c7f3d109d02a819fa011f60dfb070e8d94f4407547b5dda579
+size 227

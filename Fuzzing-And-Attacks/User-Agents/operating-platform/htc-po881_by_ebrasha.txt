@@ -1,5 +1,3 @@
-Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; HTCPO881; SPRINT)
-Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; HTCPO881; Chameleon)
-Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; HTCPO881; 2012042701)
-Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; HTC; HTCPO881; SPRINT) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
-Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; HTCPO881; SPRINT)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a7a77e636861a2f8178bb0b12bd6a8ce41c965ae6ac1ff5a02d1985b2c177d5
+size 677

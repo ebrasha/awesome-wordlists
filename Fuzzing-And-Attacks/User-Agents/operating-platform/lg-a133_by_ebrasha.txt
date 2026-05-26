@@ -1,1 +1,3 @@
-LG-A133/V10b Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:2770477e822222a0d086eef78cacf6c05c8e2975249e1568a677b594fa413ad3
+size 66

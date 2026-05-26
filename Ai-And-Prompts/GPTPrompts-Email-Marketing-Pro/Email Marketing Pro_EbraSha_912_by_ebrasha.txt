@@ -1,1 +1,3 @@
-The role of A/B testing in improving the performance of your automated email campaigns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f032b6e3350b6634a36dc2cb5e6532d18296403e4390e567f822a6177ddc8ffb
+size 89

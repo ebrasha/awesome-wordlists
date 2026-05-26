@@ -1,1 +1,3 @@
-What are the most effective ways to increase the relevance of my emails to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f6e7ebbd10c2eee4b3a53fa83fbde58bc894d41458626ec96b1cedd1356cc33
+size 96

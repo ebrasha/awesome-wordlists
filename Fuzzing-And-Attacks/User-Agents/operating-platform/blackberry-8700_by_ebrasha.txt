@@ -1,2 +1,3 @@
-BlackBerry8700/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/115
-BlackBerry8700/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a94c56df6ead54fcaffbc8718c56ed81e234c131532ccba1fd272424af8c258f
+size 135

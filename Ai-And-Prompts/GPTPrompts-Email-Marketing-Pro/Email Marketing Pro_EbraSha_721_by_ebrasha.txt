@@ -1,1 +1,3 @@
-How can I measure the impact of my email loyalty programs?
+version https://git-lfs.github.com/spec/v1
+oid sha256:916a20e346f7597fd630999eac6afa283e85f166d161260fd07d8d9099ad2396
+size 60

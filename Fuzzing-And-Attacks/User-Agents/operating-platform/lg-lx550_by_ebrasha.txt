@@ -1,1 +1,3 @@
-LG-LX550 AU-MIC-LX550/2.0 MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:600e56210c5cd5dff7b2346474c5b7a1308d8b2b82d6b4a59961b41bbef84d33
+size 74

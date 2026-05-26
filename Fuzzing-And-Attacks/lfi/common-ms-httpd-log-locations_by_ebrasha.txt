@@ -1,6 +1,3 @@
-\Program Files\Apache Group\Apache\logs\access.log
-\Program Files\Apache Group\Apache\logs\error.log
-\Program Files\Apache Group\Apache\conf\httpd.conf
-\Program Files\Apache Group\Apache2\conf\httpd.conf
-\Program Files (x86)\Apache Group\Apache\logs\access.log
-\Program Files (x86)\Apache Group\Apache\logs\error.log
+version https://git-lfs.github.com/spec/v1
+oid sha256:56af5aee9f86f5cab36bd42c2197b302fa66f8e4482658fb43326afb9c95d7f9
+size 317

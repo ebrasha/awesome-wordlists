@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.6; id-ID; SM-Galaxy Note 8 Build/KOT49H) AppleWebKit/534.50 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c34f61b02e5576db48b866f9cec24b2efe90df2aaa600a9ea477ff7109701e2
+size 148

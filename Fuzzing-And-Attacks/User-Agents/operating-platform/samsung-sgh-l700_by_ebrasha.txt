@@ -1,4 +1,3 @@
-SAMSUNG-SGH-L700/1.0 SHP/VPP/R5 NetFront/3.4 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-L700/DDJE1 SHP/VPP/R5 NetFront/3.4 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-L700/DDIC2 SHP/VPP/R5 NetFront/3.4 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-L700/DDID4 SHP/VPP/R5 NetFront/3.4 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1f4ae33ecd4813fceb14f4ba2058bc34d70231dd9b15aa5a0068870d25e2f90
+size 402

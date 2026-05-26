@@ -1,1 +1,3 @@
-NokiaN80-3/1.0552.0.7Series60/3.0Profile/MIDP-2.0Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:9190b8056f1be77a281b01bb04d64142c54b501bd5dcd52b07d2d2f60f1a6fc6
+size 72

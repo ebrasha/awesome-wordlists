@@ -1,1 +1,3 @@
-What are the best practices for using personalization to improve the open rate of my transactional emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e28c183fb7cc1716627b792b64d2e1db5d3ada54d704d6fd53521e9fd8a8926
+size 108

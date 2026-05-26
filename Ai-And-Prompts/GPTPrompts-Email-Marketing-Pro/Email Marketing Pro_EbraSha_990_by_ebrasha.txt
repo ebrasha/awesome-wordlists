@@ -1,1 +1,3 @@
-What are the best practices for using email personalization to build my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f436810f86eb249cc3f4778e72ba43d603da15f3f760c797904f92c6868aa890
+size 85

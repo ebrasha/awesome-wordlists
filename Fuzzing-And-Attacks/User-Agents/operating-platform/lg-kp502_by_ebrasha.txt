@@ -1,1 +1,3 @@
-LG-KP502 Teleca/WAP2.0 MIDP-2.0/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a83f1b69f98d870f4c074452716f3e0a181faaa8c5109cbc14caeeda41b474a8
+size 41

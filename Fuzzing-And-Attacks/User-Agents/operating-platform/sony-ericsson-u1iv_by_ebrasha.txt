@@ -1,2 +1,3 @@
-SonyEricssonU1iv/R1BB; Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 Safari/525
-SonyEricssonU1iv/R2AA; Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 Safari/525
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b37e93f7896166b5d3dd357ed0804d38bc7a13107308ab290ff6ab47f516c3e
+size 334

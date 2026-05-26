@@ -1,1 +1,3 @@
-What are the most effective ways to use email design to improve the open rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b92b4697bb2d1bd7c14187ce61e70fae5d4c2567ea0924aaa02fdd65c777df3c
+size 93

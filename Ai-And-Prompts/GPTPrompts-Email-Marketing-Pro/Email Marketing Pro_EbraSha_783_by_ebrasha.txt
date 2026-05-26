@@ -1,1 +1,3 @@
-What are the most effective strategies for using email content to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:312ff8526e579f4226cfc268a51ed46e7d1f9de334495cdfed41a6f0f3d3de32
+size 88

@@ -1,2 +1,3 @@
-Nokia215/12.03.11 (Series30Plus)
-Nokia215/11.00.11 (Series30Plus)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44db87d933d495da62a5ec7cf836318e5c6810cd3369118c9a67fa01b8e8396
+size 66

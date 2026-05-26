@@ -1,1 +1,3 @@
-How do I manage database users and permissions in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e4f86f60197fbae3eb5719f444cb552736b3e3f9284fe08f1c9582e7993a030
+size 60

@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.1; SM-G881F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.4413.107 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbec2a1984db0cb81521c1e6e70833b7086da3284efaac05ecc0c0bd610f6e98
+size 137

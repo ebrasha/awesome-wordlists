@@ -1,1 +1,3 @@
-How can I use email deliverability benchmarks to compare my performance to others in my industry?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0306a2420c25e6e85157a48313cba0d6f63f2a15485a2ad3591e59326a7308bf
+size 99

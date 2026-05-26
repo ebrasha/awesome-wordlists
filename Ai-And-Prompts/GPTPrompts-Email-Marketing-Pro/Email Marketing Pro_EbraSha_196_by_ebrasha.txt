@@ -1,1 +1,3 @@
-How to use A/B testing to improve the effectiveness of your email segmentation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f77c3a1ddb709ccfd75c0abb6b32f3230ac4347498496a74bfd76d0f6c56785
+size 81

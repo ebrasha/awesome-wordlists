@@ -1,1 +1,3 @@
-How do I optimize database performance in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc98145a0b827418fb8f7a65bd1df54d8bd1efe13114702a765b88593050ff30
+size 52

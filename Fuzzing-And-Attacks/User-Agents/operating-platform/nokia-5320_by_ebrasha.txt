@@ -1,5 +1,3 @@
-UCWEB/2.0 (Symbian; U; S60 V3; id; NOKIA5320) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-Nokia5320/04.13 (SymbianOS/9.3; U; Series60/3.2 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
-Mozilla/5.0 (S60V3; U; en-us; NOKIA5320)/UC Browser8.2.0.132/28/405/UCWEB Mobile
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NOKIA5320) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-UCWEB/2.0(Symbian; U; S60 V3; id; NOKIA5320) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:34bad8fce1c878244db2dd666e3a2b03be1eb27a89de57380a34e10f40b06a6b
+size 506

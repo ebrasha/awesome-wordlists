@@ -1,1 +1,3 @@
-How do I store and manage hierarchical data in a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:88f6a66f2245840c343d7a012ac7275ae46ccb48060e89d8e34d671345d34fef
+size 71

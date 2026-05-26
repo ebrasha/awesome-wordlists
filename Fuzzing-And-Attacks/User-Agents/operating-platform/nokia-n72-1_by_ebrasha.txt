@@ -1,1 +1,3 @@
-NokiaN72-1/3.0 (4.0632.0.10) Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db84301d90fc94318d90a0a0f50bc6302e3096380da20cb3b6c9f45911e8dea
+size 82

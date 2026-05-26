@@ -1,1 +1,3 @@
-SonyEricssonK300/R2AJ SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb0fcbf6220a7622a53e4871c09ff8044216174d6fc1567147237560cbde14ec
+size 81

@@ -1,1 +1,3 @@
-How can I use GDPR and data privacy compliance to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e87ed26991a06f9bb97b35ef0dc7182afec4b695f6f6406f841e88b1faa613a
+size 78

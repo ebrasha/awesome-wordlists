@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2; en-ca; GT-P1000R Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee032b0251741a59e7b6af137dae1a0b113a81d8135a478d5cabfb2ac885df38
+size 136

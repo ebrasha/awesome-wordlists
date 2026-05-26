@@ -1,1 +1,3 @@
-How do I store and manage geolocation data in a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64e51f2d6542911acf7c2f25f4625b4798472b944c152016462a615f8b28109
+size 70

@@ -1,1 +1,3 @@
-LG-A200/V100 Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e01b8deccc99abbed75e1e6befb7e47877dc6d470b6dbf181e83391565d98d7
+size 66

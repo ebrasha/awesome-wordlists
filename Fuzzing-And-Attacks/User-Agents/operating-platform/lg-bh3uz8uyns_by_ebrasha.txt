@@ -1,1 +1,3 @@
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.224 Safari/537.36 VuZYNe5GxuZYH/klgBh3UZ8uyns= 2014-01-15T03:23:49.377Z
+version https://git-lfs.github.com/spec/v1
+oid sha256:72d0a9eddcdede1e951166844192d14208f3f46e6aa427ef0929b4ba5caf1ca8
+size 157

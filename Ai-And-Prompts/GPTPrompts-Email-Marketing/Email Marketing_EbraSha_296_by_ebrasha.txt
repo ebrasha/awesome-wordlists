@@ -1,1 +1,3 @@
-How can I use custom email templates to create a library of reusable email designs for different types of campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:915f51f840bf5c2a866a86ab9afeba9a8d6e186a9d6e582dd6322c5cd6d33b49
+size 118

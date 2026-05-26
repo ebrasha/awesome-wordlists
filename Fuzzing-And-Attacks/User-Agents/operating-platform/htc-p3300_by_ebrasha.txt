@@ -1,1 +1,3 @@
-HTCP3300-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320)
+version https://git-lfs.github.com/spec/v1
+oid sha256:300a097b220ee2dec7ca56ddfbe3cc3dd4a94cae9289a6e80dfeae89e385b90f
+size 71

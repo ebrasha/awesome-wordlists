@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.4.4; fr-fr; SM-I9060I Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.4.4; en-US; SM-I9060I Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.10.5.809 U3/0.8.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbddf50ec94d679153db2659b519156790c0d6d6e504f9303869ec9a5cf16ec
+size 313

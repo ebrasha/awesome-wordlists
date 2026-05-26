@@ -1,1 +1,3 @@
-SAMSUNG-GT-B7350/1.0 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.5)
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f796e42c3c5e9658c2cafe31b4be810e3c1b4106633da170cff36c665629176
+size 99

@@ -1,18 +1,3 @@
-/http://example.com
-/%5cexample.com
-/%2f%2fexample.com
-/example.com/%2f%2e%2e
-/http:/example.com
-/?url=http://example.com&next=http://example.com&redirect=http://example.com&redir=http://example.com&rurl=http://example.com
-/?url=//example.com&next=//example.com&redirect=//example.com&redir=//example.com&rurl=//example.com
-/?url=/\/example.com&next=/\/example.com&redirect=/\/example.com
-/redirect?url=http://example.com&next=http://example.com&redirect=http://example.com&redir=http://example.com&rurl=http://example.com
-/redirect?url=//example.com&next=//example.com&redirect=//example.com&redir=//example.com&rurl=//example.com
-/redirect?url=/\/example.com&next=/\/example.com&redirect=/\/example.com&redir=/\/example.com&rurl=/\/example.com
-/.example.com
-///\;@example.com
-///example.com/
-///example.com
-///example.com/%2f..
-/////example.com/
-/////example.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:749ae61dcace2d0815d4512a27e93b28e1ed8d417819e8143fe0e4f7dc1eb19a
+size 864

@@ -1,1 +1,3 @@
-How can I use buttons and links effectively in emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ad16422f990ab6bbbe2bf6e89b27472c4eec81935845cc667667f3d02d1574
+size 56

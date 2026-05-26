@@ -1,2 +1,3 @@
-SAMSUNG-SGH-B130/B130XEIA1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-B130/B130XEHF1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:00e2e7687350ca0a8f44e0eb28a435e41b742db7763f4ed63964a106e5a40643
+size 136

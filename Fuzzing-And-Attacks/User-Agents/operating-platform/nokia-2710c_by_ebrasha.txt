@@ -1,1 +1,3 @@
-Nokia2710c/2.0 (09.67) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:04bb44d87545cda56af3b7e337c5bf47e8611626c2151e6c98f9f631713738fe
+size 63

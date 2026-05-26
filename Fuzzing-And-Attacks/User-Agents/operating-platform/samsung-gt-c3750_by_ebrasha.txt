@@ -1,1 +1,3 @@
-SAMSUNG-GT-C3750/C3750BOKK4 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e05f5a34ba2a62a8320de4fee62f9eddeeb62b63b5214fafa9e57bfadf263ac
+size 81

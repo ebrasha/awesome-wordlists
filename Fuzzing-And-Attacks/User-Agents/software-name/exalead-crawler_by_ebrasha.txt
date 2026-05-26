@@ -1,5 +1,3 @@
-Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
-Mozilla/5.0 (compatible; Exabot/3.0 (BiggerBetter); +http://www.exabot.com/go/robot)
-Mozilla/5.0 (compatible; Exabot/3.0;  http://www.exabot.com/go/robot)
-"GET /robots.txt HTTP/1.1" 404 287 "-" "Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)"
-Exabot/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd9a8b54f567a8c8c18963c66a1249be17f2ea75b1f20f3fba7e5977d60fc395
+size 347

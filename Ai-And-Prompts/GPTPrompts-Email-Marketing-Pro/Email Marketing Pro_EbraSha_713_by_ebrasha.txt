@@ -1,1 +1,3 @@
-How can I measure the impact of my email personalization efforts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e90cd7bfe58f32a8a83fac922ea71fc1c7e3b31917c44727441c3ddfda37a3
+size 67

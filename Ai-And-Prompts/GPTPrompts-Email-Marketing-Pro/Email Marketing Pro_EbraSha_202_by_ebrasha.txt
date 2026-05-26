@@ -1,1 +1,3 @@
-Using A/B testing to determine the optimal email length for maximum engagement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebaf062d478c1ef8c3e52b02c78383a7d2202c8ed6a92a5a7acba35d397fc65b
+size 81

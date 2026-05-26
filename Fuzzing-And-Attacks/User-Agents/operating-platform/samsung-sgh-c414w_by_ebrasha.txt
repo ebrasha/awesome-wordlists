@@ -1,1 +1,3 @@
-SAMSUNG-SGH-C414W/C414UQKB3 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa3492fbc08009ef47abfd56f0b01e90c29e595f43338ceeb3cb108036ed3344
+size 106

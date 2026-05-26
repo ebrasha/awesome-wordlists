@@ -1,2 +1,3 @@
-SAMSUNG-SGH-D880/D880BDHE2 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-D880/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:753f759b1effebe78cf228f56116f10b11f27c5f5026d9341781d281fcffc837
+size 210

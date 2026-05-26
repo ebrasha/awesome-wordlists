@@ -1,1 +1,3 @@
-How can I use A/B testing to determine the best segmentation approach for my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eefbee04ebbbc6d1d3be59aba18e9ca275c73b36af8db4c05ebb2998bf37add
+size 86

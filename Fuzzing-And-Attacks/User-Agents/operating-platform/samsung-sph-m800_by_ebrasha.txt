@@ -1,2 +1,3 @@
-TELECA-/2.0 (BREW 3.1.5; U; EN-US; SAMSUNG; SPH-M800; Teleca/Q05A/INT) MMP/2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
-TELECA-/2.0 (BREW 3.1.5; U; EN-US;SAMSUNG; SPH-M800; Teleca/Q05A/INT) MMP/2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:78808ece0b025c5021da67b796cba4b989806a6affeb3d7b50844c2bce1392df
+size 237

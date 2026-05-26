@@ -1,1 +1,3 @@
-The role of A/B testing in personalizing your email content.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f6c946b45ba9f141abc961a8cf4b8915bce0019424787e948dcafadcd7b80a6
+size 62

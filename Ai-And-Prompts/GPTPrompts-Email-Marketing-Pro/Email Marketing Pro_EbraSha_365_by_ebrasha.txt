@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of rights and controls for individuals, such as access, rectification, erasure, and objection?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1de20f4e78253c119711d3722ed23b75d8f52866d7c673a3fbe5166d22d52d42
+size 177

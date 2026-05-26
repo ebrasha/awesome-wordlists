@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia Lumia 527 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:96f3388b204b66b2667ed0ee7d929c469fa5d32cdf1458441b71fd96401ff68e
+size 140

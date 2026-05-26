@@ -1,1 +1,3 @@
-What metrics should I track to optimize the relevance of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1387e0030cc1cdba7b3f7b386d5d899a99d23e527ca304d7458201682b54c70f
+size 78

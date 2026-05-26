@@ -1,1 +1,3 @@
-How do I optimize workflows for data analysis and reporting in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:19e3274a42f94aae3995939e65b6b0b98bf45d54a317ca4cfed585005a60995f
+size 73

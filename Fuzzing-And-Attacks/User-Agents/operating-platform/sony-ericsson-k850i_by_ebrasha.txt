@@ -1,1 +1,3 @@
-SonyEricssonK850i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8944072d78246f1d3e4f3d949ce30db7ae0691b12d9bab4d68a03687ab22cc3b
+size 106

@@ -1,6 +1,3 @@
-Admin
-admin
-cusadmin
-root
-smc
-smcadmin
+version https://git-lfs.github.com/spec/v1
+oid sha256:92483d8230448f0ba7002d8233b2026fccd43c714d33f0156fe10d0966cc2330
+size 38

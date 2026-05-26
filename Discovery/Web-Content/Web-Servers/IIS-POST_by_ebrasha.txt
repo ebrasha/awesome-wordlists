@@ -1,1 +1,3 @@
-msadc/msadcs.dll/VbBusObj.VbBusObjCls.GetMachineName
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dbeff12ce1d29ce8dd072d1aff7b204735323a79c3a17aeb2e854c398e0a371
+size 52

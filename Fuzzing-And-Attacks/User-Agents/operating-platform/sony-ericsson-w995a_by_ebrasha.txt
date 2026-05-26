@@ -1,1 +1,3 @@
-SonyEricssonW995a/R1GB Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.4
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2621fee220d97dc580b63807e5205cbf958edb7d8335a446a590489570e17aa
+size 106

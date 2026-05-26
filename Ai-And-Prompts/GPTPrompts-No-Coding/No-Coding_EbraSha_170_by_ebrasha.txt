@@ -1,1 +1,3 @@
-How do I handle technical SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b19f7787638080629ca298d2d83726be2e930a52962c2c127389e2cb04f47d
+size 43

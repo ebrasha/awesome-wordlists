@@ -1,1 +1,3 @@
-SonyEricssonTM717/R1FC Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.3
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a5eb6e4d200e522dddb3620c8dc6f71b0da1f91692a7f614d14964354e0105
+size 106

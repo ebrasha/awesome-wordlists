@@ -1,1 +1,3 @@
-SAMSUNG-GT-S3310/1.0 SHP/VPP/R5 NetFront/3.4 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fe7f6ddfa4bb864d81964c34d2cb253228158503789f08e671d5a4deebe8a72
+size 99

@@ -1,1 +1,3 @@
-How can I use email design to make my emails more engaging and memorable for my subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7014f3242c374df6c1423f2a5b5282b8dd101eecb20fc82044fb61f4b805e435
+size 94

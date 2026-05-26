@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-A310X Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.5 Chrome/38.0.2125.102 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5610341c5103543ba1cc1ade769061bd25c8436bb9dd658cf046517925d25a1
+size 166

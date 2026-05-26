@@ -1,1 +1,3 @@
-How can I create an email template that is both simple and effective?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff2bb69e0509c6d144ec9b87b1808818806785f6295915688016bae228feddbb
+size 71

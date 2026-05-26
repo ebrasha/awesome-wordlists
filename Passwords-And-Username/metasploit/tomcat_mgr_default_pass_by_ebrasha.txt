@@ -1,7 +1,3 @@
-admin
-manager
-role1
-root
-tomcat
-s3cret
-vagrant
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b2c6c624873fe422c643452db94975a9728f97442c738b1a90b7f2a914c4fd
+size 47

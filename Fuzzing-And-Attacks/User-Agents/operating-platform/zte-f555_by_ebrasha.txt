@@ -1,1 +1,3 @@
-ZTE-F555/1.0.0 NetFront/4.2 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c388a81986c08e2ca865ac231996fcc5979ac0595f9267904e9d34b70852898
+size 75

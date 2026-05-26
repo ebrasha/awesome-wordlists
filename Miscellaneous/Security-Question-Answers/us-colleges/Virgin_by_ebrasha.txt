@@ -1,2 +1,3 @@
-University of the Virgin Islands
-University of the Virgin Islands-Albert A. Sheen
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cfc86286baa2576196109da5fd02aa91793e29b2a38e7a82ab187ba72144259
+size 82

@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of international transfers, such as standard data protection clauses, Binding Corporate Rules, and Privacy Shield
+version https://git-lfs.github.com/spec/v1
+oid sha256:08905c82ba8c52a7079cfca1a895a9322a358b36471cb172b233bb952a1866f7
+size 196

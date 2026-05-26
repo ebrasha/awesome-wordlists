@@ -1,1 +1,3 @@
-How do I automate human resource processes in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7222775d3a34c99a468b13db7c2bfd98e98ae6035e46fce9f69a394e5772c2bf
+size 56

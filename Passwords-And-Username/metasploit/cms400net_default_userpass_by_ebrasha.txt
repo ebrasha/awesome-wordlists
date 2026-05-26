@@ -1,14 +1,3 @@
-admin admin
-builtin builtin
-jedit jedit
-jmember jmember
-Admin2 Admin2
-tbrown tbrown
-jsmith jsmith
-vs vs
-EkExplorerUser EkExplorerUser
-Explorer Explorer
-member@example.com member@example.com
-north north
-supermember supermember
-west west
+version https://git-lfs.github.com/spec/v1
+oid sha256:2de5885451bd8147040dcf68460029ee86cd6ac4ee81be150c7e041270ac2062
+size 236

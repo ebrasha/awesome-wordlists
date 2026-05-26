@@ -1,4 +1,3 @@
-Jigsaw/2.3.0 W3C_CSS_Validator_JFouffa/2.0 (See <http://validator.w3.org/services>)
-Jigsaw/2.3.0-beta2
-Jigsaw/2.2.5 W3C_CSS_Validator_JFouffa/2.0
-Jigsaw/2.2.0 W3C_CSS_Validator_JFouffa/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ccb6a2dc6dd1555a03ea5cfc9a2e7375a8741ea2ecba2d7d96868a8f15d793
+size 188

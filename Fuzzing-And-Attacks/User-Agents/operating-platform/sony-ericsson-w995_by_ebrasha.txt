@@ -1,10 +1,3 @@
-SonyEricssonW995/R1HA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.5
-SonyEricssonW995/R1EA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.2
-SonyEricssonW995/R1EA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
-SonyEricssonW995/R1HA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 Mozilla/5.0 (Windows; U; Windows NT 6.0; en; Desktop) AppleWebKit/534.13 (KHTML, like Gecko) UCBrowser/9.4.2.387
-SonyEricssonW995/R1FA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.3
-SonyEricssonW995/R1HA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; sonyericssonw995) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0
-SonyEricssonW995/R1H Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.5
-SonyEricssonW995/R1HA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 model-orange JavaPlatform/JP-8.4.5
-SonyEricssonW995/R1HA Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en; SonyEricssonW995) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
-SonyEricssonW995/R1GA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.4
+version https://git-lfs.github.com/spec/v1
+oid sha256:24285d6b7e7fa05248ff1a2d3b8d68c2f7569a4ae830923dce77429982b0e1e6
+size 1235

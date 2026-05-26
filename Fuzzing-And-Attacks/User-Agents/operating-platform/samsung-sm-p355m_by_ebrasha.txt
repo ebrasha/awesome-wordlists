@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.1.1; SM-P355M Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36
-Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-P355M Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:fafabf3bb00e40a0d79a5cb58089c89036037cf67b96d443a3ae5d194aab4eff
+size 289

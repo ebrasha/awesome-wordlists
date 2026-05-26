@@ -1,1 +1,3 @@
-How do I create reports and dashboards based on data in a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3160d884823ea1b81cfddae5b2866211cdddedf70b8dd65cda82cf5b8235e2c3
+size 80

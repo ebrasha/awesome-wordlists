@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.1.1; NEO-X88-I Build/LMY49F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.60 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; NEO-X88i Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; NEO-X88-I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2eafeb4dd7e695ef8a034d029b8b9a5c4c7e521598e60ef570a1a8b4070f24
+size 427

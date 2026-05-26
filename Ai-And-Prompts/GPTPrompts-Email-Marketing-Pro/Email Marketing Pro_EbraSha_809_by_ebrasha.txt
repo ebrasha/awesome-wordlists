@@ -1,1 +1,3 @@
-What are the best practices for using email subject line testing to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ff970a5dcac7a0610a699fb1254ecba1bc53a18b42480a5dd1c93069965fda3
+size 89

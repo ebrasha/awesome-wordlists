@@ -1,1 +1,3 @@
-ZTE-R230/2.0 Profile/MIDP-2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:8802fd005657447595e407286b79b84d077b82a89d51028120e35c61478391f9
+size 30

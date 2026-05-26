@@ -1,1 +1,3 @@
-How can I use email marketing data analysis to improve email list building?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc853ce41b4d953e5aa35d32c65cee7095007a5366a2daeac0efc0437a9ea1a
+size 77

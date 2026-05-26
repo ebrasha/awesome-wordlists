@@ -1,1 +1,3 @@
-How can I use email marketing to offer a money-back guarantee to my target audience for solutions to their pain points?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d038d56ee862e4dc849d064d1f093afa629f0002b79478ad5b575a4f297d50e4
+size 121

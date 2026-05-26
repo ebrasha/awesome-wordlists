@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve my ROI?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f9216ddc49cc634a025569b7144ded896e54512c4688ec17b6a46c64cd64810
+size 58

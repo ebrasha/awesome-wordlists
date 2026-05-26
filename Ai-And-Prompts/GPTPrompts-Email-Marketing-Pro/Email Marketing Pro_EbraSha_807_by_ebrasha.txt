@@ -1,1 +1,3 @@
-What are the most effective ways to use email triggering to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bb7b3477d666c1523e14ebc2c1bed536ce83aff86cd59b3d9cd03bb90bd231c
+size 81

@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.1.1; en-au; HTC_POO_U Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; Android 4.0.4; HTC POO_U Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f6e10979908e625568f3e7d67ba6fed46bfb915e249d2df10bf4192dc0e1e07
+size 281

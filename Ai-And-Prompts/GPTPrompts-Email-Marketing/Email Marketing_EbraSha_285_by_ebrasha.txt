@@ -1,1 +1,3 @@
-How can I use design elements like hover effects and rollover effects to make my emails more engaging?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b4b8cec89acdfc95e609a618e7a94a0a206c106c295707125aae94dc7945d3b
+size 104

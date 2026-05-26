@@ -1,3 +1,3 @@
-SonyEricssonW580i/R6BC Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonW580i/R8BE Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-Mozilla/5.0 (Configuration/CLDC-1.1 Profile/MIDP-1.0 MIDP-2.0) Minuet/3.1.3,SonyEricssonW580i/R8BE Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2799bb91791aa4732b6ac8ce8a05a81c5434f666eab4b9f57faa3227ba302cc
+size 321

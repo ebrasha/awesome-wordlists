@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T379/1.0 SHP/VPP/R5 NetFront/4.2 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a2fb0d907a6ae4f6d55e706b83a8f8c30911beeba9f571cd40601dc475c7515
+size 99

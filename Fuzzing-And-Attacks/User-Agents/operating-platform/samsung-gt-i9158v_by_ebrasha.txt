@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG-GT-I9158V_TD Release/05.30.2014 Browser/AppleWebKit537.36 Build/JLS36C) AppleWebkit/537.36 (KHTML, like Gecko) Version/1.5 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b4b771c4fe1fc11054a2d983c24eed598096d280b178b6ea44a7c1855435da
+size 192

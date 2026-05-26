@@ -1,1 +1,3 @@
-SonyEricssonW205/R1BA004 Browser/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d4815238ca672f0fd70bd97b13f5071c54907308c6a1198a2e97e95940e6e1
+size 77

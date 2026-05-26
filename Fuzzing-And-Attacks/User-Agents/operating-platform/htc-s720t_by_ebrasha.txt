@@ -1,1 +1,3 @@
-UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; HTC S720t Build/JRO03C) U2/1.0.0 UCBrowser/9.8.0.435 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:24952feb3f8947a4462e7cfe0eec9ea1337d478f63040e73432b6d58ff88d078
+size 117

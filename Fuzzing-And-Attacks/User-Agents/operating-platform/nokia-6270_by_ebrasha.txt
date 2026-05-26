@@ -1,1 +1,3 @@
-Nokia6270
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3dc72bddb87596855848bf4b19b6a4a1f67d1e05fc0a89ab48d44677549a344
+size 10

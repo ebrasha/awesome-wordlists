@@ -1,1 +1,3 @@
-SonyEricssonW100i/R1CA009 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:63b09d0373262f56a2434625628fbcbc5a63c6af5abf46607fef39d858240c01
+size 88

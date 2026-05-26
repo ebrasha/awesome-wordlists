@@ -1,1 +1,3 @@
-How do I handle site structure optimization for SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f60f03d35f207870a718b61ed52ff72a2278e6bdbda5be638c09822dc6b8fc5
+size 65

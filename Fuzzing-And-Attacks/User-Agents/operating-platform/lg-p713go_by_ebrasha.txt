@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.1.2; LG-P713GO Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.1.2; LG-P713GO Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:a24582605b93271c0c9b1e40cac6d7263d5e91f283426f26271aeedd519a963e
+size 278

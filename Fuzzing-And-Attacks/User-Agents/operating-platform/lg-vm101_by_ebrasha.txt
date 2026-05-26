@@ -1,1 +1,3 @@
-LGE-VM101/1.0 UP.Browser/7.2.7.2.543 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f6c0003e1e7e3d7d3c35e6d79746a48ffb1730948f4a56cf24889d3b399655e
+size 51

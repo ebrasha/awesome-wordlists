@@ -1,1 +1,3 @@
-Nokia3555/2.0 (03.46) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:937de20c4844e9ffe3347b56ca6bd94aadb262d46344d9bb97888c48a81ddc88
+size 62

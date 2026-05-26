@@ -1,1 +1,3 @@
-Mozilla/5.0 (Series40; NokiaC2-07/06.51; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/1.0.1.21.8.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:547031b02a666b2eac5d850d75ed12399d02ea2354c4f83d8cf766faae107e08
+size 124

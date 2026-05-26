@@ -1,1 +1,3 @@
-How can I build a successful email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebba8978930e9746a6e1237c091ad4330adc5a9046ebe22ca09813628a776b94
+size 42

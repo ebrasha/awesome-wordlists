@@ -1,1 +1,3 @@
-Nokia8800/2.0 (03.78) Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b394887fd996902df8417e4d1e3805763f0aec141f2e0996c26d4c40068e41f
+size 62

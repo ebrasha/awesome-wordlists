@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.0; HTC 2PS650 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 6.0; HTC 2PS650 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.0.0 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:db6f741c3211f5af9d9b1719a1ee7e685240a976cd829f8272e8c92939aba257
+size 272

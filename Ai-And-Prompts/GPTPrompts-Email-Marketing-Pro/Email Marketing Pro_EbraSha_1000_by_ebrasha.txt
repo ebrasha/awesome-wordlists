@@ -1,1 +1,3 @@
-What are the most effective strategies for using email personalization to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f77170ab034a18bc905e21f05ed93e9a125abe88315355e03788b979fa7d60f
+size 98

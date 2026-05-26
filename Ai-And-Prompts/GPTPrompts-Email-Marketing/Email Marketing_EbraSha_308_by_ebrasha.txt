@@ -1,1 +1,3 @@
-How can I use my brand's emotions in my emails to create an emotional connection with my audience?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0241bcd00ea1fc9e9dc12094cfb0434af9b979c5fbe4da048c05fc0531f4308d
+size 100

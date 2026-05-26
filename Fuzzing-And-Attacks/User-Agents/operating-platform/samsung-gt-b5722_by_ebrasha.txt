@@ -1,3 +1,3 @@
-SAMSUNG-GT-B5722/B5722DDJA1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-B5722/B5722JVJA1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-B5722/B5722JPJC2 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:c888f409bb0beba7d4eb83adbb2bafedf9799fb223eb01f3a436b290b72950f6
+size 243

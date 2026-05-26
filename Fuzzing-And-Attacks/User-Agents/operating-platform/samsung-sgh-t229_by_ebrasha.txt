@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T229/T229UVHC4 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f226ed9b4279f9c6ccf346fa6a4cc0d133929dd63adedb747381c522c4c335f
+size 108

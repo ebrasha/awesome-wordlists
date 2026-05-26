@@ -1,1 +1,3 @@
-How can I create a newsletter for my business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3302a12d986bfba0c3af0cff3528877374b654d342ccf05fbb46c48de0a8b52
+size 48

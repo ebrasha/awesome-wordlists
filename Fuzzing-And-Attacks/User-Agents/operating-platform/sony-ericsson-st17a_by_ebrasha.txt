@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-nz; SonyEricssonST17a Build/4.0.1.A.0.284) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d5a16453fbc9241733beb81eeff47c2f925877d21e5bcb7ce1702c52e3fd62c
+size 154

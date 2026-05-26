@@ -1,1 +1,3 @@
-SAMSUNG-GT-E2370/E1055GJVKB3 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9d5b2098d41c9d76c79d33b6b9c7aa30789f675d439494090f326f9db0317f
+size 70

@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2.2; pt-br; ZTE-BladeRunner Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:73750590b265dfe731822968d1c21496ea14f7bbb36ec2241792276d295cc0f5
+size 144

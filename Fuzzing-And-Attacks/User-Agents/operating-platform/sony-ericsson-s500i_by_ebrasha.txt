@@ -1,1 +1,3 @@
-SonyEricssonS500i/R6BC Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8cab2fd90ae32fe9809c23408892e960440f08ff680654c92aa3136f0eb4736
+size 84

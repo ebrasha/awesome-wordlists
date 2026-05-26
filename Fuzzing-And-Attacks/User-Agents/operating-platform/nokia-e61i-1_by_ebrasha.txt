@@ -1,1 +1,3 @@
-MQQBrowser/2.6 (NokiaE61i-1;SymbianOS/9.1 Series60/3.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:37d400af8ed94647ab7ff331e6ff3f2fa1a4579066ec6384115141ca9e66f78f
+size 56

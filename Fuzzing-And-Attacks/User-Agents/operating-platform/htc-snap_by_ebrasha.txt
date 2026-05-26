@@ -1,1 +1,3 @@
-HTC_Snap_S521 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:37c5b3665a8f97863a49317a8d1d9de9debc89d1866406941de5faf29e04f3ef
+size 92

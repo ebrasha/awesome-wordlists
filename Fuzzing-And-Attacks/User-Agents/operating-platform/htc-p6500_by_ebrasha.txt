@@ -1,1 +1,3 @@
-HTC_P6500 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9eb35d2a1ae21d804579936b76796c25c3a6c226b898cb0d0d94b7bf7d4d3f9
+size 72

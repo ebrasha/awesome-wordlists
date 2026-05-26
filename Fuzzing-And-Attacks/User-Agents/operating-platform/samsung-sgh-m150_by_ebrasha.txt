@@ -1,2 +1,3 @@
-SAMSUNG-SGH-M150/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-M150/M150XAHH7 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:04141904d316ddabd0c442644fdc7c68365f6cd84712bdfeacca44140fb08a44
+size 210

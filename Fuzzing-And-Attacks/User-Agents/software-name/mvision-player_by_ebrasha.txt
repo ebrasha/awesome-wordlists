@@ -1,1 +1,3 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko MVisionPlayer/5.6.44.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa9c4c74c5e0ab23aa5be8b5be5948fa22a55a9a70aa3e1a6a7d8fe2043fea8f
+size 96

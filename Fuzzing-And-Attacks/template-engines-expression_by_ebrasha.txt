@@ -1,11 +1,3 @@
-42*42
-{42*42}
-{{42*42}}
-{{{42*42}}}
-#{42*42}
-${42*42}
-<%=42*42 %>
-{{=42*42}}
-{^xyzm42}1764{/xyzm42}
-${donotexists|42*42}
-[[${42*42}]]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a662fb7f107b403beff0ae8287c24f5fd589d3e29f60b103a1a5dfa08ed8831d
+size 134

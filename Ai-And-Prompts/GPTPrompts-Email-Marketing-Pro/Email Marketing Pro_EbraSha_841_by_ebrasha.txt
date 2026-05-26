@@ -1,1 +1,3 @@
-How can I use mobile optimization to improve the overall performance of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f3e49087c3752651ba1bc805bef98b2097ea040b65b1dc47a1415e83884ff02
+size 93

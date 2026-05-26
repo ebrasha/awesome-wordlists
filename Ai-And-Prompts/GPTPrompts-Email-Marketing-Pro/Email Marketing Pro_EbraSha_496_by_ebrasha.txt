@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account mobile-specific accessibility and usability for visually impaired individuals?
+version https://git-lfs.github.com/spec/v1
+oid sha256:21d96ba4b3b4521f18d5786269ea0ebee2387a6cd35e2cf2d90418d2a4696535
+size 140

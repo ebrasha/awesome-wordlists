@@ -1,1 +1,3 @@
-LG-GC900/V10a Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:78f627ab3272eb9445203a050860cdfd5a49d5e5e0616ae4d4c464736094f18b
+size 67

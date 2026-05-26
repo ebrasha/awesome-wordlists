@@ -1,1 +1,3 @@
-How can I use gamification to encourage email signups?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea1d9eb899f406dd9944504cbd88d0659b58b2eaca9175f71c72b860a48c5cf
+size 56

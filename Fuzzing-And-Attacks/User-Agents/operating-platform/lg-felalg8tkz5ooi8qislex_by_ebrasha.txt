@@ -1,1 +1,3 @@
-Opera/9.80 (Linux armv7l) Presto/2.12.407 Version/12.51 VK_PATCH/1.0 CE-HTML/1.0 HbbTV/1.2.1 (;Hisense;SmartTV;V00.01.00a.H0724;LTDN50K321UWTSEU_1) FXM-U2FsdGVkX18p1892sMb+bAPfXcU8k3Q58rJ4yVxQuLGFElAlg8Tkz5Ooi8QiSLEX-END
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3701ae1524ad852d805f905fefb22420aaabde1e1ed13c6212f9d7d9ce61dc6
+size 221

@@ -1,1 +1,3 @@
-LGE-MN240/1.0 UP.Browser/6.2.3.8 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:5561082b2d643fdb7270cd6a5e8a9c660d9a0a7a43096689f59f70c7336f477c
+size 47

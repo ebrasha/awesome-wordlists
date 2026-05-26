@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of certifications and seals, such as Privacy Shield, TRUSTe, and ISO 27001?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a3f60cdbe9eb1cd5bbc1ba31857e7a226f19011df22dd487bbd7b2a217bd4a4
+size 158

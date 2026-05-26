@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.3; en-ca; HTC Panache Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:64cb457b108b63afa26ab5d378597aef175eddc68d7ffa768ec94594a90351c7
+size 140

@@ -1,17 +1,3 @@
-Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm)
-Mozilla/5.0(compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (compatible; bingbot/2.0  http://www.bing.com/bingbot.htm)
-Mozilla / 5.0(compatible; bingbot / 2.0; +http://www.bing.com/bingbot.htm)
-bingbot
-Mozilla/5.0 (compatible; bingbot/2.0 +http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (compatible;bingbot/2.0;+http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm
-Mozilla/5.0 (compatible; bingbot/2.0; +https://deepcrawl.com/bot)
-BingBot (Bing's spider)
-Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) https://deepcrawl.com/bot
-Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (compatible; bingbot/2.0; http://www.bing.com/bingbot.htm)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d81f380a7e0cfcf1c75982f90626a2faaa2a23575f2f535c2917409c60e994c4
+size 1499

@@ -1,24 +1,3 @@
-/accounts.txt
-/culeadora.txt
-/data.txt
-/database.txt
-/grabbed.html
-/info.txt
-/l0gs.txt
-/log.txt
-/logins.txt
-/logs.txt
-/members.txt
-/pass.txt
-/passes.txt
-/password.html
-/password.txt
-/passwords.html
-/passwords.txt
-/pazz.txt
-/pazzezs.txt
-/pw.txt
-/pws.txt
-/technico.txt
-/usernames.txt
-/users.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:07e48b4dc4f9c06ed719ed69baac9c435a92944acb032d849e3bbc1183c7fc52
+size 293

@@ -1,1 +1,3 @@
-SAMSUNG-GT-E2652W/1.0 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:20476833aa07f8544e110391610d4244f7ac42743d53bb98513711d51b30b4fe
+size 75

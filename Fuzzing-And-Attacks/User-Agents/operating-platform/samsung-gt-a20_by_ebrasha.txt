@@ -1,3 +1,3 @@
-iBrowser/3.1/Mozilla/5.0 (Linux; U; Android 2.3.5; en-us; SGT-A20 Build/ALPS.GB.FDD2.MP.V3.9) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.5; en-us; SGT-A20 Build/ALPS.GB.FDD2.MP.V3.9) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.5; en-us; SGT-A20 Build/ALPS.GB.FDD2.MP.V3.9) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:7789e06c4592eba2ca599a8ab3fd6ea9c2cb8872bad4e1093c7f92327146979d
+size 453

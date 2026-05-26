@@ -1,1 +1,3 @@
-How do I automate email communication in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:07f33223221b609bdd50629350cb9546545cc3686c01a310a16085fe95a7296d
+size 51

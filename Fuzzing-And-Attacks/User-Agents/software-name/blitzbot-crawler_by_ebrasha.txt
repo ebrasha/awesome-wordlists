@@ -1,5 +1,3 @@
-Mozilla/4.0 (compatible; B-l-i-t-z-B-O-T)
-B-l-i-t-z-B-O-T/16.8 (Ark Linux 4.2; da_DK;)
-BlitzBOT@tricus.net (Mozilla compatible)
-BlitzBOT@tricus.com (Mozilla compatible)
-Mozilla/4.0 (compatible; BlitzBot)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ede27210edfd0f84bf16ff07e2b59ba33214e94b4c704a7898a7407147b61e2
+size 204

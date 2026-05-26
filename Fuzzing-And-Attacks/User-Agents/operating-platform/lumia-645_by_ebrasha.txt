@@ -1,1 +1,3 @@
-Mozilla/5.0 (compatible; MSEDGE 12.0; Windows 10 Mobile; EdgeHTML/12.0; EdgeMobile/12.0; ARM; Touch; Microsoft; Lumia 645 LTE)
+version https://git-lfs.github.com/spec/v1
+oid sha256:24a3a99de628ca6feb7b49cf1cd06d477de884f7f70c5102f8dac7801b0d107b
+size 127

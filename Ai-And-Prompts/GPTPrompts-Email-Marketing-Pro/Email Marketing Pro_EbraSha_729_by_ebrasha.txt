@@ -1,1 +1,3 @@
-How do I measure the impact of my email industry news updates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4824c42887e21c45d11302f3ecf91dcd6eae66e99ba567104a4712ad766cf55
+size 64

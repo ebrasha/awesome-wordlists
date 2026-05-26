@@ -1,1 +1,3 @@
-How can I use personalization to create a more effective email cross-promotion strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b7b6f833b8f4ac98278dedf22dbc5f350331bf998c61e423c65514df97894b0
+size 90

@@ -1,1 +1,3 @@
-KARBONN/K3000/MIDP2.0/CLDC1.1/Screen-240X320
+version https://git-lfs.github.com/spec/v1
+oid sha256:992a2ecfe3dfd64ef263b5a86cf390b38d5d3c7b15cf2bdd7cc3e0a5e08bb2ef
+size 45

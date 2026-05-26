@@ -1,1 +1,3 @@
-What are the best practices for using email design to improve the delivery rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fafecc8644accacd113af0eb8093d815360cfd3e2c444ebfa5a7463c0db9b93c
+size 95

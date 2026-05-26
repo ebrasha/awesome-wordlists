@@ -1,1 +1,3 @@
-How can I make sure my emails are mobile-responsive?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e404448b756bcfaa66a45e127be47315847e9816d3566f27021eb06205b81346
+size 54

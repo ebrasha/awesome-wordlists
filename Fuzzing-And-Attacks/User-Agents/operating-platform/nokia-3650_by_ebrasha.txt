@@ -1,1 +1,3 @@
-Nokia3650/1.0 SymbianOS/6.1 Series60/1.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa18c7984ad204a1844bdfe7bf037b5081a98a7502ca7180863aa2e73c159630
+size 81

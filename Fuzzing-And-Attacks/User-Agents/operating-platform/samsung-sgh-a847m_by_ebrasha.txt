@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A847M/A847BMJK4 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59fa498c3d9665a757e445137a8a752b2db4a37511ae5913d0454e25c40d45d
+size 106

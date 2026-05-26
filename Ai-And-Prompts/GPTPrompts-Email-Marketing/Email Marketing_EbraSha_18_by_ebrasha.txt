@@ -1,1 +1,3 @@
-How can I use email list personalization to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:93b78607899a991922144354673d2c81c4346cd5bcb8f6eea1fa6f30efb0c90f
+size 82

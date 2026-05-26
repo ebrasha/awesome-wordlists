@@ -1,1 +1,3 @@
-SonyEricssonW960i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 768) Opera 8.65 [en]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd960561cdbb04c9f8107e2ddf32ba2ea2353572a930d1f993cc849fdc0e1df3
+size 91

@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.7; ko-kr; LG-KU5400 Build/GWK74) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 NAVER(inapp; search; 300; 5.6.1)
-Mozilla/5.0 (Linux; U; Android 4.0.4; ko-kr; LG-KU5400/20i Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d70e1a59fa37f117e0df49b1e721daa054f134feae898e038230fce64a0e46
+size 316

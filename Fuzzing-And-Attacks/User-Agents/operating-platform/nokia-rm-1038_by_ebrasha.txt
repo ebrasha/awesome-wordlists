@@ -1,1 +1,3 @@
-WhatsApp/2.17.152 WP7B/8.10.15148.0 Device/NOKIA-RM-1038_1011-H3.0.0.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb71946e4dfe4ecc9b45420f95e33b39c4f5528814e5a74b8fafee650c1e7fa0
+size 71

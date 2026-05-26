@@ -1,1 +1,3 @@
-What metrics should I track to optimize the delivery rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bae8b6b741fc1397fbedbc8877cb3048c04d85a15a6dcc61c736fba0cd83f29
+size 73

@@ -1,1 +1,3 @@
-Nokia6600f/2.0 (06.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:697f85cb5954dafbb928a6458c45e80c9d3548b28d2567ec5f564f81eb9291ba
+size 63

@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.3; ne-in; SM-G3139D Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.3; ar-ye; SM-G3139D Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bcf706d8789fe4091255ee0c1e006cdd4bf1965ef54b2b7a09c7b7f0feb66a6
+size 278

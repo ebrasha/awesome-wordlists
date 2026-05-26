@@ -1,1 +1,3 @@
-SonyEricssonT280i/R1CB002 TelecaBrowser/Q04C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58a75c5760114c49e5427580d9403223af393780286832e5db7e56ab59c0fd7
+size 88

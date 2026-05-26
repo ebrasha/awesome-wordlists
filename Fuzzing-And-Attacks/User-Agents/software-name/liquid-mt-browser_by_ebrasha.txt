@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.5; en-au; Liquid MT Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Liquid MT Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee8eb61f90bc50a2751a3fcb9c7668d7914cd679084f6cc3f54b746b34ea80a1
+size 277

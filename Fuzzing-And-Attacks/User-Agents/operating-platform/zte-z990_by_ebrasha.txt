@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; ZTE-Z990 Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; es-us; ZTE-Z990 Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd396e48eff0e797a0bca1f5843c3d8b145df53973b9b6f30b4104bb5f37cff
+size 274

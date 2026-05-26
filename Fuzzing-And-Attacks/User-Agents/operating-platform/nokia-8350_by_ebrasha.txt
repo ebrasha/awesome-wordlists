@@ -1,1 +1,3 @@
-Nokia8350/10.0.011 (SymbianOS/9.4; U; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525 3gpp-gba
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2034c104db6d695f39ce3a9714a99de8fb120e68f10db1652a6b4a9d3745aaf
+size 162

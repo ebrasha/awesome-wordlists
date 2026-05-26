@@ -1,1 +1,3 @@
-How can A/B testing be used to find the ideal time to send my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c74b8d2810247e882b397df1c7163182549174849a363f53c1d765f6fc07718
+size 71

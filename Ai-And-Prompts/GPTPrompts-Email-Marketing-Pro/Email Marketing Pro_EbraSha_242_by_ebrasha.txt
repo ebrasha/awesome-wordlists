@@ -1,1 +1,3 @@
-How can I use email design to create a sense of urgency in my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb5d747b57624f1c52d1661f217f1751c9514c7d4ed8646d17a5e4f2b1f2577
+size 74

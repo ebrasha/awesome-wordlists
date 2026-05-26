@@ -1,7 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.3; es-sa; LG-P705g Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-ca; LG-P705g Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; es-sa; LG-P705g Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; LG-P705g Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.3; fr-ca; LG-P705g Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; Android 4.0.3; LG-P705g Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.0.3; LG-P705g Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:b99ed5402c4560db9c4acfa7e5399bfea5ee60fc8d0838e3dda2a5e13b7567e7
+size 976

@@ -1,1 +1,3 @@
-Mozilla/5.0 (LG-T395 AppleWebkit/531 Browser/Phantom/V2.0 Widget/LGMW/3.0 MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1)
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e06dd9c3f275b2570e4cf90bb6289c9a3b68d936ca8704a67390222e74452c
+size 149

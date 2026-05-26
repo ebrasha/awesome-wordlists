@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account the mobile device's orientation?
+version https://git-lfs.github.com/spec/v1
+oid sha256:54e583d647ca1aa2cf3e338cfdeb44edb9a9cb9f342c10eb1bb969ef5eb54f46
+size 94

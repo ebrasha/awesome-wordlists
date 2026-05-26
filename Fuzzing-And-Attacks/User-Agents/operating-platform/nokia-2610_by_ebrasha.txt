@@ -1,2 +1,3 @@
-Nokia2610/2.0 (03.77) Profile/MIDP-2.0 Configuration/CLDC-1.1
-nokia2610
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ceb479fba309f368da33baa2ed59b72ffb4c174f72ff4b37bc7c05837741e6f
+size 72

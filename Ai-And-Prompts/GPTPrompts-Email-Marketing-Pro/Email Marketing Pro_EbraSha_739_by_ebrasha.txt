@@ -1,1 +1,3 @@
-How do I determine the effectiveness of my email cross-promotion campaigns with partners?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c1869dee5c797683a635a2e4e37cec9974a4904f4827bb086a2d333055899cf
+size 91

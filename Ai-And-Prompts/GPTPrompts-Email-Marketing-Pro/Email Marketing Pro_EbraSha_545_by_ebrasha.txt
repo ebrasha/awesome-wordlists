@@ -1,1 +1,3 @@
-What is the impact of sending frequency on email open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5be0ae2122929619b056fb4e46fe4bd0085dd86035fe1ac8fbe0fdf66d0891
+size 62

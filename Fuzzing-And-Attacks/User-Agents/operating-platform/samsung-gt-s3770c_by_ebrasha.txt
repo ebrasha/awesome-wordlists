@@ -1,1 +1,3 @@
-samsung-gt-s3770c
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc9cf2ea3c429c8196d3aa8d77b7ffd947fbdc7aeab2da958f60eef029309a6c
+size 18

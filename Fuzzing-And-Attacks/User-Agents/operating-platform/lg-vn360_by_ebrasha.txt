@@ -1,2 +1,3 @@
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2370; U; en) Presto/2.8.119 240X400 LG VN360
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2405; U; en) Presto/2.8.119 240X400 LG VN360
+version https://git-lfs.github.com/spec/v1
+oid sha256:043175dceac075168d9d4024c4c0fff0035e8008b35821174394861b8a186a5c
+size 166

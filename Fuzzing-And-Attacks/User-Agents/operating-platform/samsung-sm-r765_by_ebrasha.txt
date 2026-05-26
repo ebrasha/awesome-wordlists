@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Tizen 2.3.2.1; SAMSUNG SM-R765) AppleWebKit/538.1 (KHTML, like Gecko) Version/2.3.2.1 Mobile Safari/538.1
-Mozilla/5.0 (Linux; Tizen 2.3.2.4; SAMSUNG SM-R765) AppleWebKit/538.1 (KHTML, like Gecko) Version/2.3.2.4 Mobile Safari/538.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff5f8e521e1f11a09a4f6c3b2383a740d18903879a0fe1e88f4180a7404f4b87
+size 252

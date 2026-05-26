@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2; en-us; HTC Bravo_C Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-us; HTC Bravo_C Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-gb; HTC Bravo Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc670593d1e970884322eeaa6d79b24ea70d96c47655122019e6ca3761a7fac7
+size 432

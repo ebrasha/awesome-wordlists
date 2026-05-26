@@ -1,1 +1,3 @@
-What are the most effective ways to use email design to improve the overall success of my email marketing campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:639e0b4143dea20f2e538aeb0859e874dcc4f1e4f43fc3dce1f358e7cad6995e
+size 118

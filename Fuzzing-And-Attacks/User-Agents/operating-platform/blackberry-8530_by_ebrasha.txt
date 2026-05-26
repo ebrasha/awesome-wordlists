@@ -1,18 +1,3 @@
-BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
-BlackBerry8530/5.0.0.654 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/126
-BlackBerry8530/5.0.0.654 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/389
-BlackBerry8530/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
-BlackBerry8530/5.0.0.459 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/228
-BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/315
-BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/394
-BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/189
-BlackBerry8530/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/417
-BlackBerry8530/5.0.0.508 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
-BlackBerry8530/5.0.0.386 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/126
-BlackBerry8530/5.0.0.734 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
-BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/303
-BlackBerry8530/5.0.0.1000 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
-BlackBerry8530/5.0.0.459 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
-BlackBerry8530/5.0.0.395 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
-BlackBerry8530/5.0.0.337 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
-BlackBerry8530/5.0.0.847 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/315
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac9951838c772ec9f6a55590be2d360cc0691238f347bbf54f67f513df0a004e
+size 1407

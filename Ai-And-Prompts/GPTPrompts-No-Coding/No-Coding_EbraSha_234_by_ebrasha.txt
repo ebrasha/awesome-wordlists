@@ -1,1 +1,3 @@
-How do I optimize workflows for user adoption in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:77cfa56be1bb2761d1c95f8ff56845d20945e9bf8ac4c6e557f44a52904e5ad9
+size 59

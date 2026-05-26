@@ -1,1 +1,3 @@
-LGE-VX8370/1.0 UP.Browser/6.2.3.2 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8bd98d3c45d2e40f0edc2689b597970f5da1bc97207f0e5a38b8ae144364a7f
+size 48

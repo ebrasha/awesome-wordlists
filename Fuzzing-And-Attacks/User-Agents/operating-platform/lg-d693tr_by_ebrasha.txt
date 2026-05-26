@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.0.2; LG-D693TR Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.2; LG-D693TR Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b7d8edd00120f39eca32d20a40f12598f7f09f0b5f80a6a3ec323a77ab5b4d1
+size 291

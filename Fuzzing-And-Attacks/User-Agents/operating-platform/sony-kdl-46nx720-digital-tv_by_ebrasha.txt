@@ -1,2 +1,3 @@
-Opera/9.80 (Linux mips; U; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL46NX720; CC/TWN; en) Presto/2.7.61 Version/11.00
-Opera/9.80 (Linux mips; U; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL46NX720; CC/XGA; en) Presto/2.7.61 Version/11.00
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ec7abc6bb9e7f32f57f336886168908ac1aa62c477da71e11797cc3f4cfeba
+size 254

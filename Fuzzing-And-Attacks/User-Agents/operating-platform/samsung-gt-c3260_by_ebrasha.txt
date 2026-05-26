@@ -1,1 +1,3 @@
-SAMSUNG-GT-C3260/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:26b6c4f29525f2e7c0c7612efe2045163f208900c93aa960a2b6c405f58de87d
+size 74

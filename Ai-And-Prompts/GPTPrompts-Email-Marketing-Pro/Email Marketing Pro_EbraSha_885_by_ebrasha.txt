@@ -1,1 +1,3 @@
-How can A/B testing help me increase the effectiveness of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:27012fe6aaecc54fb633b710d660efbc6e37755c7e4f9d254842ae5dd0dea85b
+size 79

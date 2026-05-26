@@ -1,1 +1,3 @@
-How can I use email list A/B testing to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:71f67d0acb7153f3c154430670db75e2273ab39b5fac79b0bfd461824330c669
+size 78

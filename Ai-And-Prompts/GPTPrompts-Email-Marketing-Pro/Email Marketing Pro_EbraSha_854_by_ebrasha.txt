@@ -1,1 +1,3 @@
-How can I use mobile optimization to increase the click-through rate of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7b50401e59383364a156d9336967ffea40b9bf8b57f437863054f86b79f5696
+size 93

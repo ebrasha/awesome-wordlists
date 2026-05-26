@@ -1,1 +1,3 @@
-SAMSUNG-GT-E2121L/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b72f6971b3097e82242a076d192856d4805c43c117e69798c508716eb6107f
+size 103

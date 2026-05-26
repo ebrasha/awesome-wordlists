@@ -1,1 +1,3 @@
-What are the penalties for violating the CAN-SPAM Act?
+version https://git-lfs.github.com/spec/v1
+oid sha256:543402d6cdba45e8e306de3514cc38410afac44e64b0a92c527bb6df2677e471
+size 56

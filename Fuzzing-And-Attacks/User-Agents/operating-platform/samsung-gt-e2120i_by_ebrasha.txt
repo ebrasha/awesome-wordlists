@@ -1,2 +1,3 @@
-SAMSUNG-GT-E2120i/E2120iDDJD6 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-GT-E2120i/E2120iDDJK2 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc9e479f643000d37d555b6933e17d9726ca91907529141f042e8bd2809cab6d
+size 222

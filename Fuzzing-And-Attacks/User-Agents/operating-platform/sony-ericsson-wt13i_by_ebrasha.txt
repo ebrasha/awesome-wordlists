@@ -1,2 +1,3 @@
-SonyEricssonWT13i/R3AF010 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonWT13i/R3AD013 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:af0db030f3f12bf6742f5e7d1b613c975d2159ed261d381ae9cfcab1430de19f
+size 176

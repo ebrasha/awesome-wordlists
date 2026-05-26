@@ -1,1 +1,3 @@
-How do I determine the effectiveness of my email user-generated content campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:326992bc92cff0f2e6d715a9e6172f837b1ff12c70d0762c6372014e80067d75
+size 84

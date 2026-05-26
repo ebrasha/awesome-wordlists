@@ -1,2 +1,3 @@
-SonyEricssonW800i/R1L Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
-UCWEB/2.0 (Java; U; MIDP-2.0; Pt-BR; sonyericssonw800i) U2/1.0.0 UCBrowser/9.1.0.291 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d186055040864febf7190e4143100f052a3086626e890591ccbf09a3922ab84
+size 188

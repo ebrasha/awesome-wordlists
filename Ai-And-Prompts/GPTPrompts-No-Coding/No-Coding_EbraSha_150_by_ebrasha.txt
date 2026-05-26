@@ -1,1 +1,3 @@
-What are the best ways to scale and manage my team as my no-code business grows?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5bc933d99c759b66b6cc25ae8211eb981b43ba7a5891a26364739115b5d3475
+size 82

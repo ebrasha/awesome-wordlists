@@ -1,5 +1,3 @@
-Mozilla/5.0 (Linux; Android 8.1.0; Nokia 8 Sirocco Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.1.0; Nokia 8 Sirocco) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.64 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; Nokia 8 Sirocco Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.1.0; Nokia 8 Sirocco Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.1.0; Nokia 8 Sirocco Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:e86f08034a63dfeccc0289d2ffb358ac4183a8e739d47f70922be468356d323c
+size 755

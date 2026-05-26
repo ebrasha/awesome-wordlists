@@ -1,1 +1,3 @@
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; Nokia5238) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a76f5b98c9038bd78a7550914cec46a3fdf863e4553b15cc0e3683f6f8c9f1a
+size 116

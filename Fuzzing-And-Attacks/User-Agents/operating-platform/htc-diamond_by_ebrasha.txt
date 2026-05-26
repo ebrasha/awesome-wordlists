@@ -1,1 +1,3 @@
-HTC_DIAMOND_P3700 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa4066ca644356a83c9e0dbae810d991724e84b02b5724ef9edbf2e116beee7
+size 68

@@ -1,1 +1,3 @@
-How do I handle user feedback and bug reporting in my application using a no-code platform?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6494265d202157c741ea5353db3e50f166b431a38c5f6b370fef1507b2769e7d
+size 93

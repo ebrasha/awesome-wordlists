@@ -1,2 +1,3 @@
-LG-GD510/V100 Teleca/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
-LG-GD510
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a43b61bd2991b81c381239578ecaceb65d93352fed3f323f893ff6ad88bf049
+size 77

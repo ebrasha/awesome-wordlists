@@ -1,1 +1,3 @@
-How can I use list analytics to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb5f96fa5160c75891d7dd791179dc88c52cc8e948b5ef5e150e33dc2456130
+size 60

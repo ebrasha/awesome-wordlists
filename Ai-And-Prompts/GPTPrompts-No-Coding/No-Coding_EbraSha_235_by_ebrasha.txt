@@ -1,1 +1,3 @@
-How do I optimize workflows for data accuracy and consistency in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8295610505b6e3448cb63b3619e973dd1bde72af4a4a06b531cca2cda21f2928
+size 75

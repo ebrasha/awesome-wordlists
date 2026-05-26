@@ -1,1 +1,3 @@
-How can I use email list data analysis and interpretation to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c24a3c279a11c001d0b55824ed7cba4173a2fe5481e74f44b7783925a55a9c4
+size 99

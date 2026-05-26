@@ -1,1 +1,3 @@
-How can I optimize the use of animation in my emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30020e621698f91d08b4d2f2280a8d467ef3a50668fb668bceccfc2473f1cc6
+size 74

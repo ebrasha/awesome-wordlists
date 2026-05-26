@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve my e-commerce sales?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b199a4587197bc2a1ee158761a9d13e382c87756a0a4c78aa7f6766f81a442c
+size 71

@@ -1,1 +1,3 @@
-How can I use multivariate testing to optimize the personalization and segmentation of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:89697d1afdad5d221a7aae8e81cb4741702848a6699c1e033c9c134499168e05
+size 108

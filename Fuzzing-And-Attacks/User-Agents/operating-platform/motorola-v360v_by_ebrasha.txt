@@ -1,1 +1,3 @@
-MOT-V360v/08.B7.AFR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:358c3ebd22ddd5b944b8978dc0db90adb55e5169160dd7b5b04e5ad0166c6f01
+size 70

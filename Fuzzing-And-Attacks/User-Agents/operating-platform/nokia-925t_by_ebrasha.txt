@@ -1,1 +1,3 @@
-Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Nokia 925T) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d58f056b5fe731a0c32d6f3793e19b9307a12b61e08b7c5d74d669459dd0823
+size 205

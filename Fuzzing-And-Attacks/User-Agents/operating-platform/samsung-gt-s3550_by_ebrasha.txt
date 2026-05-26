@@ -1,1 +1,3 @@
-SAMSUNG-GT-S3550/1.0 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fa917f45099a9ecc9b743c077b41eb395148151a30e3003cc23c5716c33c4fc
+size 74

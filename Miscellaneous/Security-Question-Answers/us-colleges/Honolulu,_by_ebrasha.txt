@@ -1,25 +1,3 @@
-Argosy University-Hawaii
-Brigham Young University-Hawaii
-Chaminade University of Honolulu
-Hawaii Community College
-Hawaii Institute of Hair Design
-Hawaii Medical College
-Hawaii Pacific University
-Honolulu Community College
-Institute of Clinical Acupuncture & Oriental Med
-Kapiolani Community College
-Kauai Community College
-Leeward Community College
-Mauna Loa Helicopters
-Med-Assist School of Hawaii Inc
-Pacific Rim Christian University
-Paul Mitchell the School-Honolulu
-Remington College-Honolulu Campus
-Travel Institute of the Pacific
-University of Hawaii at Hilo
-University of Hawaii at Manoa
-University of Hawaii Maui College
-University of Hawaii-West Oahu
-University of Phoenix-Hawaii
-Windward Community College
-World Medicine Institute
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc0dfb79f2fa5180ba1a264bafc53e33f365d66e8da5ff76f802490a31f79ef9
+size 742

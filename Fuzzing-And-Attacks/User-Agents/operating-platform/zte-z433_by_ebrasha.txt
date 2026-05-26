@@ -1,1 +1,3 @@
-ZTE-Z433/Z433V1.4.0 NetFront/4.2 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e170101d1f29fbabb8430de1a47beace858bbde7a4ab0dc69f2e7bb35b34c44b
+size 80

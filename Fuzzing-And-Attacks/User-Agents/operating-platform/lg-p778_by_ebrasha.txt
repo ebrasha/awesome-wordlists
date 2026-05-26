@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.1.2; es-sa; LG-P778 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; es-ar; LG-P778 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:7483e64d5798f2a2a895e7c09b79f636ac9fb808cf36a8e1a15ea0b84b119be4
+size 278

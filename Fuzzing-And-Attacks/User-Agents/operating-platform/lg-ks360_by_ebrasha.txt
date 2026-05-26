@@ -1,4 +1,3 @@
-LG-KS360-Orange/V10g Teleca/WAP2.0 MIDP-2.0/CLDC-1.1
-LG-KS360 Teleca/WAP2.0 MIDP-2.0/CLDC-1.1
-LG-KS360/V10b Teleca/WAP2.0 MIDP-2.0/CLDC-1.1
-lg-ks360 UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a8d7d2d7be6b3ede42ecf3c0d75c0bbbd4f21adbcbaedf5e0797cee78148ff
+size 163

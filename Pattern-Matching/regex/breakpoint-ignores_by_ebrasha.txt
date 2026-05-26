@@ -1,10 +1,3 @@
-safebrowsing-cache.google.com
-google-analytics.com
-ajax.googleapis.com
-code.jquery.com
-ajax.aspnetcdn.com
-yui.yahooapis.com
-cdnjs.cloudflare.com
-maxcdn.bootstrapcdn.com
-ionicons.com
-oss.maxcdn.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:a26d70fe6bdbc810b8a4e0f2553d81aec4d146ca42b64cf7bc967d0caceb8bc3
+size 197

@@ -1,1 +1,3 @@
-Nokia2330c-2b/2.0 (09.55) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee37e08d4621a56210a737543fdbe5985f3e311be0bdf4d8b7aeb9c5355ea54c
+size 66

@@ -1,1 +1,3 @@
-How can I use list automation to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:620b19ebe4dc55a598da02438446c663f4a30a2fa562e4775068a08cc6af688a
+size 61

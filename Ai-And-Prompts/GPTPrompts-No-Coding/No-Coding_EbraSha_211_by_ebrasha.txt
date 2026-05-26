@@ -1,1 +1,3 @@
-What are the most important benefits of workflow automation in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1190742d9c9b7e7d918db50728cc33d628a2e47edd3983fb8b2f3aa760fd620e
+size 73

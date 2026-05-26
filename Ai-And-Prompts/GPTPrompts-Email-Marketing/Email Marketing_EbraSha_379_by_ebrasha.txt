@@ -1,1 +1,3 @@
-How can I use email marketing to maintain consistency in the use of promotions, discounts and special offers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9ba36854003c547f579d203f06672c04c1de5d290fc8301a86ba963a144872
+size 111

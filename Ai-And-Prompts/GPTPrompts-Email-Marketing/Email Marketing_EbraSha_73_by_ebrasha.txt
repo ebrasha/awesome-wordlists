@@ -1,1 +1,3 @@
-How can I use list integration with other marketing tools to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f3a2ba8dcd67a75c9d8f6b00a35eafb37ff52ee6d8d86523386561b2928b98c
+size 89

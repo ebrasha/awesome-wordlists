@@ -1,22 +1,3 @@
-CFIDE
-CFIDE/administrator
-CFIDE/administrator/aboutcf.cfm
-CFIDE/administrator/Application.cfm
-CFIDE/administrator/checkfile.cfm
-CFIDE/administrator/enter.cfm
-CFIDE/administrator/header.cfm
-CFIDE/administrator/homefile.cfm
-CFIDE/administrator/homepage.cfm
-CFIDE/administrator/index.cfm
-CFIDE/administrator/left.cfm
-CFIDE/administrator/linkdirect.cfm
-CFIDE/administrator/login.cfm
-CFIDE/administrator/logout.cfm
-CFIDE/administrator/navserver.cfm
-CFIDE/administrator/right.cfm
-CFIDE/administrator/tabs.cfm
-CFIDE/administrator/welcome.cfm
-CFIDE/administrator/welcomedoc.cfm
-CFIDE/administrator/welcomeexapps.cfm
-CFIDE/administrator/welcomefooter.cfm
-CFIDE/administrator/welcomegetstart.cfm
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5c73d595d065b501f6fe2a2d6e3947d6909ef3fd2e73d82c7e763127aff9c72
+size 706

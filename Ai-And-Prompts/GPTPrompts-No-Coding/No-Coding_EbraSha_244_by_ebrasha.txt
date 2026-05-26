@@ -1,1 +1,3 @@
-How do I optimize workflows for data quality control in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8549d87f2079c44d338ee8fa35eeada0d8cb853e6aa3a1f31f72c59eef0e367d
+size 66

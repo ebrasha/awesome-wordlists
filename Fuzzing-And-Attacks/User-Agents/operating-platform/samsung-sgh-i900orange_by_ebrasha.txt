@@ -1,1 +1,3 @@
-SAMSUNG-SGH-i900Orange/AFHH1 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aa80736038039a7c82e3988830fda847a36f8ce8a3fa0b1f66adcb347155c44
+size 79

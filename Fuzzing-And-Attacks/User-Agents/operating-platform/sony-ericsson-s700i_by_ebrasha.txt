@@ -1,1 +1,3 @@
-SonyEricssonS700i/R3B SEMC-Browser/4.0.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff84db2cb838fd1df3406d18069f003a1a7746e8f142a4c3c2d147a7da2e3c50
+size 81

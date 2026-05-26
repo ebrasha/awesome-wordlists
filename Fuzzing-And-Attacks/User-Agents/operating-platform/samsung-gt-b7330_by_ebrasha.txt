@@ -1,1 +1,3 @@
-SAMSUNG-GT-B7330/1.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f98a7327d12d4060707bffdec6d65c8e3378179bc0a3b14657d5913372bbbe
+size 87

@@ -1,1 +1,3 @@
-Nokia3208c/2.0 (10.50) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0(Java; U; MIDP-2.0; en-us; nokia3208c) U2/1.0.0 UCBrowser/8.7.0.218 U2/1.0.0 Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f52042ba8ff8117a494d3237d876e95207113a3ec091bbddddf37c9eb011910
+size 170

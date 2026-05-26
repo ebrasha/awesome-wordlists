@@ -1,3 +1,3 @@
-# microsoft-specific appends - try the generic list, too
-+.htr
-::DATA$
+version https://git-lfs.github.com/spec/v1
+oid sha256:de9ccdb18ac8e3dcb90e1d5ff0a73f3dcf41b7b75738725341be3de87ae1602d
+size 71

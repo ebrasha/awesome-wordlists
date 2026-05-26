@@ -1,12 +1,3 @@
-select versionnumber, version_timestamp from sysibm.sysversions;
-select user from sysibm.sysdummy1;
-select session_user from sysibm.sysdummy1;
-select system_user from sysibm.sysdummy1;
-select current server from sysibm.sysdummy1;
-select name from sysibm.systables;
-select grantee from syscat.dbauth;
-select * from syscat.tabauth;
-select * from syscat.dbauth where grantee = current user;
-select * from syscat.tabauth where grantee = current user;
-select name, tbname, coltype from sysibm.syscolumns;
-SELECT schemaname FROM syscat.schemata;
+version https://git-lfs.github.com/spec/v1
+oid sha256:8090f342a4f9cceb294d72c567b01d46ded7103391bfa75f37c1b6b0d3f61d3f
+size 540

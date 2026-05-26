@@ -1,1 +1,3 @@
-What metrics should I focus on to optimize my email open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d676f2928573166c7f182d2b1c5b6dc07cc636bff4c8a1762e8ff98f4eab9403
+size 65

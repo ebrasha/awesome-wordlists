@@ -1,6 +1,3 @@
-Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar C110e)
-HTC-Radar C110e/UCWEB2.7.0.223/47/355
-Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar C110e; 4.06.164.01)
-Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar C110e; 4.06.168.01)
-Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar C110e; 4.06.161.02)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0; HTC; Radar C110e)
+version https://git-lfs.github.com/spec/v1
+oid sha256:114077d6b09294e6ef959196d3c535e4c91f7f11d8e3ffaa32db7a18fbd873c7
+size 587

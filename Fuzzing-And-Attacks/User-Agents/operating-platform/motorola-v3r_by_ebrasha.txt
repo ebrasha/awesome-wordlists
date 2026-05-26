@@ -1,1 +1,3 @@
-MOT-V3r/0E.C0.13R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:201474b0a3b2d2bb801b3f5ccf30143f350f19df27027065fde44e7d8a5ec788
+size 68

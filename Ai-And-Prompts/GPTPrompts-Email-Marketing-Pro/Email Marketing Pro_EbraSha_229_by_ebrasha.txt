@@ -1,1 +1,3 @@
-How can I use images and graphics effectively in my email templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcd2d16ac3de0c51e34e8ebfd8c1d0e62bd6d17a242d5ce5722c2d99394d0755
+size 70

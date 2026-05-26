@@ -1,8 +1,3 @@
-Copy_(1)_of_
-Copy_(2)_of_
-Copy%20of%20
-Copy_of_
-Copy_
-Copy%20
-_
-%20
+version https://git-lfs.github.com/spec/v1
+oid sha256:f400c2b7c3ab4c2eee4e05f4313190f9ca41ee9b60173f6a8cae5eebe7220f08
+size 68

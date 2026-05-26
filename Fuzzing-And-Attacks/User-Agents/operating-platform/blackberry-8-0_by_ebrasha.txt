@@ -1,2 +1,3 @@
-Dalvik/1.4.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) Gecko/20100101 BlackBerry/8.0 slurp
-Dalvik/1.4.0 (Linux; U; LG-P350 Build/GRJ90)  BlackBerry/8.0 slurp
+version https://git-lfs.github.com/spec/v1
+oid sha256:19793b682a6fc198922cd476dfa63250902ec4e8556fa01807bc6c818d9a0b39
+size 163

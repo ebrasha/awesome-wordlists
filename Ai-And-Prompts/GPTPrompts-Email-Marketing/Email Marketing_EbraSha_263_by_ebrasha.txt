@@ -1,1 +1,3 @@
-What are the best practices for formatting text and images in emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f6a5e6d6bb4ecde24ed1791c74e2a7c4d0c76832e00e058d002e3c868771cf5
+size 71

@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; ZTE-Z998 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; ZTE-Z998 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Mobile/1 EtsyInc/2.5.2 Android/1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f164e24cee4a6bf31a438bed3637ccd2867900e49bfa987dc701e4743da30c6
+size 313

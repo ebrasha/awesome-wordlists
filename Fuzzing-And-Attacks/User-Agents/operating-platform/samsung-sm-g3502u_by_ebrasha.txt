@@ -1,1 +1,3 @@
-UCWEB/2.0 (MIDP-2.0; U; zh-CN; SM-G3502U) U2/1.0.0 UCBrowser/9.9.7.500  U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:38543dcd2a83fb9f1e7179ef5bd305d421e845586be67edcdd9ef520e0deed0b
+size 88

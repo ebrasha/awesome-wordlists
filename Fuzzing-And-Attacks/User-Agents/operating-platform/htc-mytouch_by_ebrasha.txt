@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTC myTouch 4G slide Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; Android 4.0.3; HTC MyTouch 4G Slide Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a72e13485ee2a9eb90ebc961b9c85b4724b742b61298d5aa9ed1fd44a9396b
+size 303

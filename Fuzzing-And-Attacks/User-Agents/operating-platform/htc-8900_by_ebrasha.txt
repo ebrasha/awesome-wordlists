@@ -1,1 +1,3 @@
-HTC-8900/1.2 Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC)/UC Browser7.7.1.88
+version https://git-lfs.github.com/spec/v1
+oid sha256:2417b6bdb1aec629ba39bce130602f9de4446e47dd9b9207f21c35c8e174827d
+size 85

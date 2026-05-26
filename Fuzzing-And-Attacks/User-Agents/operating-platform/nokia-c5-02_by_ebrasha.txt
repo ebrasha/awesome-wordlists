@@ -1,1 +1,3 @@
-Mozilla/5.0 (symbianOS; U; series 60; en) Nokia C5-02 AppleWebKit/534.1+ (KHTML, Like Gecko) Version/6.0.0.141 Mobile Safari/534.1+ UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcf3b1ab931fdb93784bb0c07027a8687c69a1ed80fa01294bdbf6773eeca80c
+size 146

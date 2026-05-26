@@ -1,1 +1,3 @@
-Nokia6086/2.0 (16.00) Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:35c674db5a4ef798babc1127be736437a626abf2dfaff19e116298e38bcbb657
+size 62

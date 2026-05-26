@@ -1,1 +1,3 @@
-How can I use mobile-specific email segmentation to create targeted and personalized emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:915aa0c78086c50d466b1a1f4f85cfa8c9a72c8338f34c145c4196b772537216
+size 113

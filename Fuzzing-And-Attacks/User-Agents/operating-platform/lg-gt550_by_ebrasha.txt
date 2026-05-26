@@ -1,4 +1,3 @@
-LG-GT550/V11d; Mozilla/5.0 (Profile/MIDP-2.0 Configuration/CLDC-1.1; Opera Mini/att/4.2.18377; U; en-US) Opera 9.50
-LG-GT550/V11b; Mozilla/5.0 (Profile/MIDP-2.0 Configuration/CLDC-1.1; Opera Mini/att/4.2.18377; U; en-US) Opera 9.50
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; LG-GT550) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0
-LG-GT550/V11d; Mozilla/5.0 (Profile/MIDP-2.0 Configuration/CLDC-1.1; Opera Mini/att/4.2.18377; U; en-GH) Opera 9.50
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d432fd0014f9ce7ed5ebcfe6420e7bfdef959a610d85cc4184de0f5b5fedde
+size 454

@@ -1,1 +1,3 @@
-SAMSUNG-GT-C3010/1.0 Openwave/6.2.3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f321236cf69aaffd48a64c8e567ca846b5d8ee3c661e462213245feef4594a93
+size 117

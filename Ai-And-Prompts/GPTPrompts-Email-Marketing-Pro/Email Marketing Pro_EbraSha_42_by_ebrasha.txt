@@ -1,1 +1,3 @@
-How can I use chatbots to capture email addresses and segment my list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:41c70c07172e25e0977ca03521184801af25816fbbf9c67a327c6969081e72e5
+size 72

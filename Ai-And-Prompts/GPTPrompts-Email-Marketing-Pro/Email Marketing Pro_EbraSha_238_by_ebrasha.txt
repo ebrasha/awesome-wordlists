@@ -1,1 +1,3 @@
-How can I use email design to increase the conversion rate of my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6e178bb9d347d484d8991c85dca5dbd4f0ff83ea58067dba8c734dd733525cd
+size 77

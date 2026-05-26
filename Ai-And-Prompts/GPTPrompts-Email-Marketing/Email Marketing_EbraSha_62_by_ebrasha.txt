@@ -1,1 +1,3 @@
-How can I use personalization and segmentation in my newsletter?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d29897936f5a7bce38e984ffda4f17407bdc3fb3629ca679651e79ac0d6085fb
+size 66

@@ -1,1 +1,3 @@
-How do I optimize workflows for automation performance and speed in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3c845e00caccf69cb8ad8ab7999944fbd8e6d4df281e6a4f4c33e1153a2b48
+size 78

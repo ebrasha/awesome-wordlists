@@ -1,9 +1,3 @@
-JspWebshell 1.2.jsp
-browser.jsp
-cmd.jsp
-cmd_win32.jsp
-jspShell.jsp
-jspbd.jsp
-list.jsp
-up.jsp
-up_win32.jsp
+version https://git-lfs.github.com/spec/v1
+oid sha256:076cfeee21fbcccca1992a2f09ad6e9298ed983f0b47e459ec45066fae9856ed
+size 106

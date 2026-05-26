@@ -1,1 +1,3 @@
-How can I use multivariate testing to optimize the subject lines, preheaders and headlines of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:105b10aed65fe4a92e0521d453833f9da58c67b7b4765b7fe5ab80da15082808
+size 115

@@ -1,8 +1,3 @@
-findlinks/2.0.2 (+http://wortschatz.uni-leipzig.de/findlinks/)
-findlinks/2.6 (+http://wortschatz.uni-leipzig.de/findlinks/)
-findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)
-findlinks/2.1.5 (+http://wortschatz.uni-leipzig.de/findlinks/)
-findlinks/2.2 (+http://wortschatz.uni-leipzig.de/findlinks/)
-findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)
-findlinks/2.0.5 (+http://wortschatz.uni-leipzig.de/findlinks/)
-findlinks/1.1.1-a5 (+http://wortschatz.uni-leipzig.de/findlinks/)
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f4b22dd2bf45229b148e94136f2b91016b4d8686ef3022831e4415b4679e2e
+size 509

@@ -1,1 +1,3 @@
-Nokia3100/1.0 (05.91) Profile/MIDP-1.0 Configuration/CLDC-1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:27efc4b7650e010b165618be4bc2d00d8a6a1e7390f133453f0b7a96da5c518c
+size 62

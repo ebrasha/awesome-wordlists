@@ -1,1 +1,3 @@
-How can I use list segmentation to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8cc85bfac08a9ca0ac135cc72a6b79aa11d589e4867c22be851c45a503d78b2
+size 63

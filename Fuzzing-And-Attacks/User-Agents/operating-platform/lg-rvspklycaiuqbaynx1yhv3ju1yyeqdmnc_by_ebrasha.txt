@@ -1,1 +1,3 @@
-OutclicksBot/2 +https://www.outclicks.net/agent/nyD1XWEJlgRvSPKLyCAIUqbAyNx1yhV3JU1YyeQDMnC
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a1de194008b0386ea1c0c27907af39061a4682e05bb8a180328ad74cac66e91
+size 92

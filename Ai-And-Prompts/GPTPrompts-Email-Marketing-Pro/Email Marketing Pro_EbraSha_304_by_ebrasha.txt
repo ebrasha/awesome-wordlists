@@ -1,1 +1,3 @@
-What are the best practices for using email design to create a sense of urgency in my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9553864d766d0228d7867227e4aecb723a98e61a972326a4290a144d96b3827
+size 95

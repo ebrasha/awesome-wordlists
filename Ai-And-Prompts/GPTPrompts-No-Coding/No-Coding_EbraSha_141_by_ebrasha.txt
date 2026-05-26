@@ -1,1 +1,3 @@
-How do I handle team building and management when scaling my no-code business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:efab5c2868dce90b235c2db9a112d8dd29ec4530d48cef9f9a08805860da2ac1
+size 80

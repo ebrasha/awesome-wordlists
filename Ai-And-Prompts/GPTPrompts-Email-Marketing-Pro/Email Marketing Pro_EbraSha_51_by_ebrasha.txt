@@ -1,1 +1,3 @@
-How can I use email list segmentation to identify and target high-value segments of my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d26310cdff4f8358df010885718f7c06b9662686e43d5a4ca2db3e8013bd58d
+size 100

@@ -1,1 +1,3 @@
-What are the best ways to use mobile-friendly templates in email marketing campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fec924056f8df32acea0a39c076708d5dbcc3c7bca1cf88ac64353b758d2c41
+size 87

@@ -1,10 +1,3 @@
-etc/passwd
-etc/passwd%00
-etc%2fpasswd
-etc%2fpasswd%00
-etc%5cpasswd
-etc%5cpasswd%00
-etc%c0%afpasswd
-etc%c0%afpasswd%00
-C:\boot.ini
-C:\WINDOWS\win.ini
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b6d25ccc66f82f7f5f36fb4f6819fa18e3d8f59dd6a82a22e5e8062421fdae5
+size 157

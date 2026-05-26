@@ -1,1 +1,3 @@
-How can I create an email template that is easy to customize for different campaigns and purposes?
+version https://git-lfs.github.com/spec/v1
+oid sha256:434708189c5e66e8fa6685a7aa5d0e065ae26eae01297ab003d307caadca48f0
+size 100

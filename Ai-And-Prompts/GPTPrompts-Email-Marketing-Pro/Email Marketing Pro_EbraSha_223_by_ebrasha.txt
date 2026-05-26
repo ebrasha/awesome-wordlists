@@ -1,1 +1,3 @@
-The impact of A/B testing on the success of your email lead generation campaigns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e85e255b54d3418ce84464e55943aeecfda620f2867ce171a5bbf18e56a55430
+size 83

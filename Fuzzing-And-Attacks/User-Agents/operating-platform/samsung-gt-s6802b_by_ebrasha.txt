@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.6; pt-br; GT-S6802B Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; GT-S6802B Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6415be6af6634f3fe7a12029ce3fdddc8ce5be57e898acc1fcb24ba7f184f673
+size 288

@@ -1,7 +1,3 @@
-Opera/9.80 (BREW; Opera Mini/5.0/27.2370; U; en) Presto/2.8.119 240X320 Samsung SCH-U660
-Opera/9.80 (BREW; Opera Mini/5.0/27.2414; U; en) Presto/2.8.119 240X320 Samsung SCH-U660
-Opera/9.80 (BREW; Opera Mini/5.0/27.2354; U; en) Presto/2.8.119 240X320 Samsung SCH-U660
-Opera/9.80 (BREW; Opera Mini/5.0/27.2405; U; en) Presto/2.8.119 240X320 Samsung SCH-U660
-Opera/9.80 (BREW; Opera Mini/6.0.0/27.2414; U; en) Presto/2.8.119 320X240 Samsung SCH-U660
-Opera/9.80 (BREW; Opera Mini/6.0.0/27.2314; U; en) Presto/2.8.119 240X320 Samsung SCH-U660
-Opera/9.80 (BREW; Opera Mini/6.0.0/27.2414; U; en) Presto/2.8.119 240X320 Samsung SCH-U660
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bd5a351f06d3a6f8cac0b1c3c3d5012a29c46e5f8083e35b3c959343fd52c3f
+size 629

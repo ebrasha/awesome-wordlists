@@ -1,1 +1,3 @@
-How can I use segmentation to create targeted email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:42c80403eac6c8a78fae45fdbf78b2d6b9875c28d6ca517ad7ba00220109b635
+size 64

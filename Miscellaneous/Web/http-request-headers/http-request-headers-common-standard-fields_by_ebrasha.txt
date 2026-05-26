@@ -1,33 +1,3 @@
-Accept
-Accept-Charset
-Accept-Datetime
-Accept-Encoding
-Accept-Language
-Authorization
-Cache-Control
-Connection
-Content-Length
-Content-MD5
-Content-Type
-Cookie
-Date
-Expect
-Forwarded
-From
-Host
-If-Match
-If-Modified-Since
-If-None-Match
-If-Range
-If-Unmodified-Since
-Max-Forwards
-Origin
-Pragma
-Proxy-Authorization
-Range
-Referer
-TE
-Upgrade
-User-Agent
-Via
-Warning
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2766a6350450cd27c6e5bdd12b6236e2865073b186f58340961e79d9c59ca83
+size 353

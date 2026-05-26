@@ -1,2 +1,3 @@
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NOKIA6110) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-WhatsApp/2.11.107 S60Version/3.1 Device/Nokia-6110-(02.01)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff36525b90047c271c268b5caad21ea4571a5a79b0a9121db8dd5c330c8110fd
+size 153

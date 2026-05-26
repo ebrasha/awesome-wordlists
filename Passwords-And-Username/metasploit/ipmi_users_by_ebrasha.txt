@@ -1,6 +1,3 @@
-ADMIN
-admin
-root
-Administrator
-USERID
-guest
+version https://git-lfs.github.com/spec/v1
+oid sha256:822571aae923e6ccc719cf31ea99dd7058f75473d7434ca6c4c63c2327ad1480
+size 44

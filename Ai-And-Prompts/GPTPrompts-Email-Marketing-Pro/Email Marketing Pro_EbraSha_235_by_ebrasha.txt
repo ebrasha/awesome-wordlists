@@ -1,1 +1,3 @@
-How can I use email design best practices to improve the effectiveness of my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3211f4f0114b4349297d7066df7748ad9ecb9816914a7ceedb232725ee6a30d8
+size 89

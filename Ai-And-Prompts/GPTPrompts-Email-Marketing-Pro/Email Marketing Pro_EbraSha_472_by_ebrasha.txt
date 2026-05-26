@@ -1,1 +1,3 @@
-What are common mistakes to avoid when optimizing emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2a965c5375ce7dcf73b7d3fa07b5304bb1f12d9e4191f58b63562a35ce62ecf
+size 78

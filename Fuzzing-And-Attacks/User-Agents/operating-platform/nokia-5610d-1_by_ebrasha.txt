@@ -1,4 +1,3 @@
-Nokia5610d-1/2.0 (10.00) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; Nokia5610d-1) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
-Nokia5610d-1/2.0 (04.81) Profile/MIDP-2.1 Configuration/CLDC-1.1
-Nokia5610d-1/2.0 (10.00) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; id; Nokia5610d-1) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0
-Nokia5610d-1/2.0 (10.00) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; id; Nokia5610d-1) U2/1.0.0 UCBrowser/9.4.2.387 U2/1.0.0 Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:05924020febdb20ff9b9604145e9c7ac01558a75c8796b06e7f7d699bcb2f0ad
+size 570

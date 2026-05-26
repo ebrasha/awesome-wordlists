@@ -1,1 +1,3 @@
-LG-KP199 Obigo/WAP2.0 MIDP-2.0/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:000a3d2d35bcb1859ac37d8a412792833ade858551845119c3dcc15b75b1a162
+size 40

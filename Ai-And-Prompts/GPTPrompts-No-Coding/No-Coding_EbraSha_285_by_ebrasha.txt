@@ -1,1 +1,3 @@
-How do I manage database dependencies and configurations in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cba0d8db8396c35dc380bf16af375e4a36c671950dd9fb72e444aa2588091d85
+size 70

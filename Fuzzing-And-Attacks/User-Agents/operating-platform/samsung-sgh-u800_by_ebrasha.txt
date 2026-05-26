@@ -1,1 +1,3 @@
-SAMSUNG-SGH-U800/1.0 SHP/VPP/R5 NetFront/3.4 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ba6fed28e64152071d988e1251c1614f3110a900caa299248138c4fda478219
+size 99

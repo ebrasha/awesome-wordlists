@@ -1,1 +1,3 @@
-What are the most effective ways to use personalization to improve the performance of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bc57ab5ef4c0e9849d9104fbb087b5106f711fb14f3daba5b9f83ac42ecbcf1
+size 107

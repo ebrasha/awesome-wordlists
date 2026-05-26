@@ -1,1 +1,3 @@
-SAMSUNG-GT-I6410-Vodafone/I6410BUJC1 Linux/X2/R1 Opera/9.6 SMS-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:304944fe5c2a2ac9b378cf4dcf902265ada9b821fba19961c11fb1a7dbe6b42a
+size 113

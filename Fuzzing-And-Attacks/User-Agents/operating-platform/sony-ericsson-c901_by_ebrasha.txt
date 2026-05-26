@@ -1,1 +1,3 @@
-SonyEricssonC901/R1GA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.4
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad6cf73cc1734baa2d44037c89dca05e3242352531280d85929526296f00470c
+size 105

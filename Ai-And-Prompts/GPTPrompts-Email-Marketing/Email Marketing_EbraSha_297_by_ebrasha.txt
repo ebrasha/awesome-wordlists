@@ -1,1 +1,3 @@
-How can I use custom email templates to ensure my emails are mobile-friendly and responsive?
+version https://git-lfs.github.com/spec/v1
+oid sha256:db1791b96c12272494e06e02078a5505fab3cca67701d5fa86cae24bb2d21e2c
+size 94

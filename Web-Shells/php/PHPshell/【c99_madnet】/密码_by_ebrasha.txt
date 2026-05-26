@@ -1,2 +1,3 @@
-’À∫≈:smowu
-√‹¬Î:smowu
+version https://git-lfs.github.com/spec/v1
+oid sha256:9239add16e18e87cd72fb4aff1f629543dcefbf5e6a042582d1cfce0072c9ca8
+size 21

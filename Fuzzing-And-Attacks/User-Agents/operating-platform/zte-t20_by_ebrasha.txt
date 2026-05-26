@@ -1,1 +1,3 @@
-ZTE-T20 NetFront/3.5 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4f24162298b9194ed44f50286f475ab1b1b3ddd274401c80331b7e40e7f112d
+size 68

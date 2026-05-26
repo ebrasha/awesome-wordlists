@@ -1,1 +1,3 @@
-How can I use A/B testing to determine the best email content for my campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7087f406d8c885800a4a78be8946eb067847aa719d323d417c28f9bca43bacdf
+size 81

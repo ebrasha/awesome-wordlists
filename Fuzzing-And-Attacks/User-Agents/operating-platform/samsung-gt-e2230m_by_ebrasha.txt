@@ -1,1 +1,3 @@
-SAMSUNG-GT-E2230M/1.0 Openwave/6.2.3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:5145798019ee9c01cbce8be5923302c14f1ed4b302d3c747cd4bcc7f85905763
+size 118

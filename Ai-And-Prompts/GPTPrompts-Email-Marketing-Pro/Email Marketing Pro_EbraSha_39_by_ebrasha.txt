@@ -1,1 +1,3 @@
-How can I use email list segmentation to send more relevant content to different groups of subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8af36878c74d251b45cca775bec13067abd8de2a0f6eeebf8f1be14ae87d7c30
+size 105

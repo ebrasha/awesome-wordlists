@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.4; SHV-E220S Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; SHV-E220S Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; SHV-E220S Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30;ref:nate_app;appver:5.0.5;ndruk:2014122600104627751295;skai:null
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d269b13ddad8c59e5bb2aa461a1fc212cfc8c72e52efa57e08fd330355e101
+size 486

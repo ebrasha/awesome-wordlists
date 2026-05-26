@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 1.5; en-us; htc_bahamas Build/CRB17) AppleWebKit/528.5  (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
-Mozilla/5.0 (Linux; U; Android 1.5; en-us; htc_bahamas Build/CRB17) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:37635f4b2ba792d42216100127e5432ba30762a87d734b4ac34143eb22f72fbc
+size 288

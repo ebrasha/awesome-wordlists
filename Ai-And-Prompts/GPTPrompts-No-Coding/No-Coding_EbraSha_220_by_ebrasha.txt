@@ -1,1 +1,3 @@
-How do I automate project management in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9aaee970b5bda0151ba48a795d30bcf4c13acb4b31c6a5918688f3dc58ae370
+size 50

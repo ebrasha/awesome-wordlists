@@ -1,2 +1,3 @@
-SAMSUNG-GT-P3108_TD/1.0 Android/4.1.2 Release/12.21.2012 Browser/AppleWebKit534.30
-SAMSUNG-GT-P3108_TD/1.0 Android/4.0.3 Release/02.15.2012 Browser/AppleWebKit534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:395fa50c5d6cbf70ce5e8a820fa6c4f6532caa3e3a51888d5421efca3a908d51
+size 166

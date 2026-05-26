@@ -1,1 +1,3 @@
-How can I segment my email list for more targeted marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:35a55f13b95c71d56cfc64e7e46ecd6cfad0194af4a564c099eb080b13f598c6
+size 62

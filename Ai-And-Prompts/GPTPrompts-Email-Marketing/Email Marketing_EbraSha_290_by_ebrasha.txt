@@ -1,1 +1,3 @@
-How can I edit and update my custom email templates as needed?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9691b2e13b9324e2633d289121c9edbc9cf3acf307d94d6fcd73b5de10fcf6c8
+size 64

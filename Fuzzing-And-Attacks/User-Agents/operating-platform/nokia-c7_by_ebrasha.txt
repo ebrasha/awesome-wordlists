@@ -1,1 +1,3 @@
-Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00s/022.014; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b885701675e3c55c96357df809a949d696113b0fded91e22c635071e51494f3
+size 189

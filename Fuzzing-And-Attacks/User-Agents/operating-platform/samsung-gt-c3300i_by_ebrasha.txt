@@ -1,5 +1,3 @@
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; SAMSUNG-GT-C3300i) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile
-Vodafone/1.0/SAMSUNG-GT-C3300i/BUKA1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
-SAMSUNG-GT-C3300i/C3300iXXKD1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Untrusted/1.0
-SAMSUNG-GT-C3300i/C3300iXXKA5 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3300i/C3300iXXKJ2 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:d01613b6d612c356180488c63c605a858d3f5fafb21c7cd2a6d564dfc1350d5b
+size 455

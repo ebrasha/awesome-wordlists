@@ -1,1 +1,3 @@
-What are the best ways to segment my email list for higher open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ddd86c9777090877817b7ec21ebd46a5b21f396edb889f996f338ec8fb9d17
+size 72

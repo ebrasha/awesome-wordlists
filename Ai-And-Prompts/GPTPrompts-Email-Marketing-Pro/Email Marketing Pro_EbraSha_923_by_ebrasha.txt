@@ -1,1 +1,3 @@
-How to use A/B testing to determine the most effective type of email content.
+version https://git-lfs.github.com/spec/v1
+oid sha256:611c054d8fb26a21debcbbff6d92eb3a9eca591c492f3419b9631aea4713e126
+size 79

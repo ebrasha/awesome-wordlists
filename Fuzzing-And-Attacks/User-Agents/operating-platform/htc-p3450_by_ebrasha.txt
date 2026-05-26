@@ -1,2 +1,3 @@
-HTC-P3450-Ten/PPC; 240x320; OpVer 23.227.2.792 (compatible; MSIE 6.0; Windows CE; IEMobile 7.6)
-HTC-P3450 orange/PPC; 240x320; OpVer 23.114.2.741 (compatible; MSIE 6.0; Windows CE; IEMobile 2.12)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fbb85138c6cbe79de3c7887bcd66e4ee3dfc70d1caf2424a4e9c174a23f8794
+size 196

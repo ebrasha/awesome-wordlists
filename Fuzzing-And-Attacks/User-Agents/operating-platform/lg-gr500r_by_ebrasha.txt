@@ -1,1 +1,3 @@
-LG-GR500R/V10a Teleca/Q7.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb1cdc49e446a7f91975c49179ab588d6413202d8f0b4cfa27459001e254bc3
+size 67

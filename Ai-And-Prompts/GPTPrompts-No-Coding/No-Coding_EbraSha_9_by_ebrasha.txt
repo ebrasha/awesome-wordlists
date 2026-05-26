@@ -1,1 +1,3 @@
-How do I make sure my website is mobile-friendly using a no-code platform?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6de7918a369bfd87186edf331e9f450fa6caa00d54588e470d15c940717e1fa1
+size 76

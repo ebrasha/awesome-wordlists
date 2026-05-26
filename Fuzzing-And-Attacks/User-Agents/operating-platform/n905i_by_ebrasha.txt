@@ -1,1 +1,3 @@
-DoCoMo/2.0 N905i(c100;TB;W24H16)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c062618abdae7262fe305ad2f876921205eee086eca772960c6a40f59935a29
+size 33

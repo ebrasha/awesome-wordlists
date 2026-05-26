@@ -1,1 +1,3 @@
-How can I avoid using landing pages that are not optimized for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ba1b1798b06091e7b6c5ed4b8d2d4bb9945cdf295c1e7a411037826549a4861
+size 80

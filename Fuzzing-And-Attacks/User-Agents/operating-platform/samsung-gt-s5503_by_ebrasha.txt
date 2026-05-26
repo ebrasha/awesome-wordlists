@@ -1,1 +1,3 @@
-SAMSUNG-GT-S5503/ SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b04852c7cb40fc4ad2bad0b15aaf402d65766f52d6cdf74454ec4164798dc35
+size 96

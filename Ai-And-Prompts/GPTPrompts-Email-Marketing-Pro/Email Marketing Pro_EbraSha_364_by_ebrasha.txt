@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of reporting and accountability, such as data protection impact assessments, records of processing activities, and data breach notifications?
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f670a8914fc81a0ae1ac1131bf7f4854f51badeb212bcb7ea0d660b8aa98c4
+size 224

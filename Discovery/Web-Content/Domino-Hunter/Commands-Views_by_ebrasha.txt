@@ -1,5 +1,3 @@
-?OpenView
-?ReadViewEntries
-?ReadDesign
-$first?OpenDocument
-$defaultform?OpenForm
+version https://git-lfs.github.com/spec/v1
+oid sha256:202b3c68ceec41a0c9dbb4455de3df76c442095b21daaef974c07d33aee50f99
+size 81

@@ -1,1 +1,3 @@
-samsung-gt-c3536w
+version https://git-lfs.github.com/spec/v1
+oid sha256:813516261daf58902619c89ee7a368cebe93192b82bf6f1a8338c04e1f5442e3
+size 18

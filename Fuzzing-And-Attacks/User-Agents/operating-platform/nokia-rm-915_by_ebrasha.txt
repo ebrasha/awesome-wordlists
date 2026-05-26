@@ -1,1 +1,3 @@
-TextNow 1.1.0.2 (NOKIA RM-915_nam_canada_222; WP 8.0.10328.0; English (Canada))
+version https://git-lfs.github.com/spec/v1
+oid sha256:dade3273e0f898dc9538db5e235ee54c00c8667bf90332bbf39bcbc47aef2732
+size 80

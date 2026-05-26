@@ -1,1 +1,3 @@
-How can I optimize my email send time for higher open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6591ac9778e32775331eef87dca27de2c824bef1be29833c881d67b1bd0bd666
+size 62

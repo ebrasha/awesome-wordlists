@@ -1,1 +1,3 @@
-What are the best practices for using animation and interactivity in email design?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c947615a8aadce87d37fe7d8f9e7210bdc6b5d36c45bb3a7c8204f6e075f54d
+size 84

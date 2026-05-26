@@ -1,1 +1,3 @@
-UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; en-US; HTC_G18) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:33eba9e6ce94b199cf6ae9bf47c62aaef7617afaf1a2dbd54c84a3a92e82c4a2
+size 96

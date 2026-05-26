@@ -1,1 +1,3 @@
-The impact of A/B testing on the response rate to your email surveys.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef1eedce00dc1ca9e7f62e17cc19f8476ef07025ff72109c51ea67327904db86
+size 71

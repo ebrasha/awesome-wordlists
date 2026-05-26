@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.4; Samsung GT-P51103 /CYANOGENMOD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ee9520a2a317b94442f70ab7d9a224201f228621253c0c2bffed3a2bece44b
+size 140

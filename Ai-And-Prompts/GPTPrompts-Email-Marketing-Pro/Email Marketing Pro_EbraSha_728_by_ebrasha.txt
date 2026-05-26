@@ -1,1 +1,3 @@
-How can I track the success of my email educational content?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40b4ce20776d58de59b5c89106a9e6b14f37b7d02f455d034f2d150834bc7bf
+size 62

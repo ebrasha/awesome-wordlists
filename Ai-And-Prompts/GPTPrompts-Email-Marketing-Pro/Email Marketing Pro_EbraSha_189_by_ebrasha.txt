@@ -1,1 +1,3 @@
-How to use A/B testing to optimize email deliverability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:811c9c74a230a32fbac35da20565d3162e078c8c527b943c4c316bf12a3ebf23
+size 58

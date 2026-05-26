@@ -1,4 +1,3 @@
-UCWEB/2.0 (Java; U; MIDP-2.0; id; SonyEricssonK770i) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile
-MQQBrowser/Mini2.8 (SonyEricssonK770i/R8BC004)
-SonyEricssonK770i/R8BC Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonK770i/R8BA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cfba3ac46daf1c4fdbf4c218eef7e7c2b88d4b72772dbfba30490200e69a094
+size 313

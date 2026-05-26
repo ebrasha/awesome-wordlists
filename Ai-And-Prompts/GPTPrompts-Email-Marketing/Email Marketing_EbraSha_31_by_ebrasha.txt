@@ -1,1 +1,3 @@
-How can I use email list bounce and unsubscribe data to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fed375fa910e456aed694af0a5b1b6bdd6e49a6716123e5c9781ca15dae04c8
+size 94

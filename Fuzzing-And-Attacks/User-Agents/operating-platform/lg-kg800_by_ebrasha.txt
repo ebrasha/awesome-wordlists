@@ -1,1 +1,3 @@
-LG-KG800 MIC/WAP2.0 MIDP-2.0/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e45328865f9f8b2dbbecf6691eacbd02bfdc351afbd4e7769a23fcc68dc2c8
+size 38

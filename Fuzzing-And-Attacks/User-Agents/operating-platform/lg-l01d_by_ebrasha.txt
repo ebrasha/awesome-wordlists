@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 5.0.2; vi-vn; LG-L01D Build/IMM76D-by-WanNan) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:059a076b2478bcf3bf402b515b976fd9419f12d1820621cd9379484b5a08cc79
+size 149

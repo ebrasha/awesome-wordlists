@@ -1,1 +1,3 @@
-What are the most effective ways to use personalization to improve the delivery rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:16a6d4102c88ca5e0e8d83ac5bab457e91757dc3bd0c5fb8cf57a2be1f075bb8
+size 100

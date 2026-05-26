@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A727/1.0 SHP/VPP/R5 NetFront/3.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:155943fea5d64674c633c57cb3cc8af3fc4826580b754cea54ed90a9348eb101
+size 99

@@ -1,1 +1,3 @@
-How do I handle video optimization for SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceeae2a28891397b0c5f472903467748c624348eb71af1b54499f50520b65282
+size 56

@@ -1,1 +1,3 @@
-How can I use email design to create a consistent brand identity in my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:49e52839e523520f73bfc4d32794c23ae0be619b8692d360258704dea05bbb00
+size 83

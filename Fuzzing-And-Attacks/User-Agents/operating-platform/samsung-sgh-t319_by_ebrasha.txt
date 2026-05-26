@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T319/T319UVFD4 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:143815a5fc85cbf1aa04778b5be57bd97dc446aed8a0ef17c26a717c01acdbcb
+size 108

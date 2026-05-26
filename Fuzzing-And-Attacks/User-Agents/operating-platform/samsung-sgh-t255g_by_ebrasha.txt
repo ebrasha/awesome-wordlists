@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T255G[TF012089006677081000000018053051265] UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8f62d7093b948d3922e4c1c0e566ef3f4a57ed82ae043015df21073bc08e197
+size 96

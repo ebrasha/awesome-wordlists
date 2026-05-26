@@ -1,1 +1,3 @@
-SAMSUNG-GT-C5010E/C5010EZVJK1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:99040b1ca91076e5cdac463be645dfd9af929c10653f344bf40158c5242be25d
+size 83

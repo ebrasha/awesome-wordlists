@@ -1,15 +1,3 @@
-index.php3
-logout.php3
-migrate_to_md5.php3
-prepend.php3
-table_select_js.php3
-search.php3
-admin.php3
-config.inc.php3
-news.php3
-auth.php3
-class.FastTemplate.php3
-export.php3
-probe.php3
-showoff.php3
-test.php3
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e5c2b789bcb19ac11f3107edd953c1b4cfd30862bcac95f5c48401dd01df6f
+size 206

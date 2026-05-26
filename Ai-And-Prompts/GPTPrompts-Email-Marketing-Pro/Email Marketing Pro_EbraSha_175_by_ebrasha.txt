@@ -1,1 +1,3 @@
-What are some recommended practices for establishing and carrying out A/B tests for email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:585294aa3c951b96d8a10e0ab90b1407ad60bd3f047980bfbddb69d2b0e6659e
+size 102

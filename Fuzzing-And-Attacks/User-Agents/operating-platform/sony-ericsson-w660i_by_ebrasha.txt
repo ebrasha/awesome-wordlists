@@ -1,2 +1,3 @@
-SonyEricssonW660i/R6AD Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonW660i/R8BB Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:fefc5494e490cd1e3b53cd890f0231136da8088b241557e380ea63a3857c7221
+size 161

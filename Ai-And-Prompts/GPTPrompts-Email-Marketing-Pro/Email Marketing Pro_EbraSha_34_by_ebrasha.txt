@@ -1,1 +1,3 @@
-How can I use email segmentation to improve the ROI of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:eddf9232cc922a4c9f8bdbb9190252ad6ef4304e69ca055576737081723d353d
+size 76

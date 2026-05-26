@@ -1,1 +1,3 @@
-How can I determine the appropriate sample size for my email A/B test?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9af7812e834f36eeedd8e4fb75fb8830c3d7ebe187c59bbe8cdacd9d55bd55be
+size 72

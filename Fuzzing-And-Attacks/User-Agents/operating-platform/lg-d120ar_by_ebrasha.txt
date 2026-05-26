@@ -1,7 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.2; LG-D120AR Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.103 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; LG-D120AR Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; LG-D120AR Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; LG-D120AR Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; LG-D120AR Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.4.2; es-sa; LG-D120AR Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; LG-D120AR Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed1b8921619ec7fcbf6938329bdf88ecab587fb983f2e8336f89dc79ab67b570
+size 1007

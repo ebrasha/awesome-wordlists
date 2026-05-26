@@ -1,1 +1,3 @@
-iBrowser/Mini2.4 (Nokia7610Supernova/07.2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:956610c9547bee6c23e090e1c777952f9e59ffd971d0339568d6b174af6d32df
+size 43

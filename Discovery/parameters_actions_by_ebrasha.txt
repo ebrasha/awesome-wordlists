@@ -1,28 +1,3 @@
-browse
-change
-search
-set
-del
-up
-dl
-new
-delete
-select
-show
-get
-post
-add
-update
-upload
-download
-export
-import
-display
-view
-action
-generate
-gen
-start
-return
-ret
-run
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ade0037e9a7d21215ba02d731a3039449ccc9ffa08e43cde28a3e710cfe7469
+size 162

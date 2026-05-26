@@ -1,1 +1,3 @@
-Nokia2600c/2.0 (05.21) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fac3b397276f535c757f6c086874a099a495b7e3a494316299d30f3559de19f
+size 63

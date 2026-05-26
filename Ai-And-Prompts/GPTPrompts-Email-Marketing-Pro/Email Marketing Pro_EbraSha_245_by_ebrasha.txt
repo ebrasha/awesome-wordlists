@@ -1,1 +1,3 @@
-How can I use email design to create a sense of authority in my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e5c415b6869532c809b32a4556e4579d6017c135ffcd6c7bf8fa1bde9f66c91
+size 76

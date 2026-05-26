@@ -1,2 +1,3 @@
-LG-GT350-Orange/v10b Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
-LG-GT350/V100 Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:13869a999a7b5b6a8d406d57ceee809c0c3344e7597391e3291505f2f5e5def7
+size 141

@@ -1,1 +1,3 @@
-How can I use email design to create a sense of friendliness in my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:93ca17eab81685dee92dfd96429dec60952e00e138a2bca78922b8bec6b4f657
+size 79

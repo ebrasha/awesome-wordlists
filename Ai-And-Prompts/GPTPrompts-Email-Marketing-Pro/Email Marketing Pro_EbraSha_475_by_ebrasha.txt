@@ -1,1 +1,3 @@
-How can I avoid using calls-to-action that are not optimized for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ba7188aa58aefd0e8e420ced0694c989dae96763270bd6d23194833e2c76e0
+size 82

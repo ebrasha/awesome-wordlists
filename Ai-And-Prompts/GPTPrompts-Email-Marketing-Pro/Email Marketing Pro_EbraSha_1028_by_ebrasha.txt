@@ -1,1 +1,3 @@
-What are the most effective ways to use email list segmentation to improve email campaign metrics?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9322b59db080f3dafdde43e358732b8cf3c8c642e0acc1c6d046a4dfd714d81d
+size 100

@@ -1,1 +1,3 @@
-NokiaE70-1/3.0 (2.0618.07.10) SymbianOS/9.1 Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea942ddcebe212696151fd924a7c89c1d122176c755f70e7382ca70a9970d65c
+size 97

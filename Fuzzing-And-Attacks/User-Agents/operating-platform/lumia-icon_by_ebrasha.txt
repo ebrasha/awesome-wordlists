@@ -1,1 +1,3 @@
-Mozilla/5.0 (compatible; Nokia Lumia Icon; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad562c754718d96bbf7afed42e8027a95f2621eaf8c5827eec77b216c20239ca
+size 92

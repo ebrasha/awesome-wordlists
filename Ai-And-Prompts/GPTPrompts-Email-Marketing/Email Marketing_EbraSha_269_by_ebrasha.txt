@@ -1,1 +1,3 @@
-How can I use responsive design to ensure my emails look good on all devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b4b2a4419865ffca207cb66bd81f400a06bd34c8fc2acf6e89b4688951eafd
+size 79

@@ -1,1 +1,3 @@
-SCH-U750L/1.0 NetFront/3.0.22.2.17 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f785b8e1e62efb33361b414a589241b618e1b93086d02c45b445da9c8cbc5d06
+size 49

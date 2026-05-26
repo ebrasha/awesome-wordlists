@@ -1,1 +1,3 @@
-How do I optimize workflows for efficiency and productivity in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:22d588e2a568c8ffc0f1f365c9bac1db02e9a168dcf92fc35d3df9979ff5933a
+size 73

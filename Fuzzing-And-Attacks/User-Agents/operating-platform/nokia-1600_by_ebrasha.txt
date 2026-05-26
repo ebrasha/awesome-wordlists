@@ -1,1 +1,3 @@
-Opera/4.0 (J2ME/MIDP; Opera Mini/4.0; Nokia 1600; en-us)
+version https://git-lfs.github.com/spec/v1
+oid sha256:de750278e90922c368ad7696c7e6b6d1c6bc0bc2ae28b3d290c030fc91189c0e
+size 57

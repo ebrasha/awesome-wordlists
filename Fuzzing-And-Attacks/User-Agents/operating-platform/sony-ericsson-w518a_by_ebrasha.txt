@@ -1,1 +1,3 @@
-SonyEricssonW518a/R1EB009 Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.4.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:e095aa09586b984f5d1b87c158362e4b174c623e1dd22b88d76ac5cd71ad98cc
+size 109

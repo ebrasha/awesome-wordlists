@@ -1,1 +1,3 @@
-SAMSUNG-SGH-C160/1.0 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c81add87365ef8cbd95902c2d8ec3ac78e724ea1ff38d4cdbd8bd5f3754cef1
+size 62

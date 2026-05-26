@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.4; ko-kr; LG-F120L Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 NAVER(inapp; search; 280; 5.4.1)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bdd3c9d5cc538e45007d91e94053940a8932c49b64a0cebf84b51a52e534619
+size 173

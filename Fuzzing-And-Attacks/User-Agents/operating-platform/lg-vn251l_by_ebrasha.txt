@@ -1,1 +1,3 @@
-LGE-VN251L/1.0 UP.Browser/6.2.3.2 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb013389ead314345c934ccc78a5977d4db0990fbdf1973371026aef7df9b32f
+size 48

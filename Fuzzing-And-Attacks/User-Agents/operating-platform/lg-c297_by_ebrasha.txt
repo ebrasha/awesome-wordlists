@@ -1,1 +1,3 @@
-LG-C297/V100 Obigo/Q05A MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:9de202842253175fb94582fc85e86315331313d0d460ae6e1a953ac3d69e254d
+size 98

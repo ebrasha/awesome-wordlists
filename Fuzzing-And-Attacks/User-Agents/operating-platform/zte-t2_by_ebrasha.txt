@@ -1,1 +1,3 @@
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; ZTE-T2) U2/1.0.0 UCBrowser/9.3.0.326 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:421155100dd9ad58e26d672522bc58f10923e9433f103248ff4c58663539879e
+size 90

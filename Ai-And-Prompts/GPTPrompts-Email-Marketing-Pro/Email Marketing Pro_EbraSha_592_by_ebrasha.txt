@@ -1,1 +1,3 @@
-What are the most important elements to consider when personalizing email messages?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c257bf65098aa25b4121dae250a58e1a46cc4e0b7131fc3f594af7cb4970239
+size 85

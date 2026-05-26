@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.1.1; ZTE-Z971 Build/NMF26V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/45.0.2454.95 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e1f0ad85f2e154c9d0be2455615c482285b0d21c2cb2674abff2a2460d9b48
+size 154

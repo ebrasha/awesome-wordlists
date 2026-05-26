@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G935X Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 6.0.1; SM-G935X Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bcebd7417987255664523a0ac0633017f355f4b39f6ce07334cf9450c2957f9
+size 304

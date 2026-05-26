@@ -1,1 +1,3 @@
-How can I use metrics to measure the impact of email subject line length on open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:855201a80f3f3db2b28a116478fde886d33b2bbabe0325a74bbca8ffc8ee3b8b
+size 89

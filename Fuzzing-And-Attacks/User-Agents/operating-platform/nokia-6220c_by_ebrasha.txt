@@ -1,1 +1,3 @@
-Nokia6220c
+version https://git-lfs.github.com/spec/v1
+oid sha256:4377b6fd336f18d936faa52a07403799ab6de570e21b2b9187f10440c95e0ec5
+size 11

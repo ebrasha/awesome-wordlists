@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.3; en-us; ZTE-Z667G Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e329c1c3dad9b9e1ef0717dfdc5a26d96eb7c2f7619c3bd6c54a131e9aca037
+size 139

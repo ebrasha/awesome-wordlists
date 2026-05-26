@@ -1,1 +1,3 @@
-What are some best practices for designing a visually appealing email?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5c676577a34a03981b4379e84990790e065b27f79048e78254f3a5e32e49c14
+size 72

@@ -1,1 +1,3 @@
-SonyEricssonW300i/R9A Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:adb12356ef46fabe91bf45d094ed156d7ac304b1b949697580e2165d31daddf0
+size 83

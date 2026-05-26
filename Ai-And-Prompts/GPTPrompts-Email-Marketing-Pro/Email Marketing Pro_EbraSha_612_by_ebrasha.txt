@@ -1,1 +1,3 @@
-What are the most effective ways to use personalization to improve the performance of my email autoresponders?
+version https://git-lfs.github.com/spec/v1
+oid sha256:21d1b9f8eb95f91be4b456712babbedf7221cf2f8f0e58f3984c3222a093bd77
+size 112

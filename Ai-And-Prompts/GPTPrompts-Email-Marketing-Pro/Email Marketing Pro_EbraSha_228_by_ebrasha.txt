@@ -1,1 +1,3 @@
-How can I use a clear and simple layout for my email templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f487bde5af684f45d593416424d86936f3c2f938f2953ceaf945ecf944aebad9
+size 65

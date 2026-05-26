@@ -1,3 +1,3 @@
-BlackBerry8120/4.5.0.81 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
-BlackBerry8120/4.5.0.37 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
-BlackBerry8120/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/115
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d12d1caa49522d58ae598b4a297dc3a82e164c51b4ad8882acdaac29211d55c
+size 228

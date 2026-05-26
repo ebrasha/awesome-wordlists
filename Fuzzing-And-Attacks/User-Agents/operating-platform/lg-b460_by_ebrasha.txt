@@ -1,1 +1,3 @@
-LG-B460/B46010d Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd0745e370426594594c51f82e6a15eeeb3f353c85f176d188f0878ba70cde48
+size 67

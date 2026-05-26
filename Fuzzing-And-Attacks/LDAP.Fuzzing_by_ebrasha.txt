@@ -1,26 +1,3 @@
-!
-%21
-%26
-%28
-%29
-%2A%28%7C%28mail%3D%2A%29%29
-%2A%28%7C%28objectclass%3D%2A%29%29
-%2A%7C
-%7C
-&
-(
-)
-*(|(mail=*))
-*(|(objectclass=*))
-*/*
-*|
-/
-//
-//*
-@*
-x' or name()='username' or 'x'='y
-|
-*()|&'
-admin*
-admin*)((|userpassword=*)
-*)(uid=*))(|(uid=*
+version https://git-lfs.github.com/spec/v1
+oid sha256:558a7c3ef0faf7ab7bdcda3d2baecbe740011af135be8e077417d482dab4e6de
+size 247

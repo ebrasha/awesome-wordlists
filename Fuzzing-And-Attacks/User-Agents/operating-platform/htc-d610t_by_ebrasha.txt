@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.2; HTC D610t Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.68 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; HTC D610t Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36; 360 Aphone Browser (6.9.9.25)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b472a426fd08bff6f0a1baffa5ad0aca230fdc3b6e3477958d0c1dcfd7d98e55
+size 317

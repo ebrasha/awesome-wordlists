@@ -1,1 +1,3 @@
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.1; XBLWP7; ZuneWP7; Lumia 520)
+version https://git-lfs.github.com/spec/v1
+oid sha256:202677b0e5ea9cbfe7c579a1cbd29219db0bd71e95149b1789fbd68977d15f18
+size 92

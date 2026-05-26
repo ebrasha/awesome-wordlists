@@ -1,1 +1,3 @@
-<?php passthru(getenv("HTTP_ACCEPT_LANGUAGE")); echo '<br> by q1w2e3r4'; ?>
+version https://git-lfs.github.com/spec/v1
+oid sha256:67009a128eb1513338675ebcfa1bc87e66d01abadc49f5c437e2e2c336280678
+size 76

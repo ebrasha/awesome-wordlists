@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T559/T559UVIFA SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a49aef4ad7c8047620a6824c0b08f4342b49327956732830e763733adce5696c
+size 105

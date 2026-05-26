@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:18cc67befb6d64775e98c6b1a3af1a561338ce5dd45ea41bd65f192552eeca16
+size 62

@@ -1,1 +1,3 @@
-Nokia2320c-2b/2.0(ATT.06.88) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:561c4b57f32660a9d4b9a3f7011118e1602a993044a3ac536b1ce520c0705703
+size 69

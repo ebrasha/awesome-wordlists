@@ -1,2 +1,3 @@
-SAMSUNG-SGH-F480I-Vodafone/BUIJ2 SHP/VPP/R5 NetFront/3.5 NexPlayer/2.9.1 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-F480i/POIH4 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d285d39b1ff86c70a41a26bcdb648bd655271cbdfdefe87f566f174d5be44c
+size 229

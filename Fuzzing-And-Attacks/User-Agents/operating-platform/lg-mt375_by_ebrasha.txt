@@ -1,1 +1,3 @@
-LGE-MT375/1.0 UP.Browser/6.2.3.8 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:628afdb5514119262566c79fb5b39e110b07eb119fa567d9a851038b5439f7c1
+size 47

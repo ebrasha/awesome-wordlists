@@ -1,1 +1,3 @@
-How can I use a double opt-in process to increase email deliverability?
+version https://git-lfs.github.com/spec/v1
+oid sha256:42928ed767429e3d75b2975cd33a844f3d8f1afffb5216b267a84719a6544ec1
+size 73

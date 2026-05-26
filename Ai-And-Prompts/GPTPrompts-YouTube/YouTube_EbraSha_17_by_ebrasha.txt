@@ -1,1 +1,3 @@
-What are some best practices for creating videos that are optimized for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0258053abc471b85e41fc6b76ee538a4a62f06c962d129252556895c18523c28
+size 89

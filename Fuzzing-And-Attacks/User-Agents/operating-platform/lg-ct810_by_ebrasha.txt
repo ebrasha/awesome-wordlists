@@ -1,1 +1,3 @@
-LG-CT810/V10x IEMobile/7.11 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+version https://git-lfs.github.com/spec/v1
+oid sha256:db4514ca6fc20ed1f276e2c1375e3fe161089330a438c1642ae14af4e6a04e1e
+size 130

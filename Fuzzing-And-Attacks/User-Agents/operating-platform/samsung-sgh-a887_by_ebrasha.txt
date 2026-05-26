@@ -1,2 +1,3 @@
-SAMSUNG-SGH-A887/A887UCIJ1 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-A887/A887UCIFA SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee7f2b5351805278dc9a6e1f0a442000d70497f5434414d27a24ace85c4e0cc3
+size 210

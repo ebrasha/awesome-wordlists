@@ -1,1 +1,3 @@
-How to use A/B testing to improve the readability of your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd133a25069e445ae45b9fb248473412ba25a3094bf630d9086232ae314789b8
+size 67

@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-in; SonyEricssonE15av Build/2.0.2.A.0.24) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
+version https://git-lfs.github.com/spec/v1
+oid sha256:305c7779db6e8c4a682d64c100cff548f196c670ed02afb752b0b15a83b4acfc
+size 161

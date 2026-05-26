@@ -1,2 +1,3 @@
-Mozilla/5.0 (Windows Phone 10.0; HTC)Chrome/46.0.2486.0 Safari/537.36 Edge/13.10553
-Mozilla/5.0 (Windows Phone 10; HTC)Chrome/46.0.2486.0 Safari/537.36 Edge/13.10553
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e0e8de054d0bdd7bc4c36f043b197107cf9ad8acf441107522cd9b3a0d311b7
+size 166

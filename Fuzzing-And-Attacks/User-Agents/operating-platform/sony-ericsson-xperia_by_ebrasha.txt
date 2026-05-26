@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; ARMv7; Android 4.1.1; fr-fr; SonyEricsson Xperia E; rv 21.0) Gecko/20130514 Mobile Firefox/21.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ff2cd2341877719cde722e8e54a2ef098adcffcba2db2b9a039949f9cd2038
+size 116

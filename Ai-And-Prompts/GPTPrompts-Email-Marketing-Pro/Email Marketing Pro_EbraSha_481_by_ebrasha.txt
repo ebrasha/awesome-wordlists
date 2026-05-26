@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account the touch screen capabilities of mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b984509b778c7236d8e2f0413bd1bfb5ebd5977be7aa57003f46c042cd218ed
+size 110

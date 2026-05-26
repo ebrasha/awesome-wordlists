@@ -1,1 +1,3 @@
-How do I build a sustainable revenue model for my no-code business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:eab815aa43e5139980dbf6d9d9106f7772996aca8eb8c3b5ca26f3b3e45da661
+size 69

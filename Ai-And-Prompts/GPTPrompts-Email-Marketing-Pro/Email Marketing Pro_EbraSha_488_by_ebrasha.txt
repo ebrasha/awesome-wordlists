@@ -1,1 +1,3 @@
-How can I avoid using designs that are not tested on different mobile devices and operating systems?
+version https://git-lfs.github.com/spec/v1
+oid sha256:705ea072a14dc2e12c6f4de13fc39497ddb19bf32991f271d9666b4c913d53a4
+size 102

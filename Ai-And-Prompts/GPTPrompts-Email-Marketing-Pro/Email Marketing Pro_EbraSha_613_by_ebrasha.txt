@@ -1,1 +1,3 @@
-How can I use personalization to create a more effective email nurture sequence?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdd7e198f243384c72952b76ef3328e6719fe558dcbb40d486918971b2823c6b
+size 82

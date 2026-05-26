@@ -1,1 +1,3 @@
-SonyEricssonW840i/R1BD001/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:408f688646f5315f7037d1fb86014c93152a9bbc7ddce6a3471a7488a1841276
+size 83

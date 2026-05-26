@@ -1,2 +1,3 @@
-Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.0 (screen 600x800)
-Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.0 (screen 600x800) slurp
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc461746657d8c3537c33b657307b4f354cfddb896f69b66e46e6c18255c839e
+size 166

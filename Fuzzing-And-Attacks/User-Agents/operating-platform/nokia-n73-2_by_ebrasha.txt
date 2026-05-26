@@ -1,2 +1,3 @@
-NokiaN73-2/2.0626 S60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
-NokiaN73-2/3.0-630.0.2 Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d9a2ef63f13b6685594b0607c9892c0c9e618aa0084f1c062193e19063fd719
+size 142

@@ -1,1 +1,3 @@
-Using A/B testing to determine the optimal send time for your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c04aa15eb4412fa6f01e0ced2469beb1addbe0837a7aae7882125c9fce4ba43
+size 71

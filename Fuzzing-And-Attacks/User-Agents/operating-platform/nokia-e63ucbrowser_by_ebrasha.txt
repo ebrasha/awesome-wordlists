@@ -1,1 +1,3 @@
-NokiaE63UCBrowser/8.7.0.218/28/352/UCWEB
+version https://git-lfs.github.com/spec/v1
+oid sha256:0111de863d6600bba95ff239cc1bfd11e9e7f1dfb28c66dfcf12ad2e3c00fd22
+size 41

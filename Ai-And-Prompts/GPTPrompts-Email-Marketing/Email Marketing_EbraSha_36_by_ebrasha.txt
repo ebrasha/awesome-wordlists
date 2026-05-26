@@ -1,1 +1,3 @@
-How can I use email list multivariate testing to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd4181a24a20debbc4a1fee4efa5e5ada68e514ba71c9a7aa834df012a97b860
+size 87

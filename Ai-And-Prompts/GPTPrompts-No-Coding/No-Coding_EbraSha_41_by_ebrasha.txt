@@ -1,1 +1,3 @@
-How do I add a custom favicon to my website using a no-code platform?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c410e88daa13d78dc390f11e02daededd4d4b7b1c5c26440e2d1468f5e6edab
+size 71

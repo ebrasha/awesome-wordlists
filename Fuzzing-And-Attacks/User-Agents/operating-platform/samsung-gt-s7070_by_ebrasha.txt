@@ -1,1 +1,3 @@
-SAMSUNG-GT-S7070/S7070ADJB2 SHP/VPP/R5 Jasmine/1.0 Nextreaming/2.9.1 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92a4ae28d7a7d463b9cfe69a89e29273193f31a8fc4e9c7beefcb0b4d03ff00
+size 123

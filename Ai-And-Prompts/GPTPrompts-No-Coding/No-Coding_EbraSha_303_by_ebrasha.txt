@@ -1,1 +1,3 @@
-How do I store and manage user preferences and settings in a database in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:655564ffab803ea431ad6d1e1f329178a663527e489163b4ab7c77f17400664b
+size 83

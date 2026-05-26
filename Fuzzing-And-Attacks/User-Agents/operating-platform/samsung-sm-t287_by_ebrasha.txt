@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.1.1; SM-T287 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 YaBrowser/18.6.0.683.01 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-T287 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:29cc37a72e1163bf7e6fd250ba9116bdefd80553ffde6c4b7841c85b52f2d8df
+size 313

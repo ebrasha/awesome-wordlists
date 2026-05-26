@@ -1,2 +1,3 @@
-Mozilla/5.0 (compatible; Google-Structured-Data-Testing-Tool +https://search.google.com/structured-data/testing-tool)
-Mozilla/5.0 (compatible; Google-Structured-Data-Testing-Tool +http://developers.google.com/structured-data/testing-tool/)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b50667b3db637c5e718304fed11e591598b8952610e420d5c256defb68bb29cd
+size 240

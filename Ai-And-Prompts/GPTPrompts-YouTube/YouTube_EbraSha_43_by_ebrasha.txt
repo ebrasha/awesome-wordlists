@@ -1,1 +1,3 @@
-What are some strategies for using automation to optimize my YouTube channel art and branding?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bc263c4fef0585ddc99cbc770d038d2cd4bc44e8233c8bceea75c48b1f7c648
+size 96

@@ -1,2 +1,3 @@
-Mozilla/5.0(Linux;U;Android4.3;de-de;GT-I9300Build/JSS15J)AppleWebKit/534.30(KHTML,likeGecko)Version/4.0MobileSafari/534.30L4JivsSlTTXrZHbWorxWeb/10.0.3.25
-Mozilla/5.0(Linux;U;Android4.3;en-us;GT-I9300Build/JSS15J)AppleWebKit/534.30(KHTML,likeGecko)Version/4.0MobileSafari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5990db684785c74e05fd3e7e6b9922ffb0ef1846282fa100c6374cf9b4c4a7c
+size 280

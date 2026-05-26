@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy Ace/GT-5830L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883 Safari/9.1.2
-Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy Ace/GT-5830L) Gecko/20100101 Firefox/50.1.0
-Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy Ace/GT-5830L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc25d21df1725320f5abc2d7616f5fa50d923f6631ddb6f89da0afd345c506a8
+size 364

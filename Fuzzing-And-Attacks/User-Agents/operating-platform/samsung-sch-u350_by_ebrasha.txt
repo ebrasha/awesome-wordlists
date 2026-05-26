@@ -1,1 +1,3 @@
-SCH-U350/1.0 NetFront/3.0.22.2.18 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:beadcdb97b0678283910d4be8ea2ae896651c64e3da5f5c7461831446c08177f
+size 48

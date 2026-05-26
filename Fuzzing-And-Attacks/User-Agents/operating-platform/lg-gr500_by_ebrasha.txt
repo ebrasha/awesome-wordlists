@@ -1,2 +1,3 @@
-LG-GR500/V10f Teleca/Q7.0 Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; fr-FR; LG-GR500) U2/1.0.0 UCBrowser/9.4.0.342 U2/1.0.0 Mobile
-LG-GR500/V10f Teleca/Q7.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d16711781151bae6379fce644e65a819fd557f8793bbf506077aa6a5584573e
+size 224

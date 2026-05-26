@@ -1,35 +1,3 @@
-administrazio 
-administrazioa
-argitalpenak
-artxiboa
-ataria
-aupa
-aurrera
-bai
-berri
-bidali
-bilatu
-buzoia
-dataz
-dokumentuak
-egutegia 
-erreala
-ez
-fitxategia
-foru
-gestio
-gidak
-gora
-hasi
-hizkuntza
-ikusi
-informazio
-loturak
-makusi
-mezuak
-oharra
-proiektua
-saioa
-sustapena
-taula
-txostena
+version https://git-lfs.github.com/spec/v1
+oid sha256:620db5a96b7240ad83b415e5ae5a3fb6d912c2e832651fb05d548db9a56557c9
+size 278

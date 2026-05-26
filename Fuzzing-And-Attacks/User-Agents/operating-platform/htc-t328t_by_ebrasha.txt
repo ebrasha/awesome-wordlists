@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.3; pt-pt; HTC T328t Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-HTCT328t_TD/1.0 Android/4.0 release/2012 Browser/WAP2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:aef5e4735100530c27a392dba3201ebc1aba3cb9f5607c6f607096890686bfa5
+size 237

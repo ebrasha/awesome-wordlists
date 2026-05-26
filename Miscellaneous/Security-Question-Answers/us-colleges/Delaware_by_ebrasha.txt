@@ -1,20 +1,3 @@
-Academy of Massage and Bodywork
-Dawn Career Institute LLC
-Delaware College of Art and Design
-Delaware Learning Institute of Cosmetology
-Delaware State University
-Delaware Technical Community College-Owens
-Delaware Technical Community College-Stanton/Wilmington
-Delaware Technical Community College-Terry
-Goldey-Beacom College
-Hair Academy School of Barbering & Beauty
-Harris School of Business-Dover Campus
-Harris School of Business-Wilmington Campus
-Margaret H Rollins School of Nursing at Beebe Medical Center
-Paul Mitchell the School-Delaware
-Relay Graduate School of Education - Delaware
-Schilling-Douglas School of Hair Design LLC
-Strayer University-Delaware
-University of Delaware
-Wesley College
-Wilmington University
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b9fa97b65d1e9e26cfa9aa251b9c0db0ed264dae4eeab12b35be859eedc40f
+size 724

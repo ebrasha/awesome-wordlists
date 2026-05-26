@@ -1,1 +1,3 @@
-How do I measure the forward rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d703667fc4178c0ebd7195bda46316fc309aea424bacdcece8961ed228d3d6ca
+size 49

@@ -1,1 +1,3 @@
-Nokia6120c7.20 Series603.1 ProfileMIDP-2.0 ConfigurationCLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e9cb055cede35738b6145a6f58b3a65b00e044ae2343341c19ddccb2a4e107c
+size 65

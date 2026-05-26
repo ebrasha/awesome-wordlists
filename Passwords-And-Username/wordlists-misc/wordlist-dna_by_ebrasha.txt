@@ -1,4 +1,3 @@
-a
-t
-c
-g
+version https://git-lfs.github.com/spec/v1
+oid sha256:373ae20dc7714ce82ca90aa1fb29bb1582629cff600f3124e2d089e8a47597bb
+size 8

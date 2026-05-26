@@ -1,1 +1,3 @@
-How can I use email design to build trust and credibility with my subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa3c19a4e865b62f2b2122d36cf3dcd984e1f83684c9135b516c12d85234c301
+size 80

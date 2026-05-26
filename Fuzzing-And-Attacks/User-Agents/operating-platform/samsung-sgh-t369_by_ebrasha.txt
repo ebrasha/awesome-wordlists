@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T369/1.0 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4139e6e2d40af78f62688486ef3000c585e7041a3871eef6c9a929a853deac4b
+size 74

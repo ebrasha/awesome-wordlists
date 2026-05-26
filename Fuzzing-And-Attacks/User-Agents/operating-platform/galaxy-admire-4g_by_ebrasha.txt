@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; SCH-R820 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; SCH-R820 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; SCH-R820 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0  Mobile Safari/533.1
-ozilla/5.0 (Linux; U; Android 2.3.6; en-us; SCH-R820 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfac36cf431b5fe7b67265452930aef7af5c1878235d73171806297537b92eef
+size 572

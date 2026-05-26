@@ -1,1 +1,3 @@
-How can I use metrics to measure the impact of my email frequency on open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9753abf5689bcff11ee1b9fc3fca1a3ce01143bbe148323432f8d5ff8f06b29
+size 82

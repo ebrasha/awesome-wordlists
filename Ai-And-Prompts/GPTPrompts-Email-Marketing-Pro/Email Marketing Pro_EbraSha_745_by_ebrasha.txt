@@ -1,1 +1,3 @@
-How do I measure the impact of my email case study promotions?
+version https://git-lfs.github.com/spec/v1
+oid sha256:047370163ae5a79483ccb1f56d579725ffd16c9d9abca26c0870542a4cfbb5e6
+size 64

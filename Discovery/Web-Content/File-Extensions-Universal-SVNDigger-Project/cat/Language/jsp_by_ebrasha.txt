@@ -1,18 +1,3 @@
-index.jsp
-error.jsp
-main.jsp
-footer.jsp
-header.jsp
-login.jsp
-logout.jsp
-test.jsp
-accountList.jsp
-errorpage.jsp
-template.jsp
-403.jsp
-404.jsp
-menu.jsp
-meta.jsp
-taglibs.jsp
-Password.jsp
-UploadFile.jsp
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec804a3db7e3a79f8eeb345cdb07eadbc21eb63335a699cbed172d1a98af40a
+size 198

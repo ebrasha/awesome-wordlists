@@ -1,1 +1,3 @@
-How can I make sure my emails are optimized for small screens?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dbf3416279eae89cdaa4231ead074222ae8eb750d7436018740e7986e6f12f6
+size 64

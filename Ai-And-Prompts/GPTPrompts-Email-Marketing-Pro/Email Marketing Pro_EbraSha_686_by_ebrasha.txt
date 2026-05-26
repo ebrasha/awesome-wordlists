@@ -1,1 +1,3 @@
-What is a good open rate for email marketing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1289a1f55fbc61ec4663bde30dbb5ce8410e8d7425fdd902961b56e45622a02
+size 47

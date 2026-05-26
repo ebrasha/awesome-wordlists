@@ -1,11 +1,3 @@
-Casper College
-Central Wyoming College
-Cheeks International Academy of Beauty Culture-Cheyenne
-CollegeAmerica-Cheyenne
-Eastern Wyoming College
-Laramie County Community College
-Northwest College
-Sheridan College
-University of Wyoming
-Western Wyoming Community College
-Wyotech-Laramie
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaeb1b62131590e370254f229f084cce507388581a75768ef07d99808d9e9620
+size 283

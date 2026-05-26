@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account the mobile device's keyboard and input methods?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6698c85b5c4eeaf654ac87d5b2e7492f717b432a924aa188d268b053c88e7ecd
+size 109

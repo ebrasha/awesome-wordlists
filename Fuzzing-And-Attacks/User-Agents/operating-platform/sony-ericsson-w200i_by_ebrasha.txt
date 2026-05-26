@@ -1,4 +1,3 @@
-SonyEricssonW200I/R4G8 Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonW200i/R4HA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonW200i/R4JA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonW200i/R4GB Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a666a11382acbe219c1969321e622b117568d3eed1037b2739160c2520dd32b
+size 336

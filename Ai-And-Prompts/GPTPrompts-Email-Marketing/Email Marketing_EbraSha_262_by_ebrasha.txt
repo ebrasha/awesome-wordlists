@@ -1,1 +1,3 @@
-How can I design an email template that is visually appealing and easy to read?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b424c73077b1806cae397b4470cebd3586290ca7dc160970660437cd0e42f2
+size 81

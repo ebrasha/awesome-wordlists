@@ -1,1 +1,3 @@
-How can I use email content personalization to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f7d2de0f9205582bad7662dccb5fc026172f969c3507d7a59b0767b7bede9a
+size 68

@@ -1,1 +1,3 @@
-How can I use double opt-in to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc7539c46149a43191d018310164439455b4c8d7d8fec80166911dc5c14dd7bf
+size 59

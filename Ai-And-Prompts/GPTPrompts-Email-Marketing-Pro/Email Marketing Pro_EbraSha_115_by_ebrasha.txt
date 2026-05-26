@@ -1,1 +1,3 @@
-What are the best practices for using email lead magnets to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ebd1caedc711255b2485f912b304a98495146d233c86923bf2c99978d52d67
+size 84

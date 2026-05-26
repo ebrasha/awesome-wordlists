@@ -1,1 +1,3 @@
-SonyEricssonK810i/R1KG Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cf490548eb8acd2a2956fec6bcc086d29d18302d90e85794a5b3e829546868a
+size 84

@@ -1,2 +1,3 @@
-SAMSUNG-SGH-T359/T359UVJI2 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-T359/T359UVJE1 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7dd88b568221d95e405894a4bcf8073b3d2734b2ae442fd680803d0e7998f2
+size 210

@@ -1,1 +1,3 @@
-Email deliverability and inbox placement
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc920202bdc01c83e5ee6905af2e18d8eb2bee8e1254d0faa0caa1c760f8714c
+size 42

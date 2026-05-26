@@ -1,1 +1,3 @@
-How do I determine the effectiveness of my email product updates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9fa52dd837b500f0febd2c106f45915e5878eda1500df37d68934360c7265af
+size 67

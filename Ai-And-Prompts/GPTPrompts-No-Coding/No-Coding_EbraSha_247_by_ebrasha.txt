@@ -1,1 +1,3 @@
-How do I optimize workflows for data visualization and representation in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:69a1b57c6f45e1dc8c86a31ec1772333101a10350d7c231d7230818fada5c3c1
+size 83

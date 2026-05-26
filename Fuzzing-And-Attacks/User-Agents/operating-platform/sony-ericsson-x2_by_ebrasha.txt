@@ -1,1 +1,3 @@
-SonyEricssonX2/R3AA Browser/Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.5) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:95d3efa09487465f1b92b7631f2013bba78737bcdb06222cbd8b892cbe5640b9
+size 146

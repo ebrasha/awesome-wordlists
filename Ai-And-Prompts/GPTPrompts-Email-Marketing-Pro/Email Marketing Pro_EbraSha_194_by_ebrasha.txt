@@ -1,1 +1,3 @@
-Using A/B testing to optimize the call to action in your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8f698b5e6e0061a91de68b22a540614a272c00793e937ae8528a69d0c024a28
+size 66

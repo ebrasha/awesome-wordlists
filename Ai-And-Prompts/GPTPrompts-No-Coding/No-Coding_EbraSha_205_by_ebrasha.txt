@@ -1,1 +1,3 @@
-How do I create and optimize content for featured snippets for SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:29627c4c4f0bb2038c14865b181256e734b618defaf3ace2a999fa80f0de09b2
+size 80

@@ -1,5 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; ZTE-Z993 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; ZTE-Z993 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/TansoDL
-Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; ZTE-Z993 Build/JRO03C) AppleWebKit/534.30 (KHTML, like
-Mozilla/5.0 (Linux; U; Android 4.1.1; es-us; ZTE-Z993 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.1.1; es-us; ZTE-Z993 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30evme-launcher
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f7d12f3aa6f71fd923fba65c6ca2229be8b8baffb9aae6a047eb742a3d3b327
+size 681

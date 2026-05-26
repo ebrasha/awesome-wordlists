@@ -1,1 +1,3 @@
-How can I ensure that my email marketing practices comply with the GDPR's requirement for obtaining valid consent?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1567256fa676acdce032349fda573d97d912cea922e8967285192e8931623f
+size 116

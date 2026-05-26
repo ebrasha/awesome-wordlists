@@ -1,2 +1,3 @@
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/64.0.3282.167 Chrome/64.0.3282.167 Safari/537.36 Mozilla/5.0 (Linux; U; Android 2.3.6; id-ID; SM-GalaxyNote8 Build/KOT49H) AppleWebKit/534.50 (KHTML, like Gecko) Version/7.2 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 2.3.6; id-ID; SM-GalaxyNote8 Build/KOT49H) AppleWebKit/534.50 (KHTML, like Gecko) Version/7.2 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4c2bbc6778167efbbb15d706eb5c987b7528e5580240a6d19801100937a326f
+size 428

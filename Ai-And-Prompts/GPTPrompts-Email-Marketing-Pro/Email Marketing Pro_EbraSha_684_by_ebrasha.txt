@@ -1,1 +1,3 @@
-Measuring and analyzing email performance and ROI
+version https://git-lfs.github.com/spec/v1
+oid sha256:2daabe5528915039470b9e206d7662680a5b5e91756ca03408dc02a2b960afb4
+size 51

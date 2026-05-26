@@ -1,1 +1,3 @@
-How can I use email list conversion rate data to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf3fb49f0875eefbfdb7090b5598425b65dd471b04659502d31d4314bdc9cf0
+size 87

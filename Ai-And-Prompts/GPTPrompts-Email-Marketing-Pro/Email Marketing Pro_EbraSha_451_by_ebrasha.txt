@@ -1,1 +1,3 @@
-How can I use mobile-specific marketing automation tools to optimize my email campaigns for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b61fcacb8dfd5d4f932ec807425fe9ab83212280d3fe2209ca11507fe9718482
+size 109

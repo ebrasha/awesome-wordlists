@@ -1,1 +1,3 @@
-UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5802 XpressMusic) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ded58ecda8f5585102ed995f7d343f9c93187390b177580b91d4f390519206e
+size 106

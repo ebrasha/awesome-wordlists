@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Symbian S60; Nokia Asha Build/201) AppleWebKit/537.36 (KHTML, like Gecko) Opera/12 Safari/537.36 (screen 600x900; rotate)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a80a4e377d14c01e9433889527df0e76d8a19739ddd47ad7e5b4469afa895fcc
+size 142

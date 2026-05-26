@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Tizen 2.4; SAMSUNG SM-Z200Y) AppleWebKit/537.3 (KHTML, like Gecko) SamsungBrowser/1.1 Mobile Safari/537.3
-Mozilla/5.0 (Linux; Tizen 2.4; SAMSUNG SM-Z200Y) AppleWebKit/537.3 (KHTML, like Gecko) Version/2.4 Mobile Safari/537.3
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ac270a2163010e887f438917e0be6dbf236c5351335eb1ac810b11ecaae7ec
+size 245

@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.0; SM-J730FM Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; SM-J730FM Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J730FM Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.4 Chrome/51.0.2704.106 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:31620115a340599d12928562441ed2a60d740b96ce3a071d327cca4804af9470
+size 440

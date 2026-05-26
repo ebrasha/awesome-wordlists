@@ -1,2 +1,3 @@
-Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)
-Mozilla/5.0 (compatible; Discordbot/1.0; +https://discordapp.com)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0970caef4220969392e5aeabe4bc95511726ff40be297658b6b12b3fb1ea11c5
+size 132

@@ -1,2 +1,3 @@
-LG-A380/A38010e Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
-LG-A380/A38010h Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa30e2e555ccbbade497d9ec0209e07e8126afa38020d37b9017e3bc2732cd4
+size 134

@@ -1,1 +1,3 @@
-How can I use lead scoring to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:37db78125a63ea16f95a41a3c81ac647f525f9533511c1cb1279cee1627a4ef7
+size 58

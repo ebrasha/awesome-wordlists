@@ -1,11 +1,3 @@
-Mozilla/5.0 (Symbian/3; Series60/5.4 Nokia808PureView/112.010.1506; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.2.1.21 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia808PureView/113.010.1507; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia808PureView/113.010.1508; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia808PureView/113.010.1506; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian/3; Series60/5.4 Nokia808PureView/112.010.1506; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.2.1.21 Mobile Safari/535.1 3gpp-gba
-Nokia808pureview
-Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia808PureView/113.010.1405; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.19 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian/3; Android 2.3.5; Nokia808PureView/113.010.1508; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian/3; Series60/5.4 Nokia808PureView/112.020.0309; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.2.1.22 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia808PureView; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
-Mozilla/5.0 (Symbian; U; N8-00; zh-TW) AppleWebKit/534.3 (KHTML, like Gecko) Mozilla/5.0+(Symbian/3;+Series60/5.2+Nokia808PureView/113.010.1508;+Profile/MIDP-2.1+Configuration/CLDC-1.1+)+AppleWebKit/525+(KHTML,+like+Gecko)+Version/3.0+NokiaBrowser/1.50 Mobile Safari/534.3
+version https://git-lfs.github.com/spec/v1
+oid sha256:661656d4fbb047da05f106af6d35e88b012d09783e2e693d315295fa97d8331f
+size 2069

@@ -1,1 +1,3 @@
-How can I use automation to analyze and track the performance of my YouTube channel's monetization efforts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f0a152f8cd0b5f629912d2946bfcff323598fbe9388e2ec49ad47fa44b5d945
+size 109

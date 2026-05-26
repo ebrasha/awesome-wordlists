@@ -1,1 +1,3 @@
-The benefits of using A/B testing to improve email conversion rates.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd9192a07afd96ad95d3ca2482d552a815b1d6caa0b216fabf2b9888a1891871
+size 70

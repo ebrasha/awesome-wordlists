@@ -1,1 +1,3 @@
-How do I handle website copywriting for SEO in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc76e58b4b33b9a9dcea488b3c8165d6e93dc8ceac733bb9a90648e0033081fd
+size 57

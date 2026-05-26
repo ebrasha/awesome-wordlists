@@ -1,1 +1,3 @@
-docomo/1.0/N503i/c10/SN358533041769830
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a037504e473dacb40bf8260d53d4c17119c56cb9f448d6c7b234e5850915ffa
+size 39

@@ -1,31 +1,3 @@
-asp
-aspx
-phar
-php
-php3
-php4
-php5
-txt
-shtm
-shtml
-phtm
-phtml
-jhtml
-pl
-jsp
-cfm
-cfml
-py
-rb
-cfg
-zip
-pdf
-gz
-tar
-tar.gz
-tgz
-doc
-docx
-xls
-xlsx
-conf
+version https://git-lfs.github.com/spec/v1
+oid sha256:f596d5732059df019eb4dad7c527871fe721a303a3b060b3e2d7db9d46143f25
+size 140

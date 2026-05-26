@@ -1,1 +1,3 @@
-Email list building and segmentation
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f713606129d4f647d673b06d7518532d7315679b582293dae91b6785308cd0
+size 38

@@ -1,1 +1,3 @@
-How do I determine the effectiveness of my email white paper promotions?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e5d842b8796b332fdb8c3c5ad4ab5eb7b99904531259459d047b929c53f9972
+size 74

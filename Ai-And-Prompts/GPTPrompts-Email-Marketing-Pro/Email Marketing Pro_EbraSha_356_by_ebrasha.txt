@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of email campaigns, such as transactional, relationship, and promotional emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3d60ca1823d82901de03f5aac8733e4a57c3caca6f5f2a0130423e2087be6b3
+size 163

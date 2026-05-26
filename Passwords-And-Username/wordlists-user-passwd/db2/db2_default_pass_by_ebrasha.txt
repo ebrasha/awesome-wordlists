@@ -1,8 +1,3 @@
-db2inst1
-dasusr1
-db2fenc1
-db2pass
-db2pw
-db2password
-admin
-db2admin
+version https://git-lfs.github.com/spec/v1
+oid sha256:1474a336ab58af220394c2f70267c13117961c9decb4fdaa83f7d8d71833977e
+size 67

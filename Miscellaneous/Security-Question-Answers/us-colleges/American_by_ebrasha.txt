@@ -1,1 +1,3 @@
-American Samoa Community College
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbdaf9880afe447f58996473b9826144e093c2d62ceab639bf8eb55a0ce079c1
+size 33

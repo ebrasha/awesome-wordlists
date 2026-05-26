@@ -1,1 +1,3 @@
-How can I use email list testing and optimization to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5d79beb8170232ef93e58e6bdd4bbcd96dbc3075bc3d02d1b2b80f7f6305ff3
+size 91

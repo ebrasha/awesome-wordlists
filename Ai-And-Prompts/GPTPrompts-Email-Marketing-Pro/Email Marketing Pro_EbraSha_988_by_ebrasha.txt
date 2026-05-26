@@ -1,1 +1,3 @@
-What are the most effective strategies for using email list segmentation to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:db63b7a71054c8bb9d93d280c35bd229ab7cbd35787527fc6c1d45d5484eed84
+size 97

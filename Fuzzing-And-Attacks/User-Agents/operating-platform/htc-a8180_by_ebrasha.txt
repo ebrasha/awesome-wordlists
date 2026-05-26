@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2; en-cn; HTCA8180/1.0 Android/2.2 release/06.23.2010 Browser/WAP 2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:448c41f08d7fa5c8a8d483d0177eb69e680e00a30236c7242047632fb076d146
+size 226

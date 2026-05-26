@@ -1,2 +1,3 @@
-SAMSUNG-SGH-T479/T479UVJE4 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-T479/T479UVJH1 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7da08074a001aa9de461a97c60d058658bae4d5bb671367f03f94acb670f95a
+size 210

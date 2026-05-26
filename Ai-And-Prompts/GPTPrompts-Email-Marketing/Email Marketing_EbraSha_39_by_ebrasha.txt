@@ -1,1 +1,3 @@
-How can I use email list data-driven insights to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b7e5a6382b3570c0639351ec3c2d2870af2f03f237d5a8e1b291e14397c783d
+size 87

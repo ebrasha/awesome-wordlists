@@ -1,1 +1,3 @@
-How can I make sure my images and multimedia look good on mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:676979784ec454af12f1cdf14b2d56a5657aa46f7884af36f7a5a46534297d64
+size 75

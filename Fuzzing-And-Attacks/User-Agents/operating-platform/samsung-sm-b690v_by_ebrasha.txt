@@ -1,2 +1,3 @@
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2414; U; en) Presto/2.8.119 240X320 Samsung SM-B690V
-Opera/9.80 (BREW; Opera Mini/6.0.3/27.2413; U; en) Presto/2.8.119 240X320 Samsung SM-B690V
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8222e13d53ca5cda6b207ff24a43163b5a5bb7995d8293a0289b3c2e263a712
+size 182

@@ -1,1 +1,3 @@
-What are some strategies for using automation to optimize my video titles, descriptions, and tags for better visibility in YouTube search?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb94efb084d65c138dfd8f90c9ee0df37f6c941f5580108f33798321c5ed97f3
+size 140

@@ -1,2 +1,3 @@
-SAMSUNG-SGH-T189N/T189NUVMG1 SHP/VPP/R5 NetFront/4.2 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-T189N/T189NUVNA1 SHP/VPP/R5 NetFront/4.2 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fea7a947b4ae28e131a3944c26e0ba4531fe067aff102d52fc2d00491c0d274
+size 214

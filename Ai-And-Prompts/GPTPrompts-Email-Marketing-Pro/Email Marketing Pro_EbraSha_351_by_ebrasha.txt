@@ -1,1 +1,3 @@
-How can I ensure that my email marketing practices comply with the GDPR's requirement for maintaining detailed records of data processing activities?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ad93f73bd413ed2cd16e23262658cf88948177882f6b6953531ac258cc25e45
+size 151

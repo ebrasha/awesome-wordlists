@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T550X Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bbe8c8888ac6826a7d1fc14c6f4ff5da724608753529b3ed433380343701aea
+size 159

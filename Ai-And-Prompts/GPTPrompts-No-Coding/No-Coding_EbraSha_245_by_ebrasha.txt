@@ -1,1 +1,3 @@
-How do I optimize workflows for data validation and error checking in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c1bda1397bb82a7401467b22c7161456677aa82389d9f70cd7aeb090186206
+size 80

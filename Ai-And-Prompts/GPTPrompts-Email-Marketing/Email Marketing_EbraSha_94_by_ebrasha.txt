@@ -1,1 +1,3 @@
-How can I use data analysis and interpretation to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90146025a9a6718b7baef047b3e210505a419ab156f99bf39dcbdeca38f6495
+size 78

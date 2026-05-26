@@ -1,1 +1,3 @@
-How can I use analytics and reporting to measure the success of my newsletter?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb773e836e10d0b89424c1c5fa5e820d54994fafcb50a0161c44bedbb36b6c1
+size 80

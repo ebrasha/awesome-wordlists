@@ -1,1 +1,3 @@
-How can A/B testing be used to find my emails’ most effective call to action?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8579ee34ba570f9ececbfe52d714758f8f15e8a4390da1dcedf0dcfadf725bf8
+size 81

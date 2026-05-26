@@ -1,1 +1,3 @@
-How do I handle voice search optimization in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:240bca3b80e0c70cd43da6ba4e590c44f4ccb9c1b79b526969ba5e5a4551dd38
+size 55

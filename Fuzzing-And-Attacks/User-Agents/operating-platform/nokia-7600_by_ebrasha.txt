@@ -1,2 +1,3 @@
-Nokia7600/2.0 (03.01) Profile/MIDP-1.0 Configuration/CLDC-1.0 (Google WAP Proxy/1.0)
-Nokia7600/2.0 (03.01) Profile/MIDP-1.0 Configuration/CLDC-1.0 (Google WAP Proxy/3.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c123f06ef7983bc327a07738a24584f159dd420ee147b1338b9b434de221442
+size 170

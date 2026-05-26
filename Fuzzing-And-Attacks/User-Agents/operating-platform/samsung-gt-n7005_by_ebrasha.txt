@@ -1,3 +1,3 @@
-UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; id; GT-N7005) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-N7005 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; GT-N7005 Build/IMM76D) AppleWebKit/534.24 (KHTML, like Gecko) FlyFlow/3.0 Version/4.0 Mobile Safari/534.24 T5/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:21045f5de9690297c0b0b91b415ee7b46d31c1d8d25ba63ddfc326fabf3d590a
+size 393

@@ -1,1 +1,3 @@
-LG-KP270V/V10g Teleca/WAP2.0 MIDP-2.0/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:611c9b5b51301efd340ee2cf16c6269927a76603df84ebd0b7f83e5c33c41c97
+size 47

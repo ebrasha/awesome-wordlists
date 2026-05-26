@@ -1,1 +1,3 @@
-How can I use YouTube's features like automatic captions and translations to make my videos more accessible to a global audience?
+version https://git-lfs.github.com/spec/v1
+oid sha256:56c37227a650bf06496bc9e4c9e7022ea5f928baf48a32a8067a4434fa7e8f6b
+size 131

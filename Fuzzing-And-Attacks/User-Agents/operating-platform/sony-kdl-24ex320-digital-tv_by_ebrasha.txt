@@ -1,1 +1,3 @@
-Opera/9.80 (Linux mips; U; InettvBrowser/2.2 (00014A;SonyDTV115;0002;0100) KDL24EX320; CC/ITA; en) Presto/2.7.61 Version/11.00
+version https://git-lfs.github.com/spec/v1
+oid sha256:771a57b7e171f06d5a995aac8c9e6aa578807d51cfa356b544bd162f084ddcb7
+size 127

@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.2.1; en-us; H65EB-LGF2P69A Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbc262eb9e223b67c2a75acd1b5fd500bb766fa01f52b4d8e810b45e32d83072
+size 146

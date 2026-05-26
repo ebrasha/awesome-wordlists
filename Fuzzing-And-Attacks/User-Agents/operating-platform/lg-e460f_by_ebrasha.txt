@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.1.2; LG-E460f Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.1.2; LG-E460f Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.1.2; LG-E460f Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
-Mozilla/5.0 (Linux; U; Android 4.1.2; iw-il; LG-E460f Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:92c974c44d797340046bdb3123e74986f6b8acd8121af551ef4efc8a760dc99e
+size 557

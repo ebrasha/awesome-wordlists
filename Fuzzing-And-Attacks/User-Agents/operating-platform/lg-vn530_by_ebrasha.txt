@@ -1,1 +1,3 @@
-Mozilla/5.0 (X11; Linux i686; U; en-US) Gecko/20081217 Vision-Browser/8.1 301x200 LG VN530
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3acaec8536f53ec18b2da3fc970e86e5632ab5734d73f512c1fa86310471ece
+size 91

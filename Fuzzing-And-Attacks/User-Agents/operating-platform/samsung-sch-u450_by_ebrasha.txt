@@ -1,1 +1,3 @@
-SCH-U450/1.0 NetFront/3.0.22.2.20 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:580f246fed418e216ffc3d4f0cad13e8e9163f029974ea14c3e42001a115915e
+size 48

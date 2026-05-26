@@ -1,1 +1,3 @@
-SAMSUNG-SGH-M200/M200DDIF3 Profile/MIDP-2.0 Configuration/CLDC-1.1 Untrusted/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:521e560a0001ee4e7378ec61bdd147f256ac5919775ed5a98308241aa0bc2890
+size 81

@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.0; SAMSUNG LG-F700K Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; SAMSUNG LG-F700K Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.4 Chrome/51.0.2704.106 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffcd3c6d2407b60a54f63f46789617b3a83353b07ad020d82156980251c68459
+size 327

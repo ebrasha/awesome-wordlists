@@ -1,1 +1,3 @@
-How can I use email list automation to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:add9ab7c7667c48be7dcd1b94eee226f8b9ce49c73ea82f47e15e5c8d59d8ba6
+size 77

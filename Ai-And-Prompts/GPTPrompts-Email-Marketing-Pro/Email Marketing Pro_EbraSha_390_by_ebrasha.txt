@@ -1,1 +1,3 @@
-How can I use email deliverability best practices to ensure my emails are mobile-friendly?
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc88382e86aa0c6c4f2ce1b2347eeed3494d262775078dc90414bae206499fe0
+size 92

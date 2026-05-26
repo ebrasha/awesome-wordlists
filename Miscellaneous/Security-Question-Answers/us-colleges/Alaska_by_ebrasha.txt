@@ -1,9 +1,3 @@
-Alaska Bible College
-Alaska Career College
-Alaska Christian College
-Alaska Pacific University
-AVTEC-Alaska's Institute of Technology
-Ilisagvik College
-University of Alaska Anchorage
-University of Alaska Fairbanks
-University of Alaska Southeast
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd44111c3268f434bf477366b567fdb467f241a63e26c22e3afeceed08857ee3
+size 244

@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T259/1.0 SHP/VPP/R5 NetFront/4.1 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:2164619235f69461f717290744ae7ce42cc9653fefeb43fde3edcb6ccd1eb51b
+size 99

@@ -1,1 +1,3 @@
-SAMSUNG-SGH-S275M/1.0 SHP/VPP/R5 NetFront/4.2 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6333d83adb05fd8da41644a70b54307a7df912ff37ca43ccac353298adb06a31
+size 100

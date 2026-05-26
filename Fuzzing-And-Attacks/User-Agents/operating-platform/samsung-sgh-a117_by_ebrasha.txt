@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A117/A117UCGE1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a53310067491f97615e16524567a2492d00e0bf4c975b36b488629d1e4079b
+size 68

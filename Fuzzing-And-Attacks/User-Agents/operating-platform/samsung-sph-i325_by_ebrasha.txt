@@ -1,1 +1,3 @@
-Sprint:SPH-i325 320x240 (compatible; MSIE 4.01; Windows CE; Smartphone)/UC Browser7.2.2.51
+version https://git-lfs.github.com/spec/v1
+oid sha256:42b0f763814ff534a4e17de8444c28f16d84b33517a676b0f34d4e06e12e7a52
+size 91

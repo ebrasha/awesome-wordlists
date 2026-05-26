@@ -1,1 +1,3 @@
-What are the most effective ways to use images in emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:966997b52a151684a694e33dbf38d3c8ace5396add43c2bbeb720977d87eebf2
+size 78

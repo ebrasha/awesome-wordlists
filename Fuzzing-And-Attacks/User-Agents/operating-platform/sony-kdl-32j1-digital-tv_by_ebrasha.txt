@@ -1,1 +1,3 @@
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) SonyBrowserCore/2.29 (Silk) InettvBrowser/2.1 (00014A;SonyDTV081;0001;0300) KDL32J1
+version https://git-lfs.github.com/spec/v1
+oid sha256:75ef15ed7f0abc6f7e2248f9379344b7301f29844f7e100f7c9852e3f74775e8
+size 159

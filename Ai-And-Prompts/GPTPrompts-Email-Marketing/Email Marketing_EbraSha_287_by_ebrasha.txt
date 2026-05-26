@@ -1,1 +1,3 @@
-How can I create a custom template for my emails that can be easily reused?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aadd9c46e013e2d15a1ec75a0e16bc3ef33e3d2e8b886daa82cc7a4b997f376
+size 77

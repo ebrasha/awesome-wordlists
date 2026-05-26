@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.1.2; GT-S5312L Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.1.2; GT-S5312L Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:195a8d47bffa32987123d161da0653957cba76b5dff4bbbfa2fc41f9e6b70db8
+size 279

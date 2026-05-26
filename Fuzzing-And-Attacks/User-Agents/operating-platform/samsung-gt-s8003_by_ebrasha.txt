@@ -1,1 +1,3 @@
-SAMSUNG-GT-S8003/1.0 SHP/VPP/R5 Jasmine/1.0 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c78f8265bde99ef74b60911a7f72a3bc9eef3aaaf26a3f78ea018324b959708
+size 110

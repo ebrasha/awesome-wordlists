@@ -1,4 +1,3 @@
-FAST Enterprise Crawler/6.7.0 (crawler@fast.no)
-FAST Enterprise Crawler/5.3.4 (crawler@fast.no)
-FAST Enterprise Crawler 6 used by Schibsted (webcrawl@schibstedsok.no)
-FAST EnterpriseCrawler 6
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e2afe5ba4fa7fcbd0c965e5cadec0a378db698a7fa5b90e04b1b1ebd8a40b15
+size 192

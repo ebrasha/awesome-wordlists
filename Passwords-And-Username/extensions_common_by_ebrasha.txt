@@ -1,28 +1,3 @@
-.asp
-.aspx
-.bat
-.c
-.cfm
-.cgi
-.com
-.dll
-.exe
-.htm
-.html
-.inc
-.jhtml
-.jsa
-.jsp
-.log
-.mdb
-.nsf
-.php
-.phtml
-.pl
-.reg
-.sh
-.shtml
-.sql
-.txt
-.xml
-/
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf45927e751fe45d534660996179d6ad5ae59d9700040816aaaa31ffb630e732
+size 141

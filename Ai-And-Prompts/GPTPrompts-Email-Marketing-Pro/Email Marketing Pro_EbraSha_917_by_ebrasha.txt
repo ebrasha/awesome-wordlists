@@ -1,1 +1,3 @@
-Using A/B testing to determine the best day and time for email sends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1ee927490bb1e66054f5b579ee91fd3f64734499e5d919c9813f50cc8c6a65
+size 71

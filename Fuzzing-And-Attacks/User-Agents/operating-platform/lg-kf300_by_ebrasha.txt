@@ -1,1 +1,3 @@
-LG-KF300 Obigo/WAP2.0 MIDP-2.0/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe3d9f119ec510689739b039a32bf8544aa3714ab319d6e6db297ef71dd1cca1
+size 40

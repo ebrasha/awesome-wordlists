@@ -1,5 +1,3 @@
-/jmx-console
-/web-console
-/web-console/Invoker
-/invoker/JMXInvokerServlet
-/WEB-INF/jboss-web.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e7ea0018394fde9f7db4a8cd80000906f6680237e7c63ec869e4d6b4591fca7
+size 97

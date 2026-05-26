@@ -1,1 +1,3 @@
-How can I share my custom email templates with other members of my team?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c574a7a3eba1ee864d1d6012cea0b4c5b2786d522c37dd9ce185345187813b5
+size 74

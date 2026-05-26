@@ -1,1 +1,3 @@
-What are the best practices for using buttons and links in emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:30a67c45a458e04a457bbaf430901b5bd1984288eb36aaf9bf34b3b2a0676654
+size 87

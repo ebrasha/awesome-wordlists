@@ -1,1 +1,3 @@
-How to use A/B testing to optimize the use of images in your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a643d1a7de26db455cbdc2e71b3a6de880817082cab29a13f44b88f21277e181
+size 70

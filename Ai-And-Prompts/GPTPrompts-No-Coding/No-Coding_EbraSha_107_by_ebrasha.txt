@@ -1,1 +1,3 @@
-What are the most common challenges faced when scaling a no-code business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d613be95e75ede10b25414979ef84cbd7b089cdf627ae7accee3e78601a5c855
+size 76

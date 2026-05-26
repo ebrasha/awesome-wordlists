@@ -1,1 +1,3 @@
-LGE-VX5500/1.0 UP.Browser/6.2.3.2 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e10213506e693f4fe83891c5703cee214656c34815f9e6b8b18be49e40ebb43
+size 48

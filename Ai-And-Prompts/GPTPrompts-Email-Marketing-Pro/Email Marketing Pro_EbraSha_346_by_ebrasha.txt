@@ -1,1 +1,3 @@
-How can I ensure that my email marketing practices comply with the GDPR's requirement for implementing appropriate technical and organizational measures to protect personal data?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a420cde02b9981261c3581877a4e504bc89fb946497acbb6bf94887f2078617
+size 180

@@ -1,2 +1,3 @@
-SAMSUNG-GT-S3333 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33394/66.318; U; pt) Presto/2.12.423 Version/12.16
-SAMSUNG-GT-S3333 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33394/65.213; U; pt) Presto/2.12.423 Version/12.16
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d36bb9aa196743955f7eedd04b8c88aec03d54298f1c17934dc3f9dcef78ab8
+size 212

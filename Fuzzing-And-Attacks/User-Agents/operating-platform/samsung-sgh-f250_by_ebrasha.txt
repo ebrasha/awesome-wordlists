@@ -1,2 +1,3 @@
-SAMSUNG-SGH-F250/F250JBHA2 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-F250/F250JAHA2 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e166f1ea3a508fa3f5cde67493c56e60adecc410fb297f6a3e18d011852f4ed
+size 216

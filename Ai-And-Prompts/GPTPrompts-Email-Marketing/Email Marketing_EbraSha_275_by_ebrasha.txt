@@ -1,1 +1,3 @@
-How can I design my emails to be easily scannable by the recipient?
+version https://git-lfs.github.com/spec/v1
+oid sha256:efbf017b593cfe628d014a6d6976a3b506c839391142081adbe06007c76dde86
+size 69

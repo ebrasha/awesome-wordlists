@@ -1,1 +1,3 @@
-Using A/B testing to optimize the use of urgency in your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f0bfe637c389affc1b0ebd0b6cfced78f715c9c67ee4128d2b82891581a6e9
+size 66

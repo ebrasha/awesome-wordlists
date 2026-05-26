@@ -1,1 +1,3 @@
-How can I use preference centers to send targeted newsletters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed71fccc87d1c5f0d6355b00e349dfac9d0abb557f3a64b1759ac2549b29be57
+size 64

@@ -1,10 +1,3 @@
-admin
-manager
-root
-cisco
-apc
-pass
-security
-user
-system
-sys
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7cf39cd0fa581abc91cfc34ea0bf2d270c541dbba50cac935a5e3c406ef96f9
+size 59

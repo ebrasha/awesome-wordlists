@@ -1,6 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; LG-AS730 Build/IMM76L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; Android 4.0.4; LG-AS730 Build/IMM76L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
-Mozilla/5.0 (Linux; Android 4.0.4; LG-AS730 Build/IMM76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; LG-AS730 Build/IMM76L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30evme-launcher
-Mozilla/5.0 (Linux; Android 4.0.4; LG-AS730 Build/IMM76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.0.4; LG-AS730 Build/IMM76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62ed8a42f33d162bae23ad64525e9b9b517c25a11986900e56374c9bd29058d
+size 847

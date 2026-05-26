@@ -1,1 +1,3 @@
-ZTE-Jack 3G-Orange/1.0 NetFront/3.5 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd92178cb522fff034b8a9a35723045ceef2a0fc42a12338a8392e258e63183a
+size 83

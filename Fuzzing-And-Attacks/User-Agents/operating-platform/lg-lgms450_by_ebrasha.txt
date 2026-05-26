@@ -1,1 +1,3 @@
-LG-LGMS450 Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8925a93b5067de6b1ab020573a9d2201dc300284156208f59d7c71a87a5fec
+size 62

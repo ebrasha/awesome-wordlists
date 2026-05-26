@@ -1,1 +1,3 @@
-Vodafone/1.0/HTC_HD_mini/Opera 9.7/1.41.161.1 (10904)/(Windows NT 5.1; U; en)
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb04406ce4409a6fdeedf7e99b6fcac0ee3cab2c39e142b823fd7911bcabd69f
+size 78

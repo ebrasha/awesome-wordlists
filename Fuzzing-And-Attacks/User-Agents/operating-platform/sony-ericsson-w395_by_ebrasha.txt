@@ -1,2 +1,3 @@
-SonyEricssonW395/R1CB Browser/OpenWave/1.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
-SonyEricssonW395/R1EA Browser/OpenWave/1.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de04e4cd7f44c012f0557c0d2145c559af5a68546460079848637cd374f3711
+size 166

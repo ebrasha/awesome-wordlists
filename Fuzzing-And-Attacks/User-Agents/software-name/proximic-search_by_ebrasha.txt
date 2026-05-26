@@ -1,2 +1,3 @@
-Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)
-Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7187c857eb418757319be6a493bef2e3820706cbbc5f9a0aabd77aefe98f2f3a
+size 151

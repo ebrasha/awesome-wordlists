@@ -1,1 +1,3 @@
-How can I ensure that my email marketing practices comply with the GDPR's requirement for promptly reporting data breaches to the relevant authorities?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa77c4f4f1cfb20b75930ff95defe526d02564ccfa5b195ded9c09b31740ccaa
+size 153

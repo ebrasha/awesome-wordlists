@@ -1,1 +1,3 @@
-Palau Community College
+version https://git-lfs.github.com/spec/v1
+oid sha256:78b30c0e6338e638c4889138b9ee07262319b1ac4a344cc0b92dcc68699df94d
+size 24

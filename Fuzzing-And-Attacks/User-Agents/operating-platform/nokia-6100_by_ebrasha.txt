@@ -1,2 +1,3 @@
-Nokia6100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
-Nokia6100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0 AlexaToolbar/alxf-2.21
+version https://git-lfs.github.com/spec/v1
+oid sha256:b23c3fa6da501cdbc57d1f5e0cceded976a1a1994ab722d8c17a95771289593e
+size 147

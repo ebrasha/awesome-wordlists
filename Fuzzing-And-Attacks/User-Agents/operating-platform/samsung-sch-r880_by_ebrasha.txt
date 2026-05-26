@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.1-update1; en-us; SCH-R880 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
+version https://git-lfs.github.com/spec/v1
+oid sha256:8296d883905b63ee7a3cd937bd4d7187cd9284fa5e4e4dd874f06d334abcaeb2
+size 146

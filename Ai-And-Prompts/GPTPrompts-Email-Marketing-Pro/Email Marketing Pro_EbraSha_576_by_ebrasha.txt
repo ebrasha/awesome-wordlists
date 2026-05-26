@@ -1,1 +1,3 @@
-How can I use email marketing software to improve open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:34143f93f4b946537419bfc8ed42ad07c4ab400d465d865fa5c9e274ad071e0e
+size 63

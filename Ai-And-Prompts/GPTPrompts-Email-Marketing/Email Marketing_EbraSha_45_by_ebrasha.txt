@@ -1,1 +1,3 @@
-How can I use lead magnets to attract new email subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:976ad210839e85cb87afd8f23d3ab643c874398c4d5d6a0c760eca5ce3a46112
+size 62

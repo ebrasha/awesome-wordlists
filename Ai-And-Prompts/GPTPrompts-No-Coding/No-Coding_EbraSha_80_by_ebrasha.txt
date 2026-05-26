@@ -1,1 +1,3 @@
-How do I handle database management in my application when using a no-code platform?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6ccf54315d9910657f640ce646274b29b991bdc7ef600812e043936f9c093d
+size 86

@@ -1,1 +1,3 @@
-How can I use email marketing to promote clearance items?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb3e02b9406f0e0f3e580e953e9107fad946a2d175fd7289b3c04aa3a43ea314
+size 59

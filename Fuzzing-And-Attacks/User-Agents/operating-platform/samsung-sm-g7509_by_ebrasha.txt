@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.4; zh-hk; SAMSUNG-SM-G7509 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:73cd74ed40b526590d0b0d0b6ff26f34be3f90349e54a1ee5c8cee9c6c582b2f
+size 165

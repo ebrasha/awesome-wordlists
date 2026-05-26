@@ -1,1 +1,3 @@
-LG-GR700/V10g; Mozilla/5.0 (Profile/MIDP-2.0 Configuration/CLDC-1.1; Opera Mini/att/4.2.15814; U; en-US) Opera 9.50
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c055fe5a7bd428fb325b8997201e45ec2cde835839cd422369d970385329795
+size 116

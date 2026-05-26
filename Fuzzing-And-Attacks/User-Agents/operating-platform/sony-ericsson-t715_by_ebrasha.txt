@@ -1,1 +1,3 @@
-SonyEricssonT715/R1HA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 sonyericssont715
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f89212d1e614b42c6488805d9b7dd99bbbb52b9fc2aba3462fbed8b02ad45e4
+size 93

@@ -1,1 +1,3 @@
-How can A/B testing be used to find the optimum email layout and design?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c78752ddb35d7cf3e2aa55cb5f9ae185a7cb31efcf900f1a0d20efac405c354
+size 74

@@ -1,1 +1,3 @@
-How can I use email list segmentation to improve my lead generation?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8efb4d90a90b013b37b10ffbc37c6929c8fd068d866cc58d8f3b3acdd0a12db1
+size 70

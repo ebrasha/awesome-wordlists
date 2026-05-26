@@ -1,4 +1,3 @@
-SonyEricssonCK15a/R3AE017 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonCK15a/R3AC020 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonCK15a/R3AC024 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SonyEricssonCK15a/R3AE021 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ce2c7860106da94ab1f71b3df460519f8adda01f5a137c1d1ab7d36c06acfed
+size 352

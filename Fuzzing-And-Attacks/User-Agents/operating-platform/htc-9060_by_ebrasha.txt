@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.2.2; HTC 9060 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90d8d1780702f39ff0f74bc51db167a7f71b54cff430aa58b0a72561fad3246
+size 137

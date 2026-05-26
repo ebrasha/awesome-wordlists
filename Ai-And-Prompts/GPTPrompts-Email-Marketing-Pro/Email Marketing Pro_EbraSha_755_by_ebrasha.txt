@@ -1,1 +1,3 @@
-How do I determine the effectiveness of my email multi-channel campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4288a56be635294b01e1f7924fce4d44303386edfbb36c23a6999ec9592626f5
+size 75

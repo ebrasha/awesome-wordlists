@@ -1,1 +1,3 @@
-SCH-A870 UP.Browser/6.2.3.2 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b4702b81c1d60622d92095476bdf091aebc20152326f5c8ff4fd32b88d3d709
+size 42

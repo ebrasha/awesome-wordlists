@@ -1,1 +1,3 @@
-What are the best practices for using email marketing data to segment my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f48408e84d3252cdd09401f4435fd7b361f1208f057af6a3699d162e0ffdab
+size 86

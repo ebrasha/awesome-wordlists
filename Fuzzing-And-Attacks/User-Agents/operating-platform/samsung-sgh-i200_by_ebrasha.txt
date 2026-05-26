@@ -1,1 +1,3 @@
-SAMSUNG-SGH-i200/1.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:46c1e720ee4e9b49ba60c79eda2ba3df2c08821d5b997fded6c0c87562d50f5a
+size 111

@@ -1,1 +1,3 @@
-SonyEricssonK818c/R6BC Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d1d767a097d2308e60be50e9540e334eb18cf762594ef176d2998ebf5628886
+size 63

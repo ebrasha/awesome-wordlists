@@ -1,1 +1,3 @@
-What are the most effective strategies for using email preheader text to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5d14029776d225119deaee05354acafad4d664b01f2edfe59e8cf658170409
+size 95

@@ -1,1 +1,3 @@
-SonyEricssonK310iv/R4DA Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Link/6.3.1.13.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f1d4d17c9d4dc5404ac2fa5d05c59fa18e11ed4c7a85aa00dc22bd4d0d4c3f7
+size 104

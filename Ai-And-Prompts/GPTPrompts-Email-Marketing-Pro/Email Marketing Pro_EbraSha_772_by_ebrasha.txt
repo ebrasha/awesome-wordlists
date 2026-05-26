@@ -1,1 +1,3 @@
-How can I optimize my email content to increase engagement and open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:590aaeb262aeba067b836959d1398cb25dc80fadf4e45deb1b5367bb571bb412
+size 76

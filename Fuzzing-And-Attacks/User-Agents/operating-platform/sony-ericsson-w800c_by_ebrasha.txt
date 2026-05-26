@@ -1,1 +1,3 @@
-SonyEricssonW800c/R1L Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3116b3280fd6fb380bcc0df41c5d747f4de8ea5b78099357090206c550c8a69a
+size 87

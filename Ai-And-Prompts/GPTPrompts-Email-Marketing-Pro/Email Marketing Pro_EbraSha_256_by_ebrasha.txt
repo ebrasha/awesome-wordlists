@@ -1,1 +1,3 @@
-How can I use merge tags to personalize my email templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6837ebdd7f78224422137c7958e064312a7afc780bc50fdbca254a1aeecafc08
+size 61

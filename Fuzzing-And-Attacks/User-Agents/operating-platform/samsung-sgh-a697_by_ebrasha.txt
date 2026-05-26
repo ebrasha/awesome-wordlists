@@ -1,2 +1,3 @@
-SAMSUNG-SGH-A697/A697UCKA4 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
-SAMSUNG-SGH-A697/A697UCJB2 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:302ab4810ad629ef7445abc48d07545d5c5426e6fb8735e1b2684ec3b6d0d202
+size 210

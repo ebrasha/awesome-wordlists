@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 4.4.4; HTC Rezound 4g/ADR6425LVW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883 Safari/9.1.2
-Mozilla/5.0 (Linux; Android 4.4.4; HTC Rezound 4g/ADR6425LVW) Gecko/20100101 Firefox/50.1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:96feb0799f7babcc556123349c5cbb6e41d06119778aa90bf1f7c9645265d07f
+size 223

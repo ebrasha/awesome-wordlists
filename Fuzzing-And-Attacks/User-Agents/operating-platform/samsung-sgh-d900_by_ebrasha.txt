@@ -1,1 +1,3 @@
-SAMSUNG-SGH-D900/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1b7398318565618e6827880c900c1970978cc30702dd6c1fdbf3479dc7fc648
+size 102

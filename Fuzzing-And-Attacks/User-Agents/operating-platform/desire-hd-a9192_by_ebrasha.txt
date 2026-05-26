@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.5; en-ca; HTC_DesireHD_A9192 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.5; fr-ca; HTC_DesireHD_A9192 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:c07f642cefb84f6dfe89d31155eab4f8cc623758ad4490296b9697d1ce6767d8
+size 294

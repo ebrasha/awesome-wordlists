@@ -1,2 +1,3 @@
-CatchBot/2.0; +http://www.catchbot.com
-CatchBot/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:27c8d7a713b2e325c8a7cd0c8bfe91292fe7a756c3f62a0356a4d86a7ce4f27e
+size 52

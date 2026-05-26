@@ -1,8 +1,3 @@
-Dorado WAP-Browser/1.0.0/powerplay/2
-Dorado WAP-Browser/1.0.0
-LAVA.Discover Neo.Dorado WAP-Browser/1.0.0
-CELKON.C7010.Dorado WAP-Browser/1.0.0
-UNTRUSTED/1.0/Dorado WAP-Browser/1.0.0
-CELKON.C9 Jumbo.CELKON.C9 jumbo.Dorado WAP-Browser/1.0.0/powerplay/2
-HUAWEI-G6008/1.0 MOCOR_09A/ThreadX 4.0 Release/05.26.2011 Browser/Dorado WAP-Browser 1.0  Profile/MIDP-2.0 Config/CLDC-1.1
-LAVA.ARC28.Dorado WAP-Browser/1.0.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f70b730a9a9166e784d40aa90fd83d6a1553528d17c82ef8a914730399ac2fe5
+size 410

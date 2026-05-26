@@ -1,1 +1,3 @@
-How can I properly incorporate photos and graphics in my email templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:212f12ce3f25dcbb91def686edb5fb4b0634c493874df4536ca1919e0b045c1a
+size 75

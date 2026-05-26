@@ -1,1 +1,3 @@
-Mozilla/4.0(compatible;Polaris 6.2;Brew 3.1.5;U;en)/400x240 Samsung SCH-U820
+version https://git-lfs.github.com/spec/v1
+oid sha256:04fef6932b3108a48d232fc27053660a66aeb63176a0147c268da3d0f79aaad4
+size 77

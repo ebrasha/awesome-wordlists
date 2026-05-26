@@ -1,1 +1,3 @@
-How do I determine the optimal sending frequency for my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:512abcfd916a3f36767290cb6c9bedc428f803f32c8f25a8a6e29d8f17869136
+size 65

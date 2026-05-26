@@ -1,1 +1,3 @@
-DoCoMo/1.0/N503is/c10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ab55cc37e01d7db7d150b6a289645c14e8ce21a3b81154fbef1a09ef97365c
+size 22

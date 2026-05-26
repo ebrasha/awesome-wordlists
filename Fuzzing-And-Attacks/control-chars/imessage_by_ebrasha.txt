@@ -1,1 +1,3 @@
-Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e21c5ddef7371a8a9c7cde64184604e5987c9c21d0a08a20ec04de0969208f
+size 62

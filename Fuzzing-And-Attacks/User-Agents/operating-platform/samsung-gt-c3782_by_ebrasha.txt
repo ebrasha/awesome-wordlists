@@ -1,1 +1,3 @@
-SAMSUNG-GT-C3782/C3782XXLE1 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28261/57.117; U; en) Presto/2.12.423 Version/12.16
+version https://git-lfs.github.com/spec/v1
+oid sha256:298fac13b7c8431bf4c9cce47f89ba6a3e9a1aac2793c0f5eec007ee4aa89f66
+size 117

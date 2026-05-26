@@ -1,1 +1,3 @@
-Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip830w; PPC; 240x320)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bdadcb7841752b7be780d6da54e8cb101b2bdb018b96db26fadafde2f60d9dd
+size 81

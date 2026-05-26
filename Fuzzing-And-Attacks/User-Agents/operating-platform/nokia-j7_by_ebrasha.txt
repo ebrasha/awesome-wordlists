@@ -1,1 +1,3 @@
-nokia j7
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa1c359ecfa65d422ac530ed83715cfb4db987970a805a9bfe37317286253658
+size 9

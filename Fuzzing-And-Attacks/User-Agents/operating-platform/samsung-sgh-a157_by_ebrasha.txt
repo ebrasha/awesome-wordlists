@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A157/A157UCLD1 SHP/VPP/R5 NetFront/4.2 SMM-MMS/1.2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3db32b78bd11233a2015820e0069840a37074fb02a482caeb37e6ef51d0a071
+size 65

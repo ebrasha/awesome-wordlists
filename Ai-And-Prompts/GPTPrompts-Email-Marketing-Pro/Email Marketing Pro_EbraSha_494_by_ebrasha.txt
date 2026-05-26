@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account the mobile-specific spam filters and email deliverability?
+version https://git-lfs.github.com/spec/v1
+oid sha256:62e3cf65368830536db7c1639095615fae01145334fbd4f23a6aa318b11af42e
+size 120

@@ -1,1 +1,3 @@
-LGE-UN270/1.0 UP.Browser/6.2.3.8 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:959092c0e522eecce5678be80513023cd4d097a3324836e4fb74f373bd280693
+size 47

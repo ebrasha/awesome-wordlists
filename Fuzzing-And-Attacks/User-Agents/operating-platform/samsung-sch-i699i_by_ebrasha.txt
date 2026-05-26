@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.4; ar-ye; SAMSUNG-SCH-I699I Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c945c73e7e9b0fa4711178ef0eba3002d95a1c1b00d35907c005f7eedadd4c0
+size 149

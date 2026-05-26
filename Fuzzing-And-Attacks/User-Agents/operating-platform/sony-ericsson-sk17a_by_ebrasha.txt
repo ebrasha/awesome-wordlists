@@ -1,5 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.3; es-ar; SonyEricssonSK17a Build/4.0.A.2.335) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; es-mx; SonyEricssonSK17a Build/4.0.2.A.0.58) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; SonyEricssonSK17a Build/4.0.2.A.0.62) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.3; es-pe; SonyEricssonSK17a Build/4.0.A.2.335) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.4; es-mx; SonyEricssonSK17a Build/4.0.2.A.0.62) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:292ab6e282dc0e7089c332637a214f4d2302c603c6514c70e5ea6802226c56bd
+size 763

@@ -1,8 +1,3 @@
-Mozilla/5.0 (N; Windows NT 6.1; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
-Mozilla/5.0 (N; Windows NT 10.0; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
-Mozilla/5.0 (N; Windows NT 6.3; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
-Mozilla/5.0 (N; Windows NT 6.2; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
-Mozilla/5.0 (N; Windows NT 6.1) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
-Mozilla/5.0 (N; Windows NT 6.2) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
-Mozilla/5.0 (N; Windows NT 5.1) AppleWebKit/534.34 (KHTML, like Gecko) Raptr Safari/534.34
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1e60f909d487a6b21a40ba08f0b4e85a97bb61876e7e79189a2e776846c30d3
+size 761

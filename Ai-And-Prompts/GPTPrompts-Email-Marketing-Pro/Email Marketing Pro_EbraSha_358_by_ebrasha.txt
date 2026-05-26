@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different channels, such as email, SMS, and social media?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0b2e654603ca3f8e4e95e82b7c45be70b235af4e6bbd2a1e67e0ad8ed38642b
+size 124

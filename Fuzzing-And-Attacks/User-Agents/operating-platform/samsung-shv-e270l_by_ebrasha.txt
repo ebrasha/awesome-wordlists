@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.1.2; en-US; SHV-E270L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.9.0.731 U3/0.8.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:97d59041dede14e571871100dd1806de77e350267edebe8bb559232727006813
+size 171

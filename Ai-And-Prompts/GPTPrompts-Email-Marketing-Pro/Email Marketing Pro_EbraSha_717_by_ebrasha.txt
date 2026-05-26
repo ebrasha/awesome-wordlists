@@ -1,1 +1,3 @@
-How can I measure the impact of my email designs on engagement?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0bcc924b3587bbba6c230eaecbace36e830e009bdfc1bd24da7f8697bf75634
+size 65

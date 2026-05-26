@@ -1,1 +1,3 @@
-LG-LX260 POLARIS-LX260/2.0 MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0decef8b018432a2c34d4ef0fb88cfc05e69bba1df31eb055c39aec12eb169a
+size 75

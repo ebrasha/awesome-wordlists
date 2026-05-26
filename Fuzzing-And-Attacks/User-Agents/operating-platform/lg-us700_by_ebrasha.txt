@@ -1,3 +1,3 @@
-Mozilla/5.0 (Linux; Android 8.1.0; LG-US700) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.1.1; LG-US700 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.1.1; LG-US700 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.70 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:239cd30542b19808d1f7f8b5326f4dad12ae92efdea3068540acf6b594f7ab13
+size 401

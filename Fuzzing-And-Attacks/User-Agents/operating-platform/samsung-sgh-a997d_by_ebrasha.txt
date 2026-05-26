@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A997D/A997DTLMK2 SHP/VPP/R5 NetFront/4.2 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:940a97192d7ad247bb22cfd2a963461245c8ff3d5da598ef35bba2600c9135ca
+size 107

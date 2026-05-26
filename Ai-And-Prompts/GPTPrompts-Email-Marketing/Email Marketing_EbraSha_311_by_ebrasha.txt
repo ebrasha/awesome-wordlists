@@ -1,1 +1,3 @@
-How can I use my brand's customer testimonials in my emails to build trust and credibility with my audience?
+version https://git-lfs.github.com/spec/v1
+oid sha256:86555a9c322bb0be1c3717a5b79af2cc2141a301b023ea9647f1bdacdcef7eda
+size 110

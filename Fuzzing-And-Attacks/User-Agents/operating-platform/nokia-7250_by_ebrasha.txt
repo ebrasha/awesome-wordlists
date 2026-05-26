@@ -1,1 +1,3 @@
-Nokia7250/1.0 (3.14) Profile/MIDP-1.0 Configuration/CLDC-1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d11652759215a0d62cc0d95c03a507b32d26e274cb624086a703124fedb2b75e
+size 61

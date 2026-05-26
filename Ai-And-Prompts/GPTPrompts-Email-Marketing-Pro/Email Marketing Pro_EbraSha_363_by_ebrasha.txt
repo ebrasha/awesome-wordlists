@@ -1,1 +1,3 @@
-How can I ensure compliance with email marketing regulations for different types of security measures, such as encryption, authentication, and access controls?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2371d21fb1d86a423659370f217fc28e7e9b0714497d57f8106ca5265faf24e4
+size 161

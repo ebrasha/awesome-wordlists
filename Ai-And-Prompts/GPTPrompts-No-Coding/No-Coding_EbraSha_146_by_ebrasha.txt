@@ -1,1 +1,3 @@
-How do I handle risk management and crisis management when scaling my no
+version https://git-lfs.github.com/spec/v1
+oid sha256:141a5138fe060f1c5a48b764e54079610f97f8d6ce8f8498f3dacbedff69bde0
+size 74

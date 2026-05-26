@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.0; LGE LGMP450 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.132 Mobile Safari/537.36 AlohaBrowser/1.1.0.8
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f175f7bdc8458fa18d502bb2cab68cc6d0948ae2a04ddb7a158224aa253b03
+size 161

@@ -1,1 +1,3 @@
-What metrics should I track to optimize the conversion rate of my transactional emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5616d7532f0785eaa6b6f244004cf45e1998ab9ec038dba3d692dd088332ecc5
+size 89

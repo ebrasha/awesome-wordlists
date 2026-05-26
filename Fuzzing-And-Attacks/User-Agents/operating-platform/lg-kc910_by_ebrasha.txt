@@ -1,1 +1,3 @@
-Mozilla/4.0 (Vodafone/1.0/LG-KC910/V08e Browser/Obigo-Q7.1 MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb834235ad885fef0b56308d521e683c04239ba9121f6671ebfa8c5a5eed7ce2
+size 134

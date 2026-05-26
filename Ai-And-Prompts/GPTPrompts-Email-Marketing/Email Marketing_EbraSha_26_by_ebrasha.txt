@@ -1,1 +1,3 @@
-How can I use email list trigger campaigns to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:70592451da1b27f876313fbd6e010a9f6a18ff94f757f8d89bd7a17febdfb0fc
+size 84

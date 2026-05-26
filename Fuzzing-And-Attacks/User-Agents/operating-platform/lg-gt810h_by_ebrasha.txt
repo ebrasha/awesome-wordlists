@@ -1,1 +1,3 @@
-LG-GT810H Netfront/WAP2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)
+version https://git-lfs.github.com/spec/v1
+oid sha256:1de93fad47646584d5e2639ae4792a350185ba136aea8482e1edd08bca85f415
+size 116

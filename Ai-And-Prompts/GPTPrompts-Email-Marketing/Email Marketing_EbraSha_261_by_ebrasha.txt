@@ -1,1 +1,3 @@
-Template design and specifics.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd460362f448818002de7e367bae491e4fbf4efc2422fff94b1c19a83337a155
+size 32

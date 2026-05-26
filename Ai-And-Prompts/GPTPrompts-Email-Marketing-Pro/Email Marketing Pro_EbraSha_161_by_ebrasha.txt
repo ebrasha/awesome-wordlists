@@ -1,1 +1,3 @@
-How can I use A/B testing to optimize my email's mobile responsiveness for better engagement on mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1779ff83c16c6a6eb98d722222a977a1761d5c659f18336aceb23b163df616c1
+size 113

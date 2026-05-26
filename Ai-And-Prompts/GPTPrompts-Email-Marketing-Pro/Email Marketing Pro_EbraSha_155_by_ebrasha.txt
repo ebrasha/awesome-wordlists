@@ -1,1 +1,3 @@
-How can I use advanced segmentation techniques such as RFM analysis in my email A/B testing to improve results?
+version https://git-lfs.github.com/spec/v1
+oid sha256:860b2924e223d68c863503ccf5686d9cd0859dec138ca2c12ce7353fb3ea577e
+size 113

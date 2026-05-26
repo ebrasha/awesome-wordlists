@@ -1,1 +1,3 @@
-Nokia3108/1.0 (03.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f45c7c1cb6638c4f06d9df644421eed00e262b6d7dab1a4e0fb129f9ba023673
+size 62

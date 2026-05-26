@@ -1,25 +1,3 @@
-/admin
-/admin/realms/{realm-name}/
-/admin/realms/{realm-name}/clients
-/admin/realms/{realm-name}/users
-/admin/realms/{realm-name}/groups
-/admin/realms/{realm-name}/roles
-/admin/realms/{realm-name}/users/{user-id}
-/admin/realms/{realm-name}/clients/{client-id}
-/admin/realms/{realm-name}/roles/{role-name}
-/admin/realms/{realm-name}/roles/{role-name}/users
-/admin/realms/{realm-name}/roles/{role-name}/clients
-/admin/realms/{realm-name}/users/{user-id}/role-mappings
-/admin/realms/{realm-name}/users/{user-id}/role-mappings/clients/{client-id}
-/admin/realms/{realm-name}/clients/{client-id}/roles/{role-name}
-/realms/{realm-name}/account
-/realms/{realm-name}/protocol/openid-connect/token
-/realms/{realm-name}/protocol/openid-connect/auth
-/realms/{realm-name}/protocol/openid-connect/userinfo
-/realms/{realm-name}/protocol/openid-connect/logout
-/realms/{realm-name}/protocol/openid-connect/certs
-/realms/{realm-name}/protocol/saml/metadata
-/realms/{realm-name}/protocol/saml/clients
-/realms/{realm-name}/protocol/saml/roles
-/realms/{realm-name}/protocol/saml/descriptor
-/realms/{realm-name}/protocol/saml/flows
+version https://git-lfs.github.com/spec/v1
+oid sha256:eacd8d9dea2154703363e7d6a4b01e44fbf8b0e26c3d1ad8c6136d6847350f2d
+size 1110

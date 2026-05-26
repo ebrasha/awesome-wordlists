@@ -1,5 +1,3 @@
-Nokia109/2.0 (04.12) Profile/MIDP-2.1 Configuration/CLDC-1.1
-Mozilla/5.0 (Series40; Nokia109/04.12; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/5.0.0.0.31
-Mozilla/5.0 (Series40; Nokia109/04.12; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/3.9.0.0.22
-Nokia109/2.0 (04.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
-Nokia109/2.0 (04.12) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-in; nokia109) UCBrowser8.2.1.144/70/352/UCWEB Mobile UNTRUSTED/1.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d71845bcd0ddb898ef8378ecf68f4f880dde5f6de6d878cda556cbc0caa9863
+size 515

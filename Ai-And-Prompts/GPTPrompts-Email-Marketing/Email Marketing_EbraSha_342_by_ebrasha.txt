@@ -1,1 +1,3 @@
-How can I use email marketing to offer free resources or consultation to my target audience for addressing their pain points?
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d9883e1f5d2c26941c125270795180a72b11f169dceda88168e24f607301fa
+size 127

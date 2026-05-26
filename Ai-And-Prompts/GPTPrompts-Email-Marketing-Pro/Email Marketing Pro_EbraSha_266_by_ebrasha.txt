@@ -1,1 +1,3 @@
-How can I use email automation to send triggered email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:919fd613a675c73c570d444bf1025c949a2e7d70f19489b9908dc8b9e6fc7077
+size 67

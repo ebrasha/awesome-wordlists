@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; SGH-I1337 Samsung Galaxy S4 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c877b603f73b7cc26f6976d810ee08cea3717e072c70bdb64ba20eb4c5f4965
+size 159

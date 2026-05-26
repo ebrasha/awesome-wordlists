@@ -1,1 +1,3 @@
-SonyEricssonW150a/R2AD032 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:14d3b80b4b9f3290ba45742e4a474aa1afc4a335397a658f479cfa05d83fd971
+size 88

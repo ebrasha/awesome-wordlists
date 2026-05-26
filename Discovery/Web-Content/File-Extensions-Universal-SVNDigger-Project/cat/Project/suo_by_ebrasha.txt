@@ -1,2 +1,3 @@
-BookStore.suo
-SNEG.suo
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ffb9703609e59ae34abc45308a337078c761f77d6c0a9cc0fca7f13e961c6c6
+size 23

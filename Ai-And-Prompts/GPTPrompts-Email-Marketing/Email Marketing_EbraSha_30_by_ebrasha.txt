@@ -1,1 +1,3 @@
-How can I use email list open and click-through rate data to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:c767931f47d6b0b176b56caf597146d82c1adf8b0d4a2516b17ff7171d8d6df4
+size 99

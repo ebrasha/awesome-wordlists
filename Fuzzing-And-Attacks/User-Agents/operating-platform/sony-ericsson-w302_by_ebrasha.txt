@@ -1,1 +1,3 @@
-SonyEricssonW302/R1BB Browser/OpenWave/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfccd22fa888e0cea292c720ec5c588471f47c840600d2985c1fd57269f4bdbd
+size 83

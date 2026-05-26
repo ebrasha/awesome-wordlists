@@ -1,5 +1,3 @@
-SAMSUNG-SGH-F480/F480CXHG1 SHP/VPP/R5 NetFront/3.4 Qtv5.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-F480/F480XXHL3 SHP/VPP/R5 NetFront/3.4 Qtv5.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-F480/F480DFHL3 SHP/VPP/R5 NetFront/3.4 Qtv5.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-F480/1.0 SHP/VPP/R5 NetFront/3.4 Qtv5.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
-SAMSUNG-SGH-F480-ORANGE/F480ABIB1 SHP/VPP/R5 NetFront/3.4 Qtv5.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:910d73db6052e71ee475acf6f7b642085114ed19fc1234fbb3a6b7a3480b1d84
+size 561

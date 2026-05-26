@@ -1,1 +1,3 @@
-How can I use email marketing to provide a detailed and transparent explanation of my shipping and handling policy to remove any doubts?
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd24484a6c199d355623660e8eda984d9dc141fbfb576dbafbc15501821b624c
+size 138

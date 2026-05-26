@@ -1,1 +1,3 @@
-What are the most effective strategies for using email list segmentation to improve engagement?
+version https://git-lfs.github.com/spec/v1
+oid sha256:17fcb474483f8eed722d6f5f0c21910e5fa88336b79205e60325a461c66a32fe
+size 97

@@ -1,1 +1,3 @@
-How do I optimize workflows for integration with other software and systems in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f83471fefd7de822bef4be97df73f3100276f46b15818cb8ad99f686fce2c4d
+size 89

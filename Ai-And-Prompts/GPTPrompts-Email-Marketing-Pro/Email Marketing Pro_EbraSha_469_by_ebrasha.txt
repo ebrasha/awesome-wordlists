@@ -1,1 +1,3 @@
-How can I use mobile-specific GIFs in my emails to increase engagement and conversions on mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:02454100ceabf25d21e9a33af700ad74a63ac8d0846d1c2e9054882b17a3e94b
+size 107

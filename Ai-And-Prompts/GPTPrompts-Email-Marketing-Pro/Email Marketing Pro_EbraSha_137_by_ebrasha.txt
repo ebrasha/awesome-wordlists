@@ -1,1 +1,3 @@
-How can I use A/B testing to determine the best email subject lines for my campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b544358115422b875150583376f58b51009891b44a5ec860bb0add2bd2360f5e
+size 87

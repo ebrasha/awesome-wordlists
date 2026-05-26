@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-J250M Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-J250M Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:9645ab57c53469c0a058f9b5f79d5c3ca0e982965f6e370e0abef7703512a7a2
+size 332

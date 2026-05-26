@@ -1,32 +1,3 @@
-?url=http://{target}
-?url=https://{target}
-?next=http://{target}
-?next=https://{target}
-?url=http://{target}
-?url=https://{target}
-?url=http://{target}
-?url=//{target}
-?url=$2f%2f{target}
-?next=//{target}
-?next=$2f%2f{target}
-?url=//{target}
-?url=$2f%2f{target}
-?url=//{target}
-/redirect/{target}
-/cgi-bin/redirect.cgi?{target}
-/out/{target}
-/out?{target}
-/out?/{target}
-/out?//{target}
-/out?/\{target}
-/out?///{target}
-?view={target}
-?view=/{target}
-?view=//{target}
-?view=/\{target}
-?view=///{target}
-/login?to={target}
-/login?to=/{target}
-/login?to=//{target}
-/login?to=/\{target}
-/login?to=///{target}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a787bb29d28954f4937737f742ba6f1a82cb12464fe5241617135c609e9f707a
+size 606

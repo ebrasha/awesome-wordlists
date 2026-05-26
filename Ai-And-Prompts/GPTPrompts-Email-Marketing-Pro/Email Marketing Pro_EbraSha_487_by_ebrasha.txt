@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account the mobile device's capabilities and features?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b095505a14f2eebac4ca0bd013b56a54d6da94611c438d2888d17a9810106a26
+size 108

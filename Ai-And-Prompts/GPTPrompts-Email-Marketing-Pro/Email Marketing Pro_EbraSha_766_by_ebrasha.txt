@@ -1,1 +1,3 @@
-Increase Your Email Open Rate
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cdfb219ec65f92307a438c0bd4b35b037a3c540ca6738a1a670115a064b132d
+size 31

@@ -1,1 +1,3 @@
-How can I use email list GDPR and data privacy compliance to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:84259d8e6158dffe9bc079ebeedcbbf7bfa62f54a03b72520243ceb3488fd684
+size 99

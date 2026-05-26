@@ -1,26 +1,3 @@
-Advanced Welding Institute
-Bennington College
-Castleton University
-Champlain College
-College of St Joseph
-Community College of Vermont
-Goddard College
-Green Mountain College
-Johnson State College
-Landmark College
-Lyndon State College
-Marlboro College
-Marlboro College Graduate & Professional Studies
-Middlebury College
-New England Center
-New England Culinary Institute
-Norwich University
-O'Briens Aveda Institute
-Saint Michael's College
-SIT Graduate Institute
-Southern Vermont College
-Sterling College
-University of Vermont
-Vermont College of Fine Arts
-Vermont Law School
-Vermont Technical College
+version https://git-lfs.github.com/spec/v1
+oid sha256:d68f0815f17e41741b96479330ed96e56e15c2f1d76ef8bdd7ce99fa01794746
+size 598

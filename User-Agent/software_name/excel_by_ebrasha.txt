@@ -1,9 +1,3 @@
-Microsoft Office Excel 2013
-Microsoft Office Excel 2014
-Microsoft Office Excel 2014 (16.0.8431) Windows NT 10.0
-Microsoft Office Excel 2013 (15.0.4701) Windows NT 6.1
-Microsoft Office Excel 2014 (16.0.8326) Windows NT 10.0
-Microsoft Office Excel 2013 (15.0.4675) Windows NT 6.1
-Microsoft Office Excel 2013 (15.0.4763) Windows NT 6.2
-Microsoft Office Excel 2014 (16.0.9330) Windows NT 6.1
-Microsoft Office Excel 2014 (16.0.7726) Windows NT 10.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0158296af816e47915739301cdb75168d6a50b3e91b684cba4a2c2c70b5ef0
+size 443

@@ -1,1 +1,3 @@
-LG-GW305/V100 Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; LG-GW305) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
+version https://git-lfs.github.com/spec/v1
+oid sha256:176f9eb40c36b5a3f175968186d45ed8ad0cd8e8b0b6956348612e1ffba67bbd
+size 173

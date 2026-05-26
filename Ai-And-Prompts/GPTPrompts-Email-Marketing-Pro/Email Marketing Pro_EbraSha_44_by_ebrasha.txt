@@ -1,1 +1,3 @@
-How can I use email list segmentation to increase the lifetime value of my subscribers?
+version https://git-lfs.github.com/spec/v1
+oid sha256:803283596a0e29714b49cc89d1cbbb26419b1cc6e194e3e546341679ad2ff31a
+size 89

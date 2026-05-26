@@ -1,1 +1,3 @@
-How can I use segmentation to target specific groups of recipients with different designs?
+version https://git-lfs.github.com/spec/v1
+oid sha256:86d892f58913f273cc7b3495604bebdb7a0fafe52483f2837381fab0e8a361da
+size 92

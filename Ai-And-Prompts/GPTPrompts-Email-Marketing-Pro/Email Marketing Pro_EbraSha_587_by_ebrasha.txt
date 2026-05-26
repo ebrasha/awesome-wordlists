@@ -1,1 +1,3 @@
-What are the best practices for using email marketing automation workflows to increase open rates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92386661d1a82cd476fe26a3cafc911a09e385b1413d33390b2c4203daff329
+size 100

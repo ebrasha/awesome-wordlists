@@ -1,1 +1,3 @@
-Using A/B testing to optimize the use of social proof in your emails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d31f5c0287a2679b588db6ca685e25d6b85a5e485d5cc5ec088bf918d05bc49f
+size 71

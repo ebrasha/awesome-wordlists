@@ -1,1 +1,3 @@
-SAMSUNG-SGH-A256/A256UXIF8 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e06b758b44934fe681de848d3d00c5d0886a53490217a850ef51bf8f8dcbf2c6
+size 108

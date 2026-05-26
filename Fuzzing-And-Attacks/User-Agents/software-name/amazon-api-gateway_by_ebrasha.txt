@@ -1,2 +1,3 @@
-AmazonAPIGateway_5m3r4dmaP1
-AmazonAPIGateway_6qpee1cnq6
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d648906bfc59fb298613e647d2455f1e3cfc1404c933363542ba1ee45ea6e88
+size 56

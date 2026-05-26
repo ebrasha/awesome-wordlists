@@ -1,2 +1,3 @@
-SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
-SAMSUNG-SGH-E250/E250DBOGH4 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a55fd3ced608f85c0ad5ddbcd05d33ca6500ed9d65070e23f86a0c28101ef21e
+size 211

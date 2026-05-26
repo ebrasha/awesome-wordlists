@@ -1,1 +1,3 @@
-How to scale your no-code business.
+version https://git-lfs.github.com/spec/v1
+oid sha256:120d72b8dfee596e5f21f3687bb5cfc4f0e151c4ec1c2ebdf47446f41a9c20fa
+size 37

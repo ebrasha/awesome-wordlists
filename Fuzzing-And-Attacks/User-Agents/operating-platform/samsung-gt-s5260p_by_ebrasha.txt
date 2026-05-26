@@ -1,2 +1,3 @@
-SAMSUNG-GT-S5260P-ORANGE/S5260PBVKG1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
-SAMSUNG-GT-S5260P/S5260PCELG1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+version https://git-lfs.github.com/spec/v1
+oid sha256:3368de1731e008a9edb069d8a66cfe5cdedf3de8f0e1f7c23368da7af362c2d3
+size 259

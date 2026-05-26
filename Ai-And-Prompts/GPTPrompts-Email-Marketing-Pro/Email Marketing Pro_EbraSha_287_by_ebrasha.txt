@@ -1,1 +1,3 @@
-How can I create an email template that is optimized for both desktop and mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c51d8323480bfe10c95f513baa5ce6ff89fe3a9b5989620e1daf5aaf8aa6bc5
+size 91

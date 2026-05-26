@@ -1,1 +1,3 @@
-How can I avoid using designs that do not take into account the mobile device's location and geolocation?
+version https://git-lfs.github.com/spec/v1
+oid sha256:026ae297a6cf79cd8b5b2938970586f879df630dfa60d661d7edbd8e9e80814c
+size 107

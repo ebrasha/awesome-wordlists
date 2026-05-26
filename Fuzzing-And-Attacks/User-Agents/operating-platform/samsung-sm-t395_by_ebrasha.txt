@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T395 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.0 Chrome/56.0.2924.87 Safari/537.36
-Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T395 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Safari/537.36
-Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T395 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Safari/537.36
-Mozilla/5.0 (Linux; Android 7.1.1; SM-T395 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:03e1a0634a0a63ff4753f01c27a10ba5322c69f570e4172bb501633edc52d895
+size 603

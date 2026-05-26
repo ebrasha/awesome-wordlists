@@ -1,1 +1,3 @@
-What metrics should I track to gauge the performance of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df6f02a49ccff6a9908b952bc6ab4cb831559f197398c1ef38408eabeb7ce20
+size 77

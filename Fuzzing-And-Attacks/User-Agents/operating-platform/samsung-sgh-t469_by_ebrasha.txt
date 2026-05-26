@@ -1,1 +1,3 @@
-SAMSUNG-SGH-T469/T469UVIG4 SHP/VPP/R5 NetFront/3.5 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:148e12a8e42d4954c4f379bf39a8bf423489275554a6811903ac152a09a89ba0
+size 105

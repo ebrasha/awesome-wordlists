@@ -1,1 +1,3 @@
-How can I use email list split testing to improve my email marketing strategy?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9d2b60de3ec96148de829a46ce6b46a3b7137fcd693c2d25a7c193a00efc721
+size 80

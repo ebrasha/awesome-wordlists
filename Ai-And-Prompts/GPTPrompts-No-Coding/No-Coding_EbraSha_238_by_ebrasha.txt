@@ -1,1 +1,3 @@
-How do I optimize workflows for data storage and retrieval in no-code?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcd768e6a05c88fd56be16d92b19c8bacb8b84acad6f12be2eb86954a9ad54f3
+size 72

@@ -1,2 +1,3 @@
-HTC-F5151/1.0 Mozilla/5.0 (BMP; U; en) AppleWebKit/530.8 (KHTML, like Gecko) OBIGO/W10 Safari/530.8
-HTC-F5151/2.18.502.0 Mozilla/5.0 (BMP; U; en) AppleWebKit/530.8 (KHTML, like Gecko) OBIGO/W10 Safari/530.8
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd709971679e6281c8f06c590418258b4c8e12d664c72f247dda5a244536f2e
+size 207

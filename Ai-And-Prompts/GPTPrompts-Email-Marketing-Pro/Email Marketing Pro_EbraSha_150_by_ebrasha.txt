@@ -1,1 +1,3 @@
-How can I use segmentation to optimize my email A/B test results?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e6cadaf1cf6b2774ac09804e9a4fa807f25d2ab2bb9791d5c3b13c364c2786d
+size 67

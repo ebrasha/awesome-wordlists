@@ -1,1 +1,3 @@
-How can I use lead magnets to grow my email list?
+version https://git-lfs.github.com/spec/v1
+oid sha256:185913d58e4d532550987ddea379f428c30b4103892c6678914a63a97ff0305b
+size 51

@@ -1,1 +1,3 @@
-How can I measure the engagement rate of my emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:91873f11106d95d114a39f5a06bcaaccb7af6ba8a72c83589064db425b12ac2c
+size 53

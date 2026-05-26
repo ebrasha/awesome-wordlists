@@ -1,1 +1,3 @@
-How can I use multivariate testing to optimize the layout and design of my email campaigns?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6cadb013edda574275855ee4147c1200b56c282f7502ef5a4107636608f6db9
+size 93

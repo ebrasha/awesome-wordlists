@@ -1,1 +1,3 @@
-Mozilla/5.0 (compatible; Teleca Q7; Brew 3.1.5; U; en) 320X240 LGE VX9200
+version https://git-lfs.github.com/spec/v1
+oid sha256:abad70f16c354d5587838db68340a03dc8045de11d7ced9e1a0495f067a9e80f
+size 74

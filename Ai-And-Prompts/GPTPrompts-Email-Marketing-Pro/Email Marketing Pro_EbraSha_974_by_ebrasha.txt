@@ -1,1 +1,3 @@
-What are the best practices for using landing pages to capture email addresses?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7757a35fd0b39083704e956e1fafd2b8075e25168c44a35a4cdf803d4e614f42
+size 81

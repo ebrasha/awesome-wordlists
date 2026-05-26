@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.2; en-au; HTC_Aria_A6380 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8850a1898831cc3e2b29fb29b46a8cd1b7b1c8ec9d39e8fc91daed29df3e8593
+size 141

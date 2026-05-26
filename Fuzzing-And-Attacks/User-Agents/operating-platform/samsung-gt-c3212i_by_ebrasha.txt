@@ -1,1 +1,3 @@
-SAMSUNG-GT-C3212i/C3212IJPJE4 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:682e6d5b680a9649fe82104a0c4cd384b5d6fd01f2f92ea036286961b74663f5
+size 83

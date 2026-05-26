@@ -1,1 +1,3 @@
-How can I use email list validation to improve my email deliverability?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d9b2ba071f3302b2bf651428ab0f473d67f42fb484037420b9736e1ad3e43dd
+size 73

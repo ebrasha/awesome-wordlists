@@ -1,6 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; GT-S7583T Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.2.2; en-au; GT-S7583T Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; GT-S7583T Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; Android 4.2.2; GT-S7583T Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.2.2; ar-ae; GT-S7583T Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; Android 4.2.2; GT-S7583T Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:459d158ff03a5078fe93f559aafeefbfbc266d7ef1e978d5920556c292390a6f
+size 836

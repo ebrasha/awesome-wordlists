@@ -1,4 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; LG-L40G/V100 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; LG-L40G Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; LG-L40G Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30evme-launcher
-Mozilla/5.0 (Linux; U; Android 4.0.3; es-sa; LG-L40G Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+version https://git-lfs.github.com/spec/v1
+oid sha256:223a0c7add4229b5f83a89238253111065010ed9e21a09d196858e0b8c7aacfb
+size 574

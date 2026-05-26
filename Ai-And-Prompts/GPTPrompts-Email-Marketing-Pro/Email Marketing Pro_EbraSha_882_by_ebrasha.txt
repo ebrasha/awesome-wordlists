@@ -1,1 +1,3 @@
-How can I stay up-to-date with the latest trends and best practices in mobile email optimization?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e23729345871f6c0bae6bb25e2201f0e2aa086385a17164628345289d70353f
+size 99

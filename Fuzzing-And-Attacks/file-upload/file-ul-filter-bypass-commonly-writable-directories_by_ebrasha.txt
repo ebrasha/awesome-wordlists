@@ -1,9 +1,3 @@
-templates_compiled
-templates_c
-templates
-temporary
-images
-cache
-temp
-files
-tmp
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f50ada2632b9b3bdcbc62688409a8489aa0b697c3f0b338bbe1ece8b8f31965
+size 79

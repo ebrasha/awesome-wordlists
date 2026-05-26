@@ -1,1 +1,3 @@
-Mozilla/5.0 CK={WMvFtGKb8BgKGZCwQ8jesoyyfmXJohXIvmxrwxW/YDeNGlwpVNtcZC+g0Tz24o7pM4yLGGT4HioaUwAMGSHOt6uI4HJ48LfDPmBZsPR8N7s6YODYUcuLng==} (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6fe3c631db510349af4bbb236ecbd503bb3b6f5eaa7a9123fb32f5fe793e819
+size 191

@@ -1,1 +1,3 @@
-What are the best practices for designing email signatures?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb14b4fdf87cf6a2ab3df718435ad01014b4096187faec31c6fff2ad19f4eca8
+size 61

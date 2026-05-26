@@ -1,11 +1,3 @@
-SAMSUNG-GT-C3520/C3520DTKL1 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520XWKL1 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520DDKK6 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520DDKK4 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520O2LJ1 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520XELG1 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520XXMA2 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520XXKJ6 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520JPKK2 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520XXKJ7 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-SAMSUNG-GT-C3520/C3520XXMB2 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:6760faffbe9e957c90db260f138249345fd79ed631396f277cc323a858cd4cc7
+size 891

@@ -1,1 +1,3 @@
-How do I handle marketing and sales when scaling my no-code business?
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c5efdc7579747e658885779f736ed74ee72816160dc0740e6f7100fa61bd50
+size 71

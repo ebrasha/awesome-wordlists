@@ -1,1 +1,3 @@
-Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9507V Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f73a9ce5167785c4b877859fc8f9aa8e644f82288648e9ea5965ef1d33abad8
+size 166

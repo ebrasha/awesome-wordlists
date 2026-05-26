@@ -1,2 +1,3 @@
-Mozilla/5.0 (compatible; Teleca Q7; Brew 3.1.5; U; en) 480X800 LGE VX11000
-Mozilla/5.0 (BREW; U; BREW 3.1.5; en) AppleWebKit/525.26 (KHTML, like Gecko) Polaris/7.0 Safari/525.26 480X800 LGE VX11000
+version https://git-lfs.github.com/spec/v1
+oid sha256:86fac48dcfa1e90c1b23480e95d1572e3bd825f791a0ba4a5193dd58f174a371
+size 198

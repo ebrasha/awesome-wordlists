@@ -1,1 +1,3 @@
-What metrics should I track to optimize the performance of my email autoresponders?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bac3d4d66d75f6d782d119775574640ed3ad3c613785cc31ffaca17df6ae0824
+size 85

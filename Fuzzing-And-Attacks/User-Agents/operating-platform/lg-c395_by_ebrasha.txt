@@ -1,2 +1,3 @@
-LG-C395/V10i Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
-LG-C395/V10e Obigo/Q7.3 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:98766d2d83e354d6cbde493ba7f4ff0b3a945a6ccad2038a97382ca07e0b35c5
+size 128

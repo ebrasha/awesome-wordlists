@@ -1,1 +1,3 @@
-How can I optimize the use of screencasts in my emails for mobile devices?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a588cadf5f18687a8e7efd2d15e46fe873a702c499c0020ad030cce89dd302b5
+size 76

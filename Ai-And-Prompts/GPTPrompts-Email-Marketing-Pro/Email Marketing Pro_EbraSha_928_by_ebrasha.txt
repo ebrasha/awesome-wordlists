@@ -1,1 +1,3 @@
-The role of A/B testing in improving the performance of your email newsletter campaigns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:052b943f872fa2f80dd7612c74759a7bd4f8bf3cefa56a16ad897b31d2786b1d
+size 90

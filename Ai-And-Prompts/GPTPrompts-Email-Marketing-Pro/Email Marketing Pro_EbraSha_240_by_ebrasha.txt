@@ -1,1 +1,3 @@
-How can I use email design to improve the accessibility of my templates?
+version https://git-lfs.github.com/spec/v1
+oid sha256:226b5464cc32c6d0b60cf894581127f127407a842c5beae79de5fb2e535b6ab4
+size 74

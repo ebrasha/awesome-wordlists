@@ -1,1 +1,3 @@
-Nokia_turbo Mozilla/5.0 (Linux; Android 8.0; Pixel 2 XL Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3163.98 Mobile Safari/537.36
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eeb619aa13f68959554b0d218cebdc96517e403b3289e6bbd5cb6035474a26f
+size 159

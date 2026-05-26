@@ -1,1 +1,3 @@
-Optimizing email for mobile devices
+version https://git-lfs.github.com/spec/v1
+oid sha256:756b3c4f2d166b8e0de006cb7f49c992ceded5a98ccd6c090c7f5748eb003942
+size 37

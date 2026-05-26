@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S6352 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1  	Cache-Control: no-cache
-Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S6352 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:d486ff0e20b6aabc965097aadb6fae63b8d9a88691b61cdd986696f447612ce2
+size 312

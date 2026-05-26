@@ -1,1 +1,3 @@
-How can I ensure my emails are optimized for touchscreens?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a05371117ff6cd14f39efb3e30807da20c7e340b292af158bfe7052badc9117a
+size 60

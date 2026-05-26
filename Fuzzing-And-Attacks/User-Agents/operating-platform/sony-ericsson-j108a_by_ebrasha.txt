@@ -1,2 +1,3 @@
-SonyEricssonJ108a/R7DA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2
-SonyEricssonJ108a/R7EA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:0312bbbc236c41200ab0892300cb7352c491863e94eec2c81265b73edce47fd6
+size 212

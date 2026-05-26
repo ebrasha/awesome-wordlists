@@ -1,1 +1,3 @@
-ZTE-Z221/1.3.0 NetFront/3.5 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8585c6618b704449fb5e4800ce606ec9ee359d896f3470e72c35db297137467e
+size 75

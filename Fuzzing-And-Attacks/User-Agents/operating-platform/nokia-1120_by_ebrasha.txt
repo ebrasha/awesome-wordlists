@@ -1,1 +1,3 @@
-Nokia1120/2.0 (03.32) Profile/MIDP-2.1 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:384f18acab2635b2f222b8ec648c28d43202ed17c804d689513bf8fa026e897b
+size 62

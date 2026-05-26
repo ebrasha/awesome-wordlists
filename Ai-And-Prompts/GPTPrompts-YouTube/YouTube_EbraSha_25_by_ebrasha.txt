@@ -1,1 +1,3 @@
-What are some tips for creating videos that are optimized for YouTube's recommended video algorithm?
+version https://git-lfs.github.com/spec/v1
+oid sha256:966892866661fb784622d288a79a708f0096401ecda195e4042a2dfbc6956fb5
+size 102

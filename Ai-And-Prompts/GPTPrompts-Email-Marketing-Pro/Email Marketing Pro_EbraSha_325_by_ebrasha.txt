@@ -1,1 +1,3 @@
-How can I make sure that I am getting permission to send emails?
+version https://git-lfs.github.com/spec/v1
+oid sha256:37b78afc798101287de9ce2acc82bd6902d11af94c7dc054ed369051a694db03
+size 66

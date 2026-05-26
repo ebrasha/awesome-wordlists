@@ -1,1 +1,3 @@
-How can I use A/B testing to optimize my email's use of dynamic content based on subscriber behavior and preferences?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3b8e9fed7e608cea645c246f12a37beebdc326cb42a1d394cbe5a917090adc
+size 119

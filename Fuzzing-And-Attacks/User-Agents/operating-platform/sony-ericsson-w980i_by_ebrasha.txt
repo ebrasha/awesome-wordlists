@@ -1,1 +1,3 @@
-SonyEricssonW980i/R1BD001/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8132e371536c01221684ed3e4963728dc268cf85e8e4dbef2dd369127d1e669
+size 83

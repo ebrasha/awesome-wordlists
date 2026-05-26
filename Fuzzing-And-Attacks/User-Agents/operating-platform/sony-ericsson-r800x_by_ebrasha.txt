@@ -1,2 +1,3 @@
-Mozilla/5.0 (Linux; U; Android 2.3.2; en-us; SonyEricssonR800x Build/3.0.E.2.89) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.3.3; en-us; SonyEricssonR800x Build/3.0.1.E.0.88) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:68be01146255636e4ff74e4db6cccafb3830ff431e87c32ff5abca45540947b4
+size 304

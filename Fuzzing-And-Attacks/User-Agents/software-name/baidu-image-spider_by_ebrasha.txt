@@ -1,2 +1,3 @@
-Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
-Baiduspider-image+(+http://www.baidu.com/search/spider.htm)\nReferer: http://image.baidu.com/i?ct=503316480&z=0&tn=baiduimagedetail
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19c626a8e43d579ff1ab3357e93f5d7d51328cd1f7dbc236be1a315e31920d0
+size 192

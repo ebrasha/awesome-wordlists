@@ -1,1 +1,3 @@
-HTC-T9295/UCWEB2.8.1.269/47/355
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2a7ca46301e338d73e1a2e4670b9873a193e1ab98382412ce4936614504c75
+size 32

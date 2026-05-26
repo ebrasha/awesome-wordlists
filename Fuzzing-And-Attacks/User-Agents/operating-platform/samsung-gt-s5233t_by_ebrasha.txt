@@ -1,1 +1,3 @@
-SAMSUNG-GT-S5233T/1.0 SHP/VPP/R5 Jasmine/0.8 NexPlayer/2.12 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3916c75d76cb8d865259dd27bafe422a256270d7c02077101a65db9e24bfe3c
+size 114

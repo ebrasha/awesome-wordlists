@@ -1,1 +1,3 @@
-How can I ensure that my email A/B test results are statistically significant?
+version https://git-lfs.github.com/spec/v1
+oid sha256:688ccabdb299ffb7d7f98dc5b58f8c1346b5ea6a6dc316dd0465453a1a1ea72b
+size 80

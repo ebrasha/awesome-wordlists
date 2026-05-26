@@ -1,1 +1,3 @@
-How can I use automation to send my newsletter?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b98aa2877e874f5a708b43a723d111c689c95f4168fa364f9c65a3c4268838d7
+size 49
