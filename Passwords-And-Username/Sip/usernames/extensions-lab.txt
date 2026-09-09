@@ -1,0 +1,128 @@
+# **********************************************************************
+# -------------------------------------------------------------------
+# Project Name : SIP Red Team Wordlists
+# File Name : extensions-lab.txt
+# Programmer : Ebrahim Shafiei (EbraSha)
+# Email : Prof.Shafiei@Gmail.com
+# Created On : 2026-09-10 00:08:27
+# Description : High-probability numeric SIP extensions for lab and authorized assessments
+# -------------------------------------------------------------------
+#
+# "Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming."
+# - Ebrahim Shafiei
+#
+# **********************************************************************
+#
+# Usage: One extension per line. Expand ranges with seq/awk for full sweeps.
+# Priority order: hunt groups, reception, executive blocks, department blocks.
+#
+100
+101
+102
+103
+104
+105
+110
+111
+112
+200
+201
+202
+210
+211
+212
+300
+301
+302
+400
+401
+500
+501
+600
+700
+800
+900
+1000
+1001
+1002
+1003
+1004
+1005
+1006
+1007
+1008
+1009
+1010
+1100
+1111
+1200
+1234
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2010
+2100
+2200
+2300
+2400
+2500
+3000
+3001
+3010
+3100
+3200
+3300
+3400
+3500
+4000
+4001
+4010
+4100
+4200
+4300
+4400
+4500
+5000
+5001
+5010
+5100
+5200
+5300
+6000
+6100
+6200
+7000
+7100
+7200
+8000
+8100
+8200
+9000
+9100
+9200
+9999
+10000
+10001
+10002
+11000
+12000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+99999
