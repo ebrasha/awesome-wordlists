@@ -1,0 +1,87 @@
+# **********************************************************************
+# -------------------------------------------------------------------
+# Project Name : SIP Red Team Wordlists
+# File Name : attack-sequences.txt
+# Programmer : Ebrahim Shafiei (EbraSha)
+# Email : Prof.Shafiei@Gmail.com
+# Created On : 2026-09-10 00:08:27
+# Description : Recommended attack sequence and tool mapping for authorized SIP assessments
+# -------------------------------------------------------------------
+#
+# "Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming."
+# - Ebrahim Shafiei
+#
+# **********************************************************************
+#
+# AUTHORIZED TESTING ONLY. Ensure written scope and RoE before use.
+#
+# === PHASE 1: ENUMERATION ===
+# 1. svmap / SIPVicious svwar - discover live SIP endpoints
+# 2. sipvicious scan - extension enumeration
+# 3. nmap -sU -p 5060,5061 --script sip-methods
+#
+# === PHASE 2: CREDENTIAL ATTACK (ordered by signal/noise) ===
+#
+# Round 1 - Vendor defaults (highest hit rate on misconfigured gear):
+#   credentials/vendor-default-pairs.txt
+#   passwords/vendor-defaults.txt + usernames/vendor-accounts.txt
+#
+# Round 2 - Extension weak pairs (PBX labs, Asterisk/FreePBX/3CX):
+#   credentials/extension-weak-pairs.txt
+#   usernames/extensions-lab.txt + passwords/synthetic-basic.txt
+#
+# Round 3 - Service/trunk accounts (SBC, gateway, ITSP):
+#   usernames/service-accounts.txt + passwords/vendor-defaults.txt
+#   usernames/service-accounts.txt + passwords/synthetic-basic.txt
+#
+# Round 4 - Policy testing (password complexity rules):
+#   passwords/synthetic-complex.txt
+#   passwords/synthetic-patterns.txt
+#   Combine with Hashcat rules: -r best64.rule, -r dive.rule
+#
+# Round 5 - Full spray (noisy, use last):
+#   credentials/synthetic-user-pass.txt
+#   usernames/synthetic-users.txt + passwords/synthetic-basic.txt
+#
+# === PHASE 3: TOOL EXAMPLES ===
+#
+# SIPVicious auth (credential pairs):
+#   sipvicious auth -u credentials/vendor-default-pairs.txt <target>
+#
+# Hydra SIP digest:
+#   hydra -L usernames/extensions-lab.txt -P passwords/synthetic-basic.txt <target> sip
+#
+# Hashcat combinator (username + pattern password):
+#   hashcat -a 1 -m 0 user_hashes.txt passwords/synthetic-patterns.txt
+#
+# Medusa:
+#   medusa -h <target> -U usernames/vendor-accounts.txt -F passwords/vendor-defaults.txt -M sip
+#
+# === PHASE 4: EXTENSION RANGE EXPANSION ===
+# Generate full extension block (PowerShell example):
+#   1000..1999 | ForEach-Object { $_ } | Out-File extensions-full.txt -Encoding ascii
+#
+# Generate extension=password pairs:
+#   1000..1999 | ForEach-Object { "{0}:{0}" -f $_ } | Out-File ext-self-pairs.txt
+#
+# === OPSEC NOTES ===
+# - Rate-limit attempts to avoid lockout and IDS triggers
+# - Test during approved windows only
+# - Log all attempts for reporting
+# - Prefer credential pairs over full cartesian spray
+# - Use TLS/SIPS port 5061 when UDP 5060 is filtered
+# - Check for IP-based auth bypass before brute force
+#
+# === FILE INVENTORY ===
+# usernames/extensions-lab.txt       - Numeric extensions (curated high-value)
+# usernames/numeric-users-lab.txt    - Numeric non-extension identities
+# usernames/synthetic-users.txt      - General SIP/PBX usernames
+# usernames/service-accounts.txt     - Trunk, SBC, gateway accounts
+# usernames/vendor-accounts.txt      - Vendor default admin identities
+# passwords/synthetic-basic.txt      - Weak/common passwords
+# passwords/synthetic-complex.txt    - Policy-bypass complex passwords
+# passwords/synthetic-patterns.txt   - Pattern-based (ext+year, keyboard)
+# passwords/vendor-defaults.txt        - Equipment factory passwords
+# credentials/synthetic-user-pass.txt - General credential pairs
+# credentials/vendor-default-pairs.txt - Known vendor default pairs
+# credentials/extension-weak-pairs.txt - Extension:weak password pairs
